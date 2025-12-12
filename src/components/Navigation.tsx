@@ -23,10 +23,10 @@ const Navigation = () => {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 h-16 md:h-20 ${
         isScrolled
-          ? "bg-background shadow-subtle py-4"
-          : "bg-background py-6"
+          ? "bg-background shadow-subtle"
+          : "bg-background"
       }`}
     >
       <div className="container-wide">
