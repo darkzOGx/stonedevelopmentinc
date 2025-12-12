@@ -79,27 +79,27 @@ const ContactForm = () => {
   };
 
   return (
-    <section id="contact" className="py-24 md:py-32 bg-background">
-      <div className="container-narrow">
+    <section id="contact" className="py-16 md:py-24 lg:py-32 bg-background">
+      <div className="container-narrow px-5 md:px-8">
         {/* Header */}
-        <div className="text-center mb-16">
-          <h2 className="heading-lg text-foreground mb-4">
+        <div className="text-center mb-10 md:mb-16">
+          <h2 className="text-2xl md:text-3xl lg:text-4xl font-serif text-foreground mb-3 md:mb-4">
             Let's Transform <span className="font-medium">Your</span><br />
             Living Space.
           </h2>
-          <p className="body-base text-muted-foreground mb-2">
+          <p className="text-sm md:text-base text-muted-foreground mb-2">
             Connect with our team using the form below to request a consultation.
           </p>
-          <p className="text-sm text-muted-foreground/70">
+          <p className="text-xs md:text-sm text-muted-foreground/70 leading-relaxed">
             *We always keep your information private and we never share your information with anyone outside of our organization.
           </p>
         </div>
 
         {/* Form */}
-        <form onSubmit={handleSubmit} className="max-w-2xl mx-auto space-y-8">
+        <form onSubmit={handleSubmit} className="max-w-2xl mx-auto space-y-5 md:space-y-8">
           {/* Name */}
-          <div className="border-b border-border pb-6">
-            <label className="block text-base font-medium text-foreground mb-2">
+          <div className="border-b border-border pb-4 md:pb-6">
+            <label className="block text-sm md:text-base font-medium text-foreground mb-1.5 md:mb-2">
               Name*
             </label>
             <Input
@@ -107,15 +107,15 @@ const ContactForm = () => {
               name="name"
               value={formData.name}
               onChange={handleChange}
-              placeholder="Please enter your First & Last Name"
-              className="border-0 border-b border-transparent bg-transparent px-0 text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none"
+              placeholder="First & Last Name"
+              className="border-0 border-b border-transparent bg-transparent px-0 text-sm md:text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none h-10 md:h-11"
             />
-            {errors.name && <p className="text-sm text-destructive mt-2">{errors.name}</p>}
+            {errors.name && <p className="text-xs md:text-sm text-destructive mt-1.5">{errors.name}</p>}
           </div>
 
           {/* Email */}
-          <div className="border-b border-border pb-6">
-            <label className="block text-base font-medium text-foreground mb-2">
+          <div className="border-b border-border pb-4 md:pb-6">
+            <label className="block text-sm md:text-base font-medium text-foreground mb-1.5 md:mb-2">
               Email Address*
             </label>
             <Input
@@ -123,15 +123,15 @@ const ContactForm = () => {
               name="email"
               value={formData.email}
               onChange={handleChange}
-              placeholder="Please provide the best email for electronic communication."
-              className="border-0 border-b border-transparent bg-transparent px-0 text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none"
+              placeholder="your@email.com"
+              className="border-0 border-b border-transparent bg-transparent px-0 text-sm md:text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none h-10 md:h-11"
             />
-            {errors.email && <p className="text-sm text-destructive mt-2">{errors.email}</p>}
+            {errors.email && <p className="text-xs md:text-sm text-destructive mt-1.5">{errors.email}</p>}
           </div>
 
           {/* Phone */}
-          <div className="border-b border-border pb-6">
-            <label className="block text-base font-medium text-foreground mb-2">
+          <div className="border-b border-border pb-4 md:pb-6">
+            <label className="block text-sm md:text-base font-medium text-foreground mb-1.5 md:mb-2">
               Phone Number*
             </label>
             <Input
@@ -139,15 +139,15 @@ const ContactForm = () => {
               name="phone"
               value={formData.phone}
               onChange={handleChange}
-              placeholder="Please provide best phone number for call and text communication."
-              className="border-0 border-b border-transparent bg-transparent px-0 text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none"
+              placeholder="(555) 123-4567"
+              className="border-0 border-b border-transparent bg-transparent px-0 text-sm md:text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none h-10 md:h-11"
             />
-            {errors.phone && <p className="text-sm text-destructive mt-2">{errors.phone}</p>}
+            {errors.phone && <p className="text-xs md:text-sm text-destructive mt-1.5">{errors.phone}</p>}
           </div>
 
           {/* Project Address */}
-          <div className="border-b border-border pb-6">
-            <label className="block text-base font-medium text-foreground mb-2">
+          <div className="border-b border-border pb-4 md:pb-6">
+            <label className="block text-sm md:text-base font-medium text-foreground mb-1.5 md:mb-2">
               Project Address
             </label>
             <Input
@@ -155,14 +155,14 @@ const ContactForm = () => {
               name="address"
               value={formData.address}
               onChange={handleChange}
-              placeholder="Please provide your project address."
-              className="border-0 border-b border-transparent bg-transparent px-0 text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none"
+              placeholder="123 Main St, City, State"
+              className="border-0 border-b border-transparent bg-transparent px-0 text-sm md:text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none h-10 md:h-11"
             />
           </div>
 
           {/* Project Type */}
-          <div className="border-b border-border pb-6">
-            <label className="block text-base font-medium text-foreground mb-2">
+          <div className="border-b border-border pb-4 md:pb-6">
+            <label className="block text-sm md:text-base font-medium text-foreground mb-1.5 md:mb-2">
               Project Type
             </label>
             <Input
@@ -170,34 +170,34 @@ const ContactForm = () => {
               name="projectType"
               value={formData.projectType}
               onChange={handleChange}
-              placeholder="e.g., Kitchen Remodel, New Construction, ADU"
-              className="border-0 border-b border-transparent bg-transparent px-0 text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none"
+              placeholder="e.g., Kitchen Remodel, ADU"
+              className="border-0 border-b border-transparent bg-transparent px-0 text-sm md:text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none h-10 md:h-11"
             />
           </div>
 
           {/* Message */}
-          <div className="border-b border-border pb-6">
-            <label className="block text-base font-medium text-foreground mb-2">
+          <div className="border-b border-border pb-4 md:pb-6">
+            <label className="block text-sm md:text-base font-medium text-foreground mb-1.5 md:mb-2">
               Tell Us About Your Project*
             </label>
             <Textarea
               name="message"
               value={formData.message}
               onChange={handleChange}
-              placeholder="Please describe your project goals and any specific requirements."
-              rows={4}
-              className="border-0 border-b border-transparent bg-transparent px-0 text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none resize-none"
+              placeholder="Describe your project goals..."
+              rows={3}
+              className="border-0 border-b border-transparent bg-transparent px-0 text-sm md:text-base focus-visible:ring-0 focus-visible:border-foreground rounded-none resize-none min-h-[80px] md:min-h-[100px]"
             />
-            {errors.message && <p className="text-sm text-destructive mt-2">{errors.message}</p>}
+            {errors.message && <p className="text-xs md:text-sm text-destructive mt-1.5">{errors.message}</p>}
           </div>
 
           {/* Submit */}
-          <div className="pt-4 text-center">
+          <div className="pt-2 md:pt-4 text-center">
             <Button 
               type="submit" 
               variant="outline" 
               size="lg" 
-              className="px-12"
+              className="w-full md:w-auto px-8 md:px-12 h-11 md:h-12 text-sm md:text-base"
               disabled={isSubmitting}
             >
               {isSubmitting ? "Sending..." : "Submit Request"}
