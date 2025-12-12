@@ -1,10 +1,12 @@
+import logo from "@/assets/logo.png";
+
 const CredentialsSection = () => {
   return (
     <section className="py-24 md:py-32 bg-charcoal">
       <div className="container-narrow text-center">
-        {/* Script Logo / Monogram */}
+        {/* Company Logo */}
         <div className="mb-10">
-          <span className="font-serif text-5xl md:text-6xl italic text-cream/80">S</span>
+          <img src={logo} alt="Stone Development Inc" className="h-14 mx-auto invert opacity-80" />
         </div>
 
         <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl text-cream font-medium mb-4 italic">
