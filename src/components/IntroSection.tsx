@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import logo from "@/assets/logo.png";
 
 const IntroSection = () => {
   return (
@@ -19,10 +20,8 @@ const IntroSection = () => {
         {/* Divider */}
         <div className="w-12 h-px bg-border mx-auto mb-8" />
 
-        {/* Company Name */}
-        <p className="font-serif text-lg font-medium text-foreground tracking-wide mb-10">
-          STONE DEVELOPMENT
-        </p>
+        {/* Company Logo */}
+        <img src={logo} alt="Stone Development Inc" className="h-12 mx-auto mb-10" />
 
         <Button variant="outline" size="lg" className="px-8">
           Book a Consultation
