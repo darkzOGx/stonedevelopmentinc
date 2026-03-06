@@ -5,6 +5,7 @@ import projectBathroom from "@/assets/project-bathroom.jpg";
 import projectAddition from "@/assets/project-addition.jpg";
 import projectAdu from "@/assets/project-adu.jpg";
 import projectExterior from "@/assets/project-exterior.jpg";
+import projectExteriorAfter from "@/assets/project-exterior-after.jpg";
 
 const projects = [
   {
