@@ -6,6 +6,7 @@ import projectAddition from "@/assets/project-addition.jpg";
 import projectAdu from "@/assets/project-adu.jpg";
 import projectExterior from "@/assets/project-exterior.jpg";
 import projectExteriorAfter from "@/assets/project-exterior-after.jpg";
+import projectInteriorProgress from "@/assets/project-interior-progress.jpg";
 
 const projects = [
   {
@@ -37,6 +38,12 @@ const projects = [
     title: "Contemporary Home Addition",
     category: "New Construction",
     size: "medium",
+  },
+  {
+    image: projectInteriorProgress,
+    title: "Full Home Renovation",
+    category: "Interior Remodeling",
+    size: "large",
   },
   {
     image: projectAdu,
