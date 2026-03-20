@@ -15,10 +15,6 @@ export function Hero() {
       >
         <source src="/videos/hero-video.mp4" type="video/mp4" />
       </video>
-      <div 
-        className="absolute inset-0 z-0 bg-cover bg-center md:hidden" 
-        style={{ backgroundImage: "url('/assets/hero-interior.jpg')" }} 
-      />
       <div className="absolute inset-0 bg-gradient-to-t from-black/95 via-black/60 to-black/50 z-10 noise-bg" />
       
       <div className="relative z-20 max-w-7xl w-full mx-auto px-6 flex flex-col items-center text-center mt-20">
