@@ -1,17 +1,29 @@
 'use client';
+import { useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
 import { Button } from '@/components/ui/Button';
 import Link from 'next/link';
 
 export function Hero() {
+  const videoRef = useRef<HTMLVideoElement>(null);
+
+  useEffect(() => {
+    const video = videoRef.current;
+    if (video) {
+      video.play().catch(() => {});
+    }
+  }, []);
+
   return (
     <section className="relative h-screen w-full flex items-center justify-center overflow-hidden bg-black">
       <video
+        ref={videoRef}
         autoPlay
         muted
         loop
         playsInline
-        className="absolute inset-0 w-full h-full object-cover z-0"
+        controls={false}
+        className="absolute inset-0 w-full h-full object-cover z-0 [&::-webkit-media-controls]:hidden [&::-webkit-media-controls-play-button]:hidden [&::-webkit-media-controls-start-playback-button]:hidden"
       >
         <source src="/videos/hero-video.mp4" type="video/mp4" />
       </video>
