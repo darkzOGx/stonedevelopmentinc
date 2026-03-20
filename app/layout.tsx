@@ -6,6 +6,7 @@ import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 import { SupportBubble } from '@/components/ui/SupportBubble';
 import { ExitIntentModal } from '@/components/ui/ExitIntentModal';
+import { Analytics } from '@vercel/analytics/next';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 const cormorant = Cormorant_Garamond({ 
@@ -84,6 +85,7 @@ export default function RootLayout({
         <Footer />
         <SupportBubble />
         <ExitIntentModal />
+        <Analytics />
       </body>
     </html>
   );
