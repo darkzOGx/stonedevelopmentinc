@@ -1,6 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import { Shield, Clock, MapPin, BadgeCheck } from 'lucide-react';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { StatBadge } from '@/components/ui/StatBadge';
 import { Button } from '@/components/ui/Button';
@@ -40,10 +41,10 @@ export function About() {
             viewport={{ once: true }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            <StatBadge text="Licensed & Bonded" />
+            <StatBadge text="Licensed & Bonded" icon={Shield} />
             <StatBadge num={20} text="Years Experience" suffix="+" />
-            <StatBadge text="Local Expertise" />
-            <StatBadge text="Fully Insured" />
+            <StatBadge text="Local Expertise" icon={MapPin} />
+            <StatBadge text="Fully Insured" icon={BadgeCheck} />
           </motion.div>
 
         </div>

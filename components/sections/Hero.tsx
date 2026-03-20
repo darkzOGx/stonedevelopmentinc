@@ -15,7 +15,7 @@ export function Hero() {
   }, []);
 
   return (
-    <section className="relative h-screen w-full flex items-center justify-center overflow-hidden bg-black">
+    <section className="relative h-dvh w-full flex items-center justify-center overflow-hidden bg-black">
       <video
         ref={videoRef}
         autoPlay
@@ -29,7 +29,7 @@ export function Hero() {
       </video>
       <div className="absolute inset-0 bg-gradient-to-t from-black/95 via-black/60 to-black/50 z-10 noise-bg" />
       
-      <div className="relative z-20 max-w-7xl w-full mx-auto px-6 flex flex-col items-center text-center mt-20">
+      <div className="relative z-20 max-w-7xl w-full mx-auto px-6 flex flex-col items-center text-center mt-24 md:mt-20">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -41,7 +41,7 @@ export function Hero() {
         </motion.div>
 
         <motion.h1 
-          className="text-5xl md:text-7xl lg:text-[90px] xl:text-[100px] leading-[1.05] font-serif font-light tracking-tight text-white mb-8 max-w-5xl"
+          className="text-4xl md:text-7xl lg:text-[90px] xl:text-[100px] leading-[1.05] font-serif font-light tracking-tight text-white mb-4 md:mb-8 max-w-5xl"
           initial="hidden"
           animate="visible"
           variants={{
@@ -67,7 +67,7 @@ export function Hero() {
         </motion.h1>
 
         <motion.p 
-          className="text-lg md:text-xl md:text-2xl text-white/80 max-w-3xl mb-12 font-light tracking-wide leading-relaxed drop-shadow-md"
+          className="text-base md:text-xl md:text-2xl text-white/80 max-w-3xl mb-6 md:mb-12 font-light tracking-wide leading-relaxed drop-shadow-md"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
@@ -77,7 +77,7 @@ export function Hero() {
         </motion.p>
 
         <motion.div 
-          className="mb-8 w-32 md:w-40 mx-auto"
+          className="mb-4 md:mb-8 w-24 md:w-40 mx-auto"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.5 }}
@@ -86,7 +86,7 @@ export function Hero() {
         </motion.div>
 
         <motion.div 
-          className="flex flex-col sm:flex-row gap-6 w-full sm:w-auto"
+          className="flex flex-col sm:flex-row gap-4 md:gap-6 w-full sm:w-auto"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.6 }}

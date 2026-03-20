@@ -1,8 +1,9 @@
 'use client';
 import { motion, useInView, animate } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
+import { type LucideIcon } from "lucide-react";
 
-export function StatBadge({ text, num, suffix = "" }: { text: string; num?: number; suffix?: string; }) {
+export function StatBadge({ text, num, suffix = "", icon: Icon }: { text: string; num?: number; suffix?: string; icon?: LucideIcon; }) {
   const ref = useRef<HTMLDivElement>(null);
   const isInView = useInView(ref, { once: true, margin: "-50px" });
   const [count, setCount] = useState(0);
@@ -31,6 +32,8 @@ export function StatBadge({ text, num, suffix = "" }: { text: string; num?: numb
           {count}
           <span className="text-3xl">{suffix}</span>
         </div>
+      ) : Icon ? (
+        <Icon size={32} strokeWidth={1.5} className="text-accent mb-4 group-hover:scale-110 transition-transform duration-500" />
       ) : (
         <div className="h-2 w-12 bg-accent mb-6 group-hover:w-16 transition-all duration-500" />
       )}
