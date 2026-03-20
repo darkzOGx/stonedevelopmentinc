@@ -16,6 +16,12 @@ export function Hero() {
 
   return (
     <section className="relative h-dvh w-full flex items-center justify-center overflow-hidden bg-black">
+      {/* Static image on mobile, video on desktop */}
+      <img
+        src="/hero-still.jpg"
+        alt=""
+        className="absolute inset-0 w-full h-full object-cover z-0 md:hidden"
+      />
       <video
         ref={videoRef}
         autoPlay
@@ -23,7 +29,7 @@ export function Hero() {
         loop
         playsInline
         controls={false}
-        className="absolute inset-0 w-full h-full object-cover z-0 [&::-webkit-media-controls]:hidden [&::-webkit-media-controls-play-button]:hidden [&::-webkit-media-controls-start-playback-button]:hidden"
+        className="absolute inset-0 w-full h-full object-cover z-0 hidden md:block"
       >
         <source src="/videos/hero-video.mp4" type="video/mp4" />
       </video>
