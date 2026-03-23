@@ -1,0 +1,60 @@
+{
+  "generatedPosts": [
+    {
+      "id": 1,
+      "slug": "kitchen-remodel-cost-irvine-2026",
+      "title": "What Does a Kitchen Remodel Cost in Irvine in 2026?",
+      "date": "2026-03-23",
+      "category": "Kitchen Remodeling",
+      "contentType": "cluster",
+      "targetCities": ["Irvine"],
+      "format": 4,
+      "primaryKeyword": "kitchen remodel cost irvine",
+      "hubParent": "kitchen-remodeling-guide-southern-california"
+    },
+    {
+      "id": 2,
+      "slug": "adu-construction-costa-mesa-what-to-expect",
+      "title": "What to Expect During ADU Construction at Your Costa Mesa Home",
+      "date": "2026-03-23",
+      "category": "ADU Construction",
+      "contentType": "cluster",
+      "targetCities": ["Costa Mesa"],
+      "format": 6,
+      "primaryKeyword": "adu construction costa mesa",
+      "hubParent": "adu-construction-guide-california"
+    },
+    {
+      "id": 3,
+      "slug": "master-bath-vs-guest-bath-remodel-newport-beach",
+      "title": "Master Bath vs. Guest Bath Remodel: What Newport Beach Homeowners Choose",
+      "date": "2026-03-23",
+      "category": "Bathroom Remodeling",
+      "contentType": "cluster",
+      "targetCities": ["Newport Beach"],
+      "format": 3,
+      "primaryKeyword": "bathroom remodel newport beach",
+      "hubParent": "bathroom-remodeling-guide-orange-county"
+    }
+  ],
+  "lastGenerated": "2026-03-23T12:00:00.000Z",
+  "topicCoverage": {
+    "Kitchen Remodeling": 1,
+    "ADU Construction": 1,
+    "Bathroom Remodeling": 1
+  },
+  "cityCoverage": {
+    "Irvine": 1,
+    "Costa Mesa": 1,
+    "Newport Beach": 1
+  },
+  "formatRotation": {
+    "lastUsed": 3,
+    "history": [4, 6, 3]
+  },
+  "clusterProgress": {
+    "kitchen-remodeling-guide-southern-california": 1,
+    "adu-construction-guide-california": 1,
+    "bathroom-remodeling-guide-orange-county": 1
+  }
+}
