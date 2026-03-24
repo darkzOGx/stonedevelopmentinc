@@ -4,7 +4,7 @@ import ContactClient from './ContactClient';
 export const metadata: Metadata = {
   title: 'Contact Us | Stone Development Inc.',
   description: 'Get in touch with Stone Development Inc. to schedule a consultation for your next luxury construction project in Southern California.',
-  alternates: { canonical: 'https://stonedevelopmentinc.com/contact' }
+  alternates: { canonical: 'https://www.stonedevelopmentinc.com/contact' }
 }
 
 export default function ContactPage() {

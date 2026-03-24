@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { BLOG_POSTS } from '@/src/data/blog-posts';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://stonedevelopmentinc.com';
+  const baseUrl = 'https://www.stonedevelopmentinc.com';
 
   const staticPages: MetadataRoute.Sitemap = [
     {

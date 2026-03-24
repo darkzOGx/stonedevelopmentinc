@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: post.metaTitle,
     description: post.metaDescription,
     alternates: {
-      canonical: `https://stonedevelopmentinc.com/blog/${post.slug}`,
+      canonical: `https://www.stonedevelopmentinc.com/blog/${post.slug}`,
     },
     openGraph: {
       title: post.metaTitle,
@@ -50,20 +50,20 @@ export default async function BlogPost({ params }: Props) {
     author: {
       '@type': 'Organization',
       name: 'Stone Development Inc.',
-      url: 'https://stonedevelopmentinc.com',
+      url: 'https://www.stonedevelopmentinc.com',
     },
     publisher: {
       '@type': 'Organization',
       name: 'Stone Development Inc.',
-      url: 'https://stonedevelopmentinc.com',
+      url: 'https://www.stonedevelopmentinc.com',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://stonedevelopmentinc.com/logo.png',
+        url: 'https://www.stonedevelopmentinc.com/logo.png',
       },
     },
     datePublished: post.date,
     dateModified: post.lastUpdated,
-    mainEntityOfPage: `https://stonedevelopmentinc.com/blog/${post.slug}`,
+    mainEntityOfPage: `https://www.stonedevelopmentinc.com/blog/${post.slug}`,
     reviewedBy: {
       '@type': 'Organization',
       name: 'Stone Development Inc.',
@@ -92,19 +92,19 @@ export default async function BlogPost({ params }: Props) {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://stonedevelopmentinc.com',
+        item: 'https://www.stonedevelopmentinc.com',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://stonedevelopmentinc.com/blog',
+        item: 'https://www.stonedevelopmentinc.com/blog',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: post.title,
-        item: `https://stonedevelopmentinc.com/blog/${post.slug}`,
+        item: `https://www.stonedevelopmentinc.com/blog/${post.slug}`,
       },
     ],
   };

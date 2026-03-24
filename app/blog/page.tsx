@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Blog | Stone Development Inc. — Construction Insights & Guides',
   description:
     'Expert construction guides, cost breakdowns, and renovation tips for Southern California homeowners. Kitchen remodels, ADUs, bathroom renovations, and more.',
-  alternates: { canonical: 'https://stonedevelopmentinc.com/blog' },
+  alternates: { canonical: 'https://www.stonedevelopmentinc.com/blog' },
 };
 
 export default function BlogPage() {

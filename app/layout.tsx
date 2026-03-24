@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://stonedevelopmentinc.com',
+    url: 'https://www.stonedevelopmentinc.com',
     siteName: 'Stone Development Inc.',
     title: 'Stone Development Inc | Luxury Construction in Southern California',
     description: 'Uncompromising craft to every residential and commercial project — from the first blueprint to the final finish.',
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     images: ['/exit-intent-picture.jpg']
   },
   alternates: {
-    canonical: 'https://stonedevelopmentinc.com'
+    canonical: 'https://www.stonedevelopmentinc.com'
   }
 };
 
@@ -43,9 +43,9 @@ const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'GeneralContractor',
   name: 'Stone Development Inc.',
-  image: 'https://stonedevelopmentinc.com/logo.png',
-  '@id': 'https://stonedevelopmentinc.com',
-  url: 'https://stonedevelopmentinc.com',
+  image: 'https://www.stonedevelopmentinc.com/logo.png',
+  '@id': 'https://www.stonedevelopmentinc.com',
+  url: 'https://www.stonedevelopmentinc.com',
   telephone: '+19495086763',
   address: {
     '@type': 'PostalAddress',

@@ -10,7 +10,7 @@ import { ContactForm } from '@/components/sections/ContactForm';
 export const metadata: Metadata = {
   title: 'Stone Development Inc | Luxury Construction & General Contractor',
   description: "Stone Development brings uncompromising craft to every residential and commercial project in Southern California. Premier licensed, bonded, and insured contractors.",
-  alternates: { canonical: 'https://stonedevelopmentinc.com' }
+  alternates: { canonical: 'https://www.stonedevelopmentinc.com' }
 };
 
 export default function Home() {
