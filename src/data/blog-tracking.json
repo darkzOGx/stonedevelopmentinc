@@ -35,26 +35,41 @@
       "format": 3,
       "primaryKeyword": "bathroom remodel newport beach",
       "hubParent": "bathroom-remodeling-guide-orange-county"
+    },
+    {
+      "id": 4,
+      "slug": "room-addition-myths-mission-viejo",
+      "title": "5 Things Mission Viejo Homeowners Get Wrong About Room Additions",
+      "date": "2026-03-24",
+      "category": "Home Additions",
+      "contentType": "cluster",
+      "targetCities": ["Mission Viejo"],
+      "format": 5,
+      "primaryKeyword": "room addition mission viejo",
+      "hubParent": "home-additions-guide-orange-county"
     }
   ],
-  "lastGenerated": "2026-03-23T12:00:00.000Z",
+  "lastGenerated": "2026-03-24T12:00:00.000Z",
   "topicCoverage": {
     "Kitchen Remodeling": 1,
     "ADU Construction": 1,
-    "Bathroom Remodeling": 1
+    "Bathroom Remodeling": 1,
+    "Home Additions": 1
   },
   "cityCoverage": {
     "Irvine": 1,
     "Costa Mesa": 1,
-    "Newport Beach": 1
+    "Newport Beach": 1,
+    "Mission Viejo": 1
   },
   "formatRotation": {
-    "lastUsed": 3,
-    "history": [4, 6, 3]
+    "lastUsed": 5,
+    "history": [4, 6, 3, 5]
   },
   "clusterProgress": {
     "kitchen-remodeling-guide-southern-california": 1,
     "adu-construction-guide-california": 1,
-    "bathroom-remodeling-guide-orange-county": 1
+    "bathroom-remodeling-guide-orange-county": 1,
+    "home-additions-guide-orange-county": 1
   }
 }

@@ -1005,4 +1005,228 @@ export const BLOG_POSTS: BlogPost[] = [
       "Stone Development Inc. compares master vs. guest bathroom remodel options for Newport Beach homeowners. Master bath: $80K-$120K+. Guest bath: $10K-$25K. Includes coastal material guidance, ROI data, and timelines. Licensed GC #1146382. Free consultations. Call (949) 508-6763.",
     indexPriority: 0.8,
   },
+  {
+    id: 4,
+    slug: "room-addition-myths-mission-viejo",
+    title: "5 Things Mission Viejo Homeowners Get Wrong About Room Additions",
+    metaTitle: "Room Addition Myths in Mission Viejo (2026)",
+    metaDescription: "Room additions in Mission Viejo cost $80K-$250K+. Learn 5 common myths about permits, timelines, and costs. Get a free estimate. Call (949) 508-6763.",
+    excerpt: "Mission Viejo homeowners planning room additions face persistent myths about costs, permits, and timelines. Here are 5 misconceptions we correct on every project intake call.",
+    content: `<article>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">Room additions in Mission Viejo cost $80,000\u2013$250,000+ and take 4\u20138 months from permit to completion. Most homeowners underestimate permit timelines, foundation costs on 1970s-era lots, and the structural complexity of tying new construction into existing tract homes. Below, we break down the 5 myths that derail Mission Viejo addition projects.</p>
+</div>
+
+<p>Planning a room addition in Mission Viejo? <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">Request a free consultation</a> or call <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">After completing 50+ room additions across Orange County in the past three years alone, our team at Stone Development Inc. (CA License #1146382) has identified a pattern: Mission Viejo homeowners walk into their first consultation armed with assumptions from online forums, neighbor anecdotes, and contractor quotes that omit critical line items. The city\u2019s housing stock \u2014 predominantly 1970s and 1980s tract homes built by Mission Viejo Company \u2014 creates unique structural and permitting realities that generic advice fails to address. Just 12 minutes from our Irvine headquarters, Mission Viejo is one of our most active markets for additions and expansions.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Is the First Myth About Room Additions in Mission Viejo?</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Myth #1: "A Room Addition Is Just Building an Extra Room"</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The reality: a room addition in Mission Viejo is a structural integration project. You are tying new framing, a new foundation, new roofline, and new mechanical systems into a 45-50 year old building envelope. In the Lake Mission Viejo and Oso Creek neighborhoods, most homes sit on post-tension slab foundations poured in the 1970s. Cutting into or building adjacent to a post-tension slab requires a structural engineer\u2019s analysis ($3,000\u2013$6,000) before a single permit application is filed.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">In our 20+ years building across Southern California, we have seen addition projects stall for months because the homeowner\u2019s original contractor treated the addition as a standalone structure rather than an integrated extension. The roofline tie-in alone \u2014 matching the pitch, material, and drainage pattern of the existing roof \u2014 accounts for 8\u201312% of total project cost on Mission Viejo tract homes.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">For a deeper look at what drives addition costs, see our <a href="/blog/kitchen-remodel-cost-irvine-2026" style="color: #B8892A;">breakdown of remodel pricing in Orange County</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Long Do Room Addition Permits Take in Mission Viejo?</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Myth #2: "Permits Take 2\u20134 Weeks"</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The City of Mission Viejo Community Development Department processes building permits through a plan check cycle that averages 6\u20138 weeks for room additions as of early 2026. Second-story additions trigger additional structural review and a mandatory geological assessment in hillside zones near Oso Creek, extending plan check to 10\u201314 weeks. Mission Viejo processed 1,247 residential building permits in 2025, up 11% from the prior year \u2014 increased volume extends review timelines.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">California Title 24 energy compliance adds another layer. Every room addition in California requires Title 24 energy calculations demonstrating that the new space meets current insulation, glazing, and HVAC efficiency standards \u2014 even when the existing home was built to 1975 standards. A Title 24 report runs $500\u2013$1,200 and must accompany the permit application.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">As licensed general contractors (CA License #1146382), we handle permit applications, plan check responses, and inspection scheduling as part of our design-build process \u2014 homeowners never stand in a permit counter line.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Get Your Free Room Addition Estimate</h3>
+  <p style="margin-bottom: 1rem;">Spring 2026 is the ideal window to break ground on a Mission Viejo room addition. Start your permit process now to begin construction by early summer.</p>
+  <a href="/contact?service=room-addition" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Request Free Estimate</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Do Room Additions Actually Cost in Mission Viejo?</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Myth #3: "You Can Add a Room for $40,000\u2013$50,000"</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">In 2026 Southern California, $40,000\u2013$50,000 covers demolition, foundation, and framing on a 200-square-foot addition \u2014 before a single finish is installed. The complete cost for a room addition in Mission Viejo breaks down as follows:</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem; text-align: left;">Addition Type</th>
+        <th style="padding: 0.75rem; text-align: left;">Cost Range (2026)</th>
+        <th style="padding: 0.75rem; text-align: left;">Cost per Sq Ft</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem;">Single-room ground floor (200\u2013400 sq ft)</td>
+        <td style="padding: 0.75rem;">$80,000\u2013$150,000</td>
+        <td style="padding: 0.75rem;">$350\u2013$450</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem;">Primary suite addition (400\u2013600 sq ft)</td>
+        <td style="padding: 0.75rem;">$150,000\u2013$250,000</td>
+        <td style="padding: 0.75rem;">$375\u2013$475</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem;">Second-story addition (500\u20131,000 sq ft)</td>
+        <td style="padding: 0.75rem;">$200,000\u2013$400,000+</td>
+        <td style="padding: 0.75rem;">$400\u2013$550</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem;">Family room / great room (300\u2013500 sq ft)</td>
+        <td style="padding: 0.75rem;">$100,000\u2013$200,000</td>
+        <td style="padding: 0.75rem;">$325\u2013$425</td>
+      </tr>
+      <tr style="background: #F5F3EF; border-top: 2px solid #B8892A;">
+        <td style="padding: 0.75rem; font-weight: 700;">Typical Mission Viejo range</td>
+        <td style="padding: 0.75rem; font-weight: 700;">$80,000\u2013$250,000+</td>
+        <td style="padding: 0.75rem; font-weight: 700;">$325\u2013$550</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Mission Viejo\u2019s median home price reached $1.05M in Q1 2026, making a $150,000\u2013$200,000 addition a 14\u201319% investment relative to home value \u2014 well within the range that produces positive ROI at resale. Room additions in Orange County recoup 50\u201365% of cost at resale, with primary suite additions at the high end of that range.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Can You Live in Your Mission Viejo Home During a Room Addition?</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Myth #4: "We\u2019ll Need to Move Out for Months"</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">For ground-floor room additions, homeowners stay in the house for the full project duration in 90%+ of our Mission Viejo projects. The addition is built outward from the existing structure \u2014 the interior connection point (where the new room ties into the existing house) is the only area requiring temporary barriers and rerouting. That tie-in phase lasts 1\u20132 weeks.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Second-story additions are different. When we add a second floor to a single-story home in the Lake Mission Viejo area, the structural shoring and roof removal phase creates 2\u20134 weeks where the home is not fully weather-sealed. We advise temporary relocation during that window. On a recent second-story addition near Marguerite Parkway, our clients moved to a short-term rental for 3 weeks during the roof transition, then returned home for the remaining 14 weeks of construction.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Browse completed addition projects in our <a href="/portfolio" style="color: #B8892A; font-weight: 600;">project portfolio</a> to see how we manage the construction-to-living-space transition.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Does a Room Addition Require Upgrading Your Entire Home\u2019s Systems?</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Myth #5: "Adding a Room Means Rewiring and Replumbing the Whole House"</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">This myth has a kernel of truth that gets exaggerated. A room addition requires extending electrical, HVAC, and (if applicable) plumbing systems to the new space. It does not automatically require replacing the existing home\u2019s systems \u2014 unless those systems are undersized or unsafe.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Here is where Mission Viejo\u2019s 1970s-80s housing stock creates a specific reality: many homes in the Oso Creek and Lake Mission Viejo neighborhoods still run on original 100-amp or 150-amp electrical panels. A room addition with HVAC, lighting, and outlets draws 30\u201360 additional amps. If your existing panel is at capacity, an electrical panel upgrade to 200 amps ($3,500\u2013$6,500 installed) becomes a required line item \u2014 not because code forces a whole-house rewire, but because the panel cannot support the additional load.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Per the 2025 California Residential Code, the new addition must meet current energy standards (Title 24), but existing rooms are grandfathered unless you\u2019re modifying more than 50% of the home\u2019s conditioned floor area. Licensed electricians in Orange County charge $95\u2013$145 per hour in 2026 \u2014 budget accordingly for the electrical scope.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Our transparent pricing process includes a detailed written estimate covering every line item before we break ground. We provide free, no-obligation consultations for all Mission Viejo homeowners \u2014 <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">schedule yours today</a>.</p>
+
+<div class="reviewed-by" style="background: #F5F3EF; padding: 1rem 1.5rem; border-radius: 4px; margin: 2rem 0;">
+  <p style="font-size: 0.875rem; color: #555;">
+    <strong>Reviewed by Stone Development Inc.</strong> \u2014 Licensed General Contractor, CA License #1146382.
+    20+ years of experience in residential and commercial construction across Southern California.
+    <a href="/contact" style="color: #B8892A;">Schedule a free consultation</a>.
+  </p>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin-bottom: 1.5rem;">Frequently Asked Questions About Room Additions in Mission Viejo</h2>
+
+<div class="faq-section">
+  <h3>How Much Does a Room Addition Cost in Mission Viejo?</h3>
+  <p><span class="faq-answer">Room additions in Mission Viejo cost $80,000\u2013$250,000+ depending on size and complexity. Ground-floor additions run $325\u2013$450 per square foot; second-story additions run $400\u2013$550 per square foot as of 2026.</span></p>
+
+  <h3>How Long Does a Room Addition Take in Mission Viejo?</h3>
+  <p><span class="faq-answer">Plan for 4\u20138 months total: 6\u201314 weeks for permits and plan check, then 12\u201320 weeks for construction. Second-story additions and hillside lots near Oso Creek extend timelines by 4\u20136 weeks.</span></p>
+
+  <h3>Do I Need a Permit for a Room Addition in Mission Viejo?</h3>
+  <p><span class="faq-answer">Yes. Every room addition in Mission Viejo requires building, electrical, mechanical, and plumbing permits. The City of Mission Viejo Community Development Department reviews all addition plans through a formal plan check process.</span></p>
+
+  <h3>What Is the ROI on a Room Addition in Orange County?</h3>
+  <p><span class="faq-answer">Room additions in Orange County recoup 50\u201365% of cost at resale. Primary suite additions deliver the highest return. On Mission Viejo\u2019s $1.05M median home, a $150,000 addition adds $75,000\u2013$97,000 in market value.</span></p>
+
+  <h3>Can I Add a Second Story to My Mission Viejo Home?</h3>
+  <p><span class="faq-answer">Yes, with structural engineering approval. Most 1970s-80s Mission Viejo tract homes require foundation reinforcement for a second story. A structural engineer\u2019s assessment ($3,000\u2013$6,000) determines feasibility before permitting begins.</span></p>
+
+  <h3>Will a Room Addition Trigger a Property Tax Reassessment?</h3>
+  <p><span class="faq-answer">Only the new square footage is reassessed under Proposition 13. Your existing home\u2019s assessed value stays unchanged. A 400-square-foot addition in Mission Viejo adds approximately $1,800\u2013$3,200 per year in property taxes.</span></p>
+</div>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Ready to Plan Your Room Addition?</h3>
+  <p style="margin-bottom: 1rem;">Licensed, bonded, and insured with 20+ years in Orange County. We handle design, permits, and construction \u2014 one contract, one point of contact.</p>
+  <a href="/contact?service=room-addition" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Schedule Consultation</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<div class="cta-final" style="background: linear-gradient(135deg, #141414 0%, #1a1a1a 100%); color: #F5F3EF; padding: 2.5rem; border-radius: 8px; margin: 3rem 0; text-align: center; border: 1px solid #B8892A;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.75rem; color: #B8892A; margin-bottom: 0.5rem;">Start Your Room Addition Today</h3>
+  <p style="font-size: 1.1rem; margin-bottom: 0.5rem;">Licensed, bonded &amp; insured. 20+ years in Southern California.</p>
+  <p style="margin-bottom: 1.5rem;">CA License #1146382</p>
+  <a href="/contact?service=room-addition" style="display: inline-block; background: #B8892A; color: #141414; padding: 1rem 2.5rem; border-radius: 4px; text-decoration: none; font-weight: 700; font-size: 1.1rem; margin-right: 1rem;">Get Your Free Consultation</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 1rem 2.5rem; border-radius: 4px; text-decoration: none; font-weight: 600; font-size: 1.1rem;">Call (949) 508-6763</a>
+  <p style="margin-top: 1.5rem; font-size: 0.875rem; opacity: 0.8;">Mon-Fri 8:00 AM - 6:00 PM | Free estimates for all projects</p>
+</div>
+
+</article>`,
+    category: "Home Additions",
+    date: "2026-03-24",
+    lastUpdated: "2026-03-24",
+    readTime: "10 min read",
+    author: "Stone Development Inc.",
+    image: "/images/blog/room-addition-mission-viejo.jpg",
+    imageAlt: "Room addition construction in progress at a Mission Viejo, California home by Stone Development Inc.",
+    featured: false,
+    contentType: "cluster",
+    hubPage: false,
+    relatedSlugs: [
+      "kitchen-remodel-cost-irvine-2026",
+      "adu-construction-costa-mesa-what-to-expect",
+      "master-bath-vs-guest-bath-remodel-newport-beach",
+    ],
+    primaryKeyword: "room addition mission viejo",
+    secondaryKeywords: [
+      "home addition cost orange county",
+      "mission viejo room addition permit",
+      "adding a room mission viejo",
+      "second story addition mission viejo",
+    ],
+    targetCities: ["Mission Viejo"],
+    geoRadius: "tight",
+    ctaServiceType: "room-addition",
+    faq: [
+      {
+        question: "How much does a room addition cost in Mission Viejo?",
+        answer:
+          "Room additions in Mission Viejo cost $80,000-$250,000+ depending on size and complexity. Ground-floor additions run $325-$450 per square foot; second-story additions run $400-$550 per square foot as of 2026.",
+      },
+      {
+        question: "How long does a room addition take in Mission Viejo?",
+        answer:
+          "Plan for 4-8 months total: 6-14 weeks for permits and plan check, then 12-20 weeks for construction. Second-story additions and hillside lots near Oso Creek extend timelines.",
+      },
+      {
+        question: "Do I need a permit for a room addition in Mission Viejo?",
+        answer:
+          "Yes. Every room addition in Mission Viejo requires building, electrical, mechanical, and plumbing permits through the City's Community Development Department.",
+      },
+      {
+        question: "What is the ROI on a room addition in Orange County?",
+        answer:
+          "Room additions in Orange County recoup 50-65% of cost at resale. On Mission Viejo's $1.05M median home, a $150,000 addition adds $75,000-$97,000 in market value.",
+      },
+      {
+        question: "Can I add a second story to my Mission Viejo home?",
+        answer:
+          "Yes, with structural engineering approval. Most 1970s-80s tract homes require foundation reinforcement. A structural engineer's assessment ($3,000-$6,000) determines feasibility.",
+      },
+      {
+        question:
+          "Will a room addition trigger a property tax reassessment?",
+        answer:
+          "Only the new square footage is reassessed under Proposition 13. A 400-square-foot addition adds approximately $1,800-$3,200 per year in property taxes.",
+      },
+    ],
+    reviewQuotes: [],
+    gbpSummary:
+      "Stone Development Inc. debunks 5 common myths about room additions for Mission Viejo homeowners. Costs: $80K-$250K+. Permits: 6-14 weeks. Covers foundation, electrical, and second-story feasibility for 1970s-80s tract homes. Licensed GC #1146382. Free consultations. Call (949) 508-6763.",
+    indexPriority: 0.8,
+  },
 ];
