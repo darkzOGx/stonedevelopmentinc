@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -27,77 +28,39 @@ export const metadata: Metadata = {
 // JSON-LD Schemas
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: 'Your Remodeling Project Timeline: What to Expect',
+const jsonLd = buildResourceSchemas({
+  slug: 'project-timeline',
+  title: 'Your Remodeling Project Timeline: What to Expect',
   description:
     'A complete remodeling timeline for Orange County homeowners covering all 8 phases from initial consultation through final walkthrough.',
-  url: 'https://www.stonedevelopmentinc.com/resources/project-timeline',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
-  datePublished: '2026-03-01',
-  dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'How long does a kitchen remodel take in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'A kitchen remodel in Orange County takes 8 to 14 weeks from demolition to final walkthrough, with permitting adding 2 to 6 weeks before construction begins.',
-      },
+      question: 'How long does a kitchen remodel take in Orange County?',
+      answer:
+        'A kitchen remodel in Orange County takes 8 to 14 weeks from demolition to final walkthrough, with permitting adding 2 to 6 weeks before construction begins.',
     },
     {
-      '@type': 'Question',
-      name: 'What is the longest phase of a home remodel?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Finish work is the longest phase, lasting 2 to 6 weeks. This includes drywall, painting, cabinetry installation, countertops, flooring, tile, and fixture placement.',
-      },
+      question: 'What is the longest phase of a home remodel?',
+      answer:
+        'Finish work is the longest phase, lasting 2 to 6 weeks. This includes drywall, painting, cabinetry installation, countertops, flooring, tile, and fixture placement.',
     },
     {
-      '@type': 'Question',
-      name: 'How long does it take to get a building permit in Irvine?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Building permits in Irvine take 4 to 6 weeks for standard residential remodels. Complex projects involving structural changes or ADUs take 6 to 8 weeks.',
-      },
+      question: 'How long does it take to get a building permit in Irvine?',
+      answer:
+        'Building permits in Irvine take 4 to 6 weeks for standard residential remodels. Complex projects involving structural changes or ADUs take 6 to 8 weeks.',
     },
     {
-      '@type': 'Question',
-      name: 'Can I live in my home during a remodel?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes, for most single-room remodels like kitchens or bathrooms. Full home renovations require temporary housing for 4 to 8 months during active construction.',
-      },
+      question: 'Can I live in my home during a remodel?',
+      answer:
+        'Yes, for most single-room remodels like kitchens or bathrooms. Full home renovations require temporary housing for 4 to 8 months during active construction.',
     },
     {
-      '@type': 'Question',
-      name: 'What causes the most delays in residential construction?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Permit delays and material lead times cause the most construction delays in Southern California. Ordering materials 8 to 12 weeks early and submitting complete permit packages prevent 90% of schedule overruns.',
-      },
+      question: 'What causes the most delays in residential construction?',
+      answer:
+        'Permit delays and material lead times cause the most construction delays in Southern California. Ordering materials 8 to 12 weeks early and submitting complete permit packages prevent 90% of schedule overruns.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // Timeline Phase Data
@@ -227,15 +190,7 @@ export default function ProjectTimelinePage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">

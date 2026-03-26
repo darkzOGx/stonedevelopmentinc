@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { BudgetCalculator } from '@/components/ui/BudgetCalculator';
 import { CTABanner } from '@/components/sections/CTABanner';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -28,61 +29,29 @@ export const metadata: Metadata = {
 // JSON-LD Schemas
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: 'Free Remodeling Budget Calculator',
+const jsonLd = buildResourceSchemas({
+  slug: 'budget-calculator',
+  title: 'Free Remodeling Budget Calculator',
   description:
     'Calculate your remodeling budget instantly with accurate cost estimates for kitchen remodels, bathroom renovations, ADUs, and more in Southern California.',
-  url: 'https://www.stonedevelopmentinc.com/resources/budget-calculator',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
-  datePublished: '2026-03-01',
-  dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'How accurate is this budget calculator?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Our calculator uses 2026 market data from completed projects across Southern California. Estimates reflect real contractor pricing within a 10-15% margin for most residential projects.',
-      },
+      question: 'How accurate is this budget calculator?',
+      answer:
+        'Our calculator uses 2026 market data from completed projects across Southern California. Estimates reflect real contractor pricing within a 10-15% margin for most residential projects.',
     },
     {
-      '@type': 'Question',
-      name: 'Why does remodeling cost more in Orange County than the Inland Empire?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Orange County has higher labor rates, stricter permitting requirements, and elevated material delivery costs compared to the Inland Empire. These factors create a 15-20% price differential on comparable projects.',
-      },
+      question: 'Why does remodeling cost more in Orange County than the Inland Empire?',
+      answer:
+        'Orange County has higher labor rates, stricter permitting requirements, and elevated material delivery costs compared to the Inland Empire. These factors create a 15-20% price differential on comparable projects.',
     },
     {
-      '@type': 'Question',
-      name: 'What factors affect construction cost beyond square footage?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Structural modifications, permit complexity, site access, material selections, mechanical system upgrades, and local code requirements all influence final cost beyond simple square footage calculations.',
-      },
+      question: 'What factors affect construction cost beyond square footage?',
+      answer:
+        'Structural modifications, permit complexity, site access, material selections, mechanical system upgrades, and local code requirements all influence final cost beyond simple square footage calculations.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#speakable-summary'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // Page
@@ -93,15 +62,7 @@ export default function BudgetCalculatorPage() {
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       {/* Hero */}

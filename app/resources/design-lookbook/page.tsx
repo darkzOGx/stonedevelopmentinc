@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -27,77 +28,40 @@ export const metadata: Metadata = {
 // JSON-LD Schemas
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: 'Design Inspiration Lookbook: Trending Styles for Southern California Homes',
+const jsonLd = buildResourceSchemas({
+  slug: 'design-lookbook',
+  title: 'Design Inspiration Lookbook: Trending Styles for Southern California Homes',
   description:
     'Curated 2026 design trends and style guides for Orange County home remodels including Modern Coastal, Contemporary Minimalist, Transitional Luxury, Mediterranean Revival, California Indoor-Outdoor, and Bold Modern aesthetics.',
-  url: 'https://www.stonedevelopmentinc.com/resources/design-lookbook',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
   datePublished: '2026-03-15',
-  dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'What is the most popular kitchen design style in Orange County in 2026?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Transitional Luxury is the most popular kitchen design style in Orange County, chosen for 42% of remodels because it blends traditional warmth with modern clean lines.',
-      },
+      question: 'What is the most popular kitchen design style in Orange County in 2026?',
+      answer:
+        'Transitional Luxury is the most popular kitchen design style in Orange County, chosen for 42% of remodels because it blends traditional warmth with modern clean lines.',
     },
     {
-      '@type': 'Question',
-      name: 'How much does a Modern Coastal kitchen remodel cost in Newport Beach?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'A Modern Coastal kitchen remodel in Newport Beach costs $65,000 to $150,000 depending on materials, with white oak cabinetry and natural stone driving the premium.',
-      },
+      question: 'How much does a Modern Coastal kitchen remodel cost in Newport Beach?',
+      answer:
+        'A Modern Coastal kitchen remodel in Newport Beach costs $65,000 to $150,000 depending on materials, with white oak cabinetry and natural stone driving the premium.',
     },
     {
-      '@type': 'Question',
-      name: 'What design style works best for newer Irvine homes?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Contemporary Minimalist works best for newer Irvine homes because the clean architecture and open floor plans align perfectly with streamlined cabinetry and monochromatic palettes.',
-      },
+      question: 'What design style works best for newer Irvine homes?',
+      answer:
+        'Contemporary Minimalist works best for newer Irvine homes because the clean architecture and open floor plans align perfectly with streamlined cabinetry and monochromatic palettes.',
     },
     {
-      '@type': 'Question',
-      name: 'Can I mix design styles in my Orange County home remodel?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes. The most successful Orange County remodels blend two complementary styles, such as Modern Coastal in shared spaces and Bold Modern in the primary bath, maintaining cohesion through consistent flooring and hardware.',
-      },
+      question: 'Can I mix design styles in my Orange County home remodel?',
+      answer:
+        'Yes. The most successful Orange County remodels blend two complementary styles, such as Modern Coastal in shared spaces and Bold Modern in the primary bath, maintaining cohesion through consistent flooring and hardware.',
     },
     {
-      '@type': 'Question',
-      name: 'What are the top home design trends in Southern California for 2026?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'The top 2026 Southern California design trends are warm minimalism, integrated smart home technology, European wet rooms, mixed metal hardware, and sculptural statement range hoods.',
-      },
+      question: 'What are the top home design trends in Southern California for 2026?',
+      answer:
+        'The top 2026 Southern California design trends are warm minimalism, integrated smart home technology, European wet rooms, mixed metal hardware, and sculptural statement range hoods.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // Style Card Component
@@ -190,15 +154,7 @@ export default function DesignLookbookPage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">

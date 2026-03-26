@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemasWithHowTo } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -29,169 +30,106 @@ export const metadata: Metadata = {
 // JSON-LD Schemas
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: 'Contractor Vetting Checklist: 15 Questions Before You Hire',
+const jsonLd = buildResourceSchemasWithHowTo({
+  slug: 'contractor-checklist',
+  title: "The Homeowner's 15-Point Contractor Vetting Checklist",
   description:
     'The complete 15-point checklist for hiring a contractor in Southern California. Verify licenses, insurance, references, and contracts before signing.',
-  url: 'https://www.stonedevelopmentinc.com/resources/contractor-checklist',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
+  faqs: [
+    {
+      question: 'How do I check if a contractor is licensed in California?',
+      answer:
+        'Visit cslb.ca.gov and enter the contractor name or license number. The CSLB database shows license status, classification, bond, and complaint history.',
+    },
+    {
+      question: 'How much should I pay a contractor upfront in California?',
+      answer:
+        'California law limits upfront payments to 10% of the contract price or $1,000, whichever is less. Remaining payments tie to completed milestones.',
+    },
+    {
+      question: 'What insurance should a contractor have?',
+      answer:
+        "A contractor needs general liability insurance (minimum $1,000,000) and workers' compensation coverage for all employees on the job site.",
+    },
+    {
+      question: 'How do I protect myself from contractor fraud?',
+      answer:
+        'Verify CSLB license, confirm insurance, never pay cash, get a detailed written contract, and require lien waivers from all subcontractors and suppliers.',
+    },
+    {
+      question: "What is a mechanic's lien and how do I prevent one?",
+      answer:
+        "A mechanic's lien lets unpaid subcontractors or suppliers place a legal claim on your property. Require unconditional lien waivers with every payment to prevent this.",
+    },
+  ],
+  howTo: {
+    name: 'How to Vet a General Contractor in Southern California',
+    description:
+      'A 15-step process for verifying a contractor before you sign a contract. Covers license verification, insurance, references, contracts, and red flags.',
+    steps: [
+      {
+        name: 'Verify Their Contractor License',
+        text: 'Look up the contractor on the California CSLB website at cslb.ca.gov. Confirm the license is active, in good standing, and matches the correct classification for your project.',
+      },
+      {
+        name: 'Confirm General Liability Insurance',
+        text: 'Request a certificate of insurance showing a minimum $1,000,000 general liability policy. Ask to be named as additional insured for the duration of the project.',
+      },
+      {
+        name: "Verify Workers' Compensation Coverage",
+        text: "Confirm the contractor carries workers' compensation insurance for all employees. This is required by California law and protects you from liability if a worker is injured on your property.",
+      },
+      {
+        name: 'Check Their Bond Status',
+        text: 'California requires a $25,000 contractor bond. Verify the bond is current through the CSLB license lookup tool.',
+      },
+      {
+        name: 'Request and Call References',
+        text: 'Ask for at least three references from recent projects similar in scope to yours. Call each reference and ask about communication, timeline adherence, and job-site cleanup.',
+      },
+      {
+        name: 'Review Their Portfolio In Person',
+        text: 'Visit a completed project in person if possible. Photos are curated and do not reveal finish quality, alignment, or craftsmanship the way a walkthrough does.',
+      },
+      {
+        name: 'Get Everything in Writing',
+        text: 'Require a detailed written contract that includes full scope of work, materials specified by brand and model, start and end dates, and a payment schedule.',
+      },
+      {
+        name: 'Understand the Payment Schedule',
+        text: 'California law caps upfront payments at 10% of the contract price or $1,000, whichever is less. All subsequent payments must be tied to completed milestones.',
+      },
+      {
+        name: 'Ask About Permits',
+        text: 'Your contractor must pull all required building permits. If they suggest skipping permits, end the conversation immediately. Unpermitted work destroys resale value.',
+      },
+      {
+        name: 'Clarify the Change Order Process',
+        text: 'Establish a written change order process before work begins. Every change must be documented with updated pricing and timeline impact before any additional work proceeds.',
+      },
+      {
+        name: 'Discuss Lien Waivers',
+        text: 'Require unconditional lien waivers from all subcontractors and material suppliers upon each payment. This protects you from mechanic liens filed by unpaid third parties.',
+      },
+      {
+        name: 'Confirm Warranty Terms',
+        text: 'Get written warranty terms covering a minimum of one year on workmanship. Verify that manufacturer warranties on materials are registered and transferred to you.',
+      },
+      {
+        name: 'Evaluate Communication Style',
+        text: 'Ask how the contractor communicates, how often you will receive updates, and who your daily point of contact will be. Set communication expectations before work begins.',
+      },
+      {
+        name: 'Ask About Subcontractor Management',
+        text: 'Find out who the regular subcontractors are, whether they are licensed and insured, and who supervises work on-site every day.',
+      },
+      {
+        name: 'Trust Your Instincts',
+        text: 'If anything feels off during vetting, it will be worse during construction. Walk away from contractors who pressure you to sign fast, demand cash-only payments, or lack a physical office.',
+      },
+    ],
   },
-  datePublished: '2026-03-01',
-  dateModified: '2026-03-25',
-};
-
-const howToSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'HowTo',
-  name: 'How to Vet a General Contractor in Southern California',
-  description:
-    'A 15-step process for verifying a contractor before you sign a contract. Covers license verification, insurance, references, contracts, and red flags.',
-  totalTime: 'PT2H',
-  step: [
-    {
-      '@type': 'HowToStep',
-      position: 1,
-      name: 'Verify Their Contractor License',
-      text: 'Look up the contractor on the California CSLB website at cslb.ca.gov. Confirm the license is active, in good standing, and matches the correct classification for your project.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 2,
-      name: 'Confirm General Liability Insurance',
-      text: 'Request a certificate of insurance showing a minimum $1,000,000 general liability policy. Ask to be named as additional insured for the duration of the project.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 3,
-      name: "Verify Workers' Compensation Coverage",
-      text: "Confirm the contractor carries workers' compensation insurance for all employees. This is required by California law and protects you from liability if a worker is injured on your property.",
-    },
-    {
-      '@type': 'HowToStep',
-      position: 4,
-      name: 'Check Their Bond Status',
-      text: 'California requires a $25,000 contractor bond. Verify the bond is current through the CSLB license lookup tool.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 5,
-      name: 'Request and Call References',
-      text: 'Ask for at least three references from recent projects similar in scope to yours. Call each reference and ask about communication, timeline adherence, and job-site cleanup.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 6,
-      name: 'Review Their Portfolio In Person',
-      text: 'Visit a completed project in person if possible. Photos are curated and do not reveal finish quality, alignment, or craftsmanship the way a walkthrough does.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 7,
-      name: 'Get Everything in Writing',
-      text: 'Require a detailed written contract that includes full scope of work, materials specified by brand and model, start and end dates, and a payment schedule.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 8,
-      name: 'Understand the Payment Schedule',
-      text: 'California law caps upfront payments at 10% of the contract price or $1,000, whichever is less. All subsequent payments must be tied to completed milestones.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 9,
-      name: 'Ask About Permits',
-      text: 'Your contractor must pull all required building permits. If they suggest skipping permits, end the conversation immediately. Unpermitted work destroys resale value.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 10,
-      name: 'Clarify the Change Order Process',
-      text: 'Establish a written change order process before work begins. Every change must be documented with updated pricing and timeline impact before any additional work proceeds.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 11,
-      name: 'Discuss Lien Waivers',
-      text: 'Require unconditional lien waivers from all subcontractors and material suppliers upon each payment. This protects you from mechanic liens filed by unpaid third parties.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 12,
-      name: 'Confirm Warranty Terms',
-      text: 'Get written warranty terms covering a minimum of one year on workmanship. Verify that manufacturer warranties on materials are registered and transferred to you.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 13,
-      name: 'Evaluate Communication Style',
-      text: 'Ask how the contractor communicates, how often you will receive updates, and who your daily point of contact will be. Set communication expectations before work begins.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 14,
-      name: 'Ask About Subcontractor Management',
-      text: 'Find out who the regular subcontractors are, whether they are licensed and insured, and who supervises work on-site every day.',
-    },
-    {
-      '@type': 'HowToStep',
-      position: 15,
-      name: 'Trust Your Instincts',
-      text: 'If anything feels off during vetting, it will be worse during construction. Walk away from contractors who pressure you to sign fast, demand cash-only payments, or lack a physical office.',
-    },
-  ],
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
-    {
-      '@type': 'Question',
-      name: 'How do I check if a contractor is licensed in California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Visit cslb.ca.gov and enter the contractor name or license number. The CSLB database shows license status, classification, bond, and complaint history.',
-      },
-    },
-    {
-      '@type': 'Question',
-      name: 'How much should I pay a contractor upfront in California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'California law limits upfront payments to 10% of the contract price or $1,000, whichever is less. Remaining payments tie to completed milestones.',
-      },
-    },
-    {
-      '@type': 'Question',
-      name: 'What insurance should a contractor have?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: "A contractor needs general liability insurance (minimum $1,000,000) and workers' compensation coverage for all employees on the job site.",
-      },
-    },
-    {
-      '@type': 'Question',
-      name: 'How do I protect myself from contractor fraud?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Verify CSLB license, confirm insurance, never pay cash, get a detailed written contract, and require lien waivers from all subcontractors and suppliers.',
-      },
-    },
-    {
-      '@type': 'Question',
-      name: 'What is a mechanic\'s lien and how do I prevent one?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: "A mechanic's lien lets unpaid subcontractors or suppliers place a legal claim on your property. Require unconditional lien waivers with every payment to prevent this.",
-      },
-    },
-  ],
-};
+});
 
 // ---------------------------------------------------------------------------
 // Page
@@ -203,15 +141,7 @@ export default function ContractorChecklistPage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">

@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -26,80 +27,44 @@ export const metadata: Metadata = {
 };
 
 // ---------------------------------------------------------------------------
-// JSON-LD Schemas
+// JSON-LD Schema (unified graph via shared utility)
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: "The SoCal Homeowner's Permit Guide",
+const jsonLd = buildResourceSchemas({
+  slug: 'permit-guide',
+  title: "The SoCal Homeowner's Permit Guide",
   description:
     'Complete guide to building permits in Orange County and LA County, California. Which projects require permits, costs, timelines, and consequences of unpermitted work.',
-  url: 'https://www.stonedevelopmentinc.com/resources/permit-guide',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
   datePublished: '2026-03-01',
   dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'Do I need a permit for a kitchen remodel in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes. Any kitchen remodel that involves moving walls, relocating plumbing, adding electrical circuits, or modifying gas lines requires a building permit in every Orange County city.',
-      },
+      question: 'Do I need a permit for a kitchen remodel in Orange County?',
+      answer:
+        'Yes. Any kitchen remodel that involves moving walls, relocating plumbing, adding electrical circuits, or modifying gas lines requires a building permit in every Orange County city.',
     },
     {
-      '@type': 'Question',
-      name: 'How much does a building permit cost in Irvine, California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Building permit costs in Irvine range from $300 for an electrical panel upgrade to $15,000 or more for an ADU, based on project valuation and the city fee schedule.',
-      },
+      question: 'How much does a building permit cost in Irvine, California?',
+      answer:
+        'Building permit costs in Irvine range from $300 for an electrical panel upgrade to $15,000 or more for an ADU, based on project valuation and the city fee schedule.',
     },
     {
-      '@type': 'Question',
-      name: 'How long does it take to get a building permit in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Plan check review in most Orange County cities takes 2 to 6 weeks. Irvine averages 3 to 4 weeks. Newport Beach coastal overlay projects add 4 to 8 additional weeks.',
-      },
+      question: 'How long does it take to get a building permit in Orange County?',
+      answer:
+        'Plan check review in most Orange County cities takes 2 to 6 weeks. Irvine averages 3 to 4 weeks. Newport Beach coastal overlay projects add 4 to 8 additional weeks.',
     },
     {
-      '@type': 'Question',
-      name: 'What happens if I remodel without a permit in California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Remodeling without a permit in California results in stop-work orders, double permit fees as a penalty, insurance claim denials, title issues at resale, and personal liability for injuries.',
-      },
+      question: 'What happens if I remodel without a permit in California?',
+      answer:
+        'Remodeling without a permit in California results in stop-work orders, double permit fees as a penalty, insurance claim denials, title issues at resale, and personal liability for injuries.',
     },
     {
-      '@type': 'Question',
-      name: 'Do I need a permit to replace a water heater in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes. Water heater replacement requires a plumbing and mechanical permit in all Orange County jurisdictions per the California Plumbing Code and California Mechanical Code.',
-      },
+      question: 'Do I need a permit to replace a water heater in Orange County?',
+      answer:
+        'Water heater replacement requires a plumbing and mechanical permit in all Orange County jurisdictions per the California Plumbing Code and California Mechanical Code.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // Permit Requirement Table Component
@@ -153,15 +118,7 @@ export default function PermitGuidePage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">

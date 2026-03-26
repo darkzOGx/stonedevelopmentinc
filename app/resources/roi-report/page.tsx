@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -29,77 +30,39 @@ export const metadata: Metadata = {
 // JSON-LD Schemas
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: 'Remodeling ROI Report: Which Upgrades Pay Off in Southern California',
+const jsonLd = buildResourceSchemas({
+  slug: 'roi-report',
+  title: 'Remodeling ROI Report: Which Upgrades Pay Off in Southern California',
   description:
     'Data-driven remodeling ROI report for Orange County and Southern California covering kitchen, bathroom, ADU, and full renovation return on investment.',
-  url: 'https://www.stonedevelopmentinc.com/resources/roi-report',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
-  datePublished: '2026-03-01',
-  dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'What home renovation has the highest ROI in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'A mid-range kitchen remodel delivers the highest ROI in Orange County at 75-85%, recouping an average of $52,000 on a $65,000 investment.',
-      },
+      question: 'What home renovation has the highest ROI in Orange County?',
+      answer:
+        'A mid-range kitchen remodel delivers the highest ROI in Orange County at 75-85%, recouping an average of $52,000 on a $65,000 investment.',
     },
     {
-      '@type': 'Question',
-      name: 'Do ADUs increase home value in Southern California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes. ADUs increase home value by $150,000 to $250,000 in Orange County and generate $1,800 to $3,200 per month in rental income, delivering 60-80% ROI plus ongoing cash flow.',
-      },
+      question: 'Do ADUs increase home value in Southern California?',
+      answer:
+        'Yes. ADUs increase home value by $150,000 to $250,000 in Orange County and generate $1,800 to $3,200 per month in rental income, delivering 60-80% ROI plus ongoing cash flow.',
     },
     {
-      '@type': 'Question',
-      name: 'Is a swimming pool a good investment in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'No. Swimming pools return only 40-50% of their cost at resale in Orange County despite buyer interest, making them one of the lowest-ROI renovations.',
-      },
+      question: 'Is a swimming pool a good investment in Orange County?',
+      answer:
+        'No. Swimming pools return only 40-50% of their cost at resale in Orange County despite buyer interest, making them one of the lowest-ROI renovations.',
     },
     {
-      '@type': 'Question',
-      name: 'How long before selling should I renovate for maximum ROI?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Renovate 6 to 12 months before listing to maximize ROI. This window allows construction to finish, materials to settle, and listing photos to showcase a move-in-ready home.',
-      },
+      question: 'How long before selling should I renovate for maximum ROI?',
+      answer:
+        'Renovate 6 to 12 months before listing to maximize ROI. This window allows construction to finish, materials to settle, and listing photos to showcase a move-in-ready home.',
     },
     {
-      '@type': 'Question',
-      name: 'What is the average ROI on a bathroom remodel in California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'A mid-range bathroom remodel in Southern California returns 70-80% of its cost at resale, with average spend of $25,000 to $40,000 and recoup of $20,000 to $30,000.',
-      },
+      question: 'What is the average ROI on a bathroom remodel in California?',
+      answer:
+        'A mid-range bathroom remodel in Southern California returns 70-80% of its cost at resale, with average spend of $25,000 to $40,000 and recoup of $20,000 to $30,000.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // ROI Table Component
@@ -159,15 +122,7 @@ export default function ROIReportPage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">

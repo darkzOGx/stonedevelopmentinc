@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -27,77 +28,39 @@ export const metadata: Metadata = {
 // JSON-LD Schemas
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: 'ADU Planning Starter Kit for Orange County Homeowners',
+const jsonLd = buildResourceSchemas({
+  slug: 'adu-starter-kit',
+  title: 'ADU Planning Starter Kit for Orange County Homeowners',
   description:
     'Complete ADU planning resource covering California regulations, Orange County permit timelines, cost breakdowns, and a step-by-step planning checklist.',
-  url: 'https://www.stonedevelopmentinc.com/resources/adu-starter-kit',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
-  datePublished: '2026-03-01',
-  dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'How much does it cost to build an ADU in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'A detached ADU in Orange County costs $150,000 to $350,000. Garage conversions start at $60,000.',
-      },
+      question: 'How much does it cost to build an ADU in Orange County?',
+      answer:
+        'A detached ADU in Orange County costs $150,000 to $350,000. Garage conversions start at $60,000.',
     },
     {
-      '@type': 'Question',
-      name: 'How long does it take to get an ADU permit in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Orange County cities process ADU permits in 60 to 90 days under California streamlined review requirements.',
-      },
+      question: 'How long does it take to get an ADU permit in Orange County?',
+      answer:
+        'Orange County cities process ADU permits in 60 to 90 days under California streamlined review requirements.',
     },
     {
-      '@type': 'Question',
-      name: 'What is the maximum size for an ADU in California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'California allows 850 square feet for a one-bedroom ADU and 1,000 square feet for two or more bedrooms.',
-      },
+      question: 'What is the maximum size for an ADU in California?',
+      answer:
+        'California allows 850 square feet for a one-bedroom ADU and 1,000 square feet for two or more bedrooms.',
     },
     {
-      '@type': 'Question',
-      name: 'Do I need owner-occupancy to build an ADU in California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'No. California eliminated owner-occupancy requirements for ADUs through 2025 and extended the exemption indefinitely.',
-      },
+      question: 'Do I need owner-occupancy to build an ADU in California?',
+      answer:
+        'No. California eliminated owner-occupancy requirements for ADUs through 2025 and extended the exemption indefinitely.',
     },
     {
-      '@type': 'Question',
-      name: 'Can I build an ADU if I have an HOA in Irvine?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes. California law AB 1033 prohibits HOAs from blocking ADU construction. HOAs cannot deny your ADU application.',
-      },
+      question: 'Can I build an ADU if I have an HOA in Irvine?',
+      answer:
+        'Yes. California law AB 1033 prohibits HOAs from blocking ADU construction. HOAs cannot deny your ADU application.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // ADU Cost Table Component
@@ -149,15 +112,7 @@ export default function AduStarterKitPage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">

@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -27,77 +28,39 @@ export const metadata: Metadata = {
 // JSON-LD Schemas
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: '2026 Southern California Remodeling Cost Guide',
+const jsonLd = buildResourceSchemas({
+  slug: 'cost-guide',
+  title: '2026 Southern California Remodeling Cost Guide',
   description:
     'Accurate 2026 remodeling costs for Southern California including kitchen, bathroom, ADU, and full home renovation pricing.',
-  url: 'https://www.stonedevelopmentinc.com/resources/cost-guide',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
-  datePublished: '2026-03-01',
-  dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'How much does a kitchen remodel cost in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'A kitchen remodel in Orange County costs $35,000 to $250,000 depending on scope, with mid-range projects averaging $65,000 to $120,000.',
-      },
+      question: 'How much does a kitchen remodel cost in Orange County?',
+      answer:
+        'A kitchen remodel in Orange County costs $35,000 to $250,000 depending on scope, with mid-range projects averaging $65,000 to $120,000.',
     },
     {
-      '@type': 'Question',
-      name: 'What is the average cost to build an ADU in California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Building an ADU in Southern California costs $150,000 to $375,000 depending on size, with a typical one-bedroom unit at $200,000 to $275,000.',
-      },
+      question: 'What is the average cost to build an ADU in California?',
+      answer:
+        'Building an ADU in Southern California costs $150,000 to $375,000 depending on size, with a typical one-bedroom unit at $200,000 to $275,000.',
     },
     {
-      '@type': 'Question',
-      name: 'How long does a full home renovation take?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'A full home renovation in Southern California takes 4 to 12 months depending on scope, permits, and material lead times.',
-      },
+      question: 'How long does a full home renovation take?',
+      answer:
+        'A full home renovation in Southern California takes 4 to 12 months depending on scope, permits, and material lead times.',
     },
     {
-      '@type': 'Question',
-      name: 'Do I need a permit for a bathroom remodel in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes. Any bathroom remodel involving plumbing, electrical, or structural changes requires a building permit from your local Orange County jurisdiction.',
-      },
+      question: 'Do I need a permit for a bathroom remodel in Orange County?',
+      answer:
+        'Yes. Any bathroom remodel involving plumbing, electrical, or structural changes requires a building permit from your local Orange County jurisdiction.',
     },
     {
-      '@type': 'Question',
-      name: 'What is the most cost-effective home renovation?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Bathroom remodels and kitchen updates deliver the highest ROI in Southern California, returning 60-80% of investment at resale.',
-      },
+      question: 'What is the most cost-effective home renovation?',
+      answer:
+        'Bathroom remodels and kitchen updates deliver the highest ROI in Southern California, returning 60-80% of investment at resale.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // Cost Table Component
@@ -149,15 +112,7 @@ export default function CostGuidePage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">

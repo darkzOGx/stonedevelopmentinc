@@ -30,16 +30,54 @@ export const metadata: Metadata = {
 
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'CollectionPage',
-  name: 'Free Resources for Homeowners',
-  description:
-    'Free cost guides, budget calculators, contractor checklists, and expert renovation resources for Southern California homeowners.',
-  url: 'https://www.stonedevelopmentinc.com/resources',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
+  '@graph': [
+    {
+      '@type': 'CollectionPage',
+      '@id': 'https://www.stonedevelopmentinc.com/resources/#webpage',
+      url: 'https://www.stonedevelopmentinc.com/resources',
+      name: 'Free Resources for Homeowners',
+      description:
+        'Free cost guides, budget calculators, contractor checklists, and expert renovation resources for Southern California homeowners.',
+      isPartOf: { '@id': 'https://www.stonedevelopmentinc.com/#website' },
+      publisher: { '@id': 'https://www.stonedevelopmentinc.com/#organization' },
+      breadcrumb: { '@id': 'https://www.stonedevelopmentinc.com/resources/#breadcrumb' },
+    },
+    {
+      '@type': 'BreadcrumbList',
+      '@id': 'https://www.stonedevelopmentinc.com/resources/#breadcrumb',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: 'Home',
+          item: 'https://www.stonedevelopmentinc.com',
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: 'Resources',
+          item: 'https://www.stonedevelopmentinc.com/resources',
+        },
+      ],
+    },
+    {
+      '@type': 'Organization',
+      '@id': 'https://www.stonedevelopmentinc.com/#organization',
+      name: 'Stone Development Inc.',
+      url: 'https://www.stonedevelopmentinc.com',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://www.stonedevelopmentinc.com/logo.png',
+      },
+    },
+    {
+      '@type': 'WebSite',
+      '@id': 'https://www.stonedevelopmentinc.com/#website',
+      url: 'https://www.stonedevelopmentinc.com',
+      name: 'Stone Development Inc.',
+      publisher: { '@id': 'https://www.stonedevelopmentinc.com/#organization' },
+    },
+  ],
 };
 
 // ---------------------------------------------------------------------------

@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -34,75 +35,44 @@ export const metadata: Metadata = {
 };
 
 // ---------------------------------------------------------------------------
-// JSON-LD Schemas
+// JSON-LD Schema (unified graph via shared utility)
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: 'Seasonal Home Maintenance Checklist for SoCal Homes',
+const jsonLd = buildResourceSchemas({
+  slug: 'maintenance-checklist',
+  title: 'Seasonal Home Maintenance Checklist for SoCal Homes',
   description:
     'The complete seasonal home maintenance checklist for Southern California homes. Quarter-by-quarter tasks for spring, summer, fall, and winter in Orange County and coastal communities.',
-  url: 'https://www.stonedevelopmentinc.com/resources/maintenance-checklist',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
   datePublished: '2026-03-25',
   dateModified: '2026-03-25',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'How often should I service my HVAC system in Southern California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Service your HVAC system twice per year in Southern California: once in spring before summer heat and once in fall before the heating season. Annual service costs $150 to $300 and extends system life by 5 to 10 years.',
-      },
+      question: 'How often should I service my HVAC system in Southern California?',
+      answer:
+        'Service your HVAC system twice per year in Southern California: once in spring before summer heat and once in fall before the heating season. Annual service costs $150 to $300 and extends system life by 5 to 10 years.',
     },
     {
-      '@type': 'Question',
-      name: 'What home maintenance is unique to coastal Orange County properties?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Coastal Orange County homes require salt air corrosion management including bi-annual exterior paint touch-ups, quarterly hardware inspections, monthly window washing, and annual metal fixture replacement for exposed hinges, locks, and railings.',
-      },
+      question: 'What home maintenance is unique to coastal Orange County properties?',
+      answer:
+        'Coastal Orange County homes require salt air corrosion management including bi-annual exterior paint touch-ups, quarterly hardware inspections, monthly window washing, and annual metal fixture replacement for exposed hinges, locks, and railings.',
     },
     {
-      '@type': 'Question',
-      name: 'When should I prepare my home for Santa Ana winds?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Prepare for Santa Ana winds in September before peak season runs October through January. Secure loose outdoor items, trim trees away from structures and power lines, clean gutters, and verify roof flashings are sealed.',
-      },
+      question: 'When should I prepare my home for Santa Ana winds?',
+      answer:
+        'Prepare for Santa Ana winds in September before peak season runs October through January. Secure loose outdoor items, trim trees away from structures and power lines, clean gutters, and verify roof flashings are sealed.',
     },
     {
-      '@type': 'Question',
-      name: 'How much does skipping home maintenance cost in California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Skipping routine maintenance costs Southern California homeowners $3,000 to $10,000 per year in emergency repairs. A neglected HVAC system costs $5,000 to $12,000 to replace versus $300 for annual service.',
-      },
+      question: 'How much does skipping home maintenance cost in California?',
+      answer:
+        'Skipping routine maintenance costs Southern California homeowners $3,000 to $10,000 per year in emergency repairs. A neglected HVAC system costs $5,000 to $12,000 to replace versus $300 for annual service.',
     },
     {
-      '@type': 'Question',
-      name: 'Do I need to clean gutters in Southern California if it rarely rains?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes. Debris from trees, Santa Ana winds, and construction dust clogs gutters in SoCal even without rain. Clean gutters twice per year, in spring and fall, to prevent water damage when winter rains arrive.',
-      },
+      question: 'Do I need to clean gutters in Southern California if it rarely rains?',
+      answer:
+        'Yes. Debris from trees, Santa Ana winds, and construction dust clogs gutters in SoCal even without rain. Clean gutters twice per year, in spring and fall, to prevent water damage when winter rains arrive.',
     },
   ],
-};
+});
 
 // ---------------------------------------------------------------------------
 // Page
@@ -114,11 +84,7 @@ export default function MaintenanceChecklistPage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">

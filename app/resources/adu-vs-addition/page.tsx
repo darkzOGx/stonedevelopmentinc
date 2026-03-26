@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -26,80 +27,44 @@ export const metadata: Metadata = {
 };
 
 // ---------------------------------------------------------------------------
-// JSON-LD Schemas
+// JSON-LD Schema (unified graph via shared utility)
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: 'ADU vs. Room Addition: Which Is Right for Your Property?',
+const jsonLd = buildResourceSchemas({
+  slug: 'adu-vs-addition',
+  title: 'ADU vs. Room Addition: Which Is Right for Your Property?',
   description:
     'Comprehensive comparison guide for Orange County homeowners choosing between an ADU and a room addition. Includes costs, timelines, permits, ROI, and a decision framework.',
-  url: 'https://www.stonedevelopmentinc.com/resources/adu-vs-addition',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
   datePublished: '2026-03-25',
   dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'Is an ADU or a room addition cheaper to build in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'A room addition is cheaper upfront at $100,000 to $300,000. An ADU costs $150,000 to $350,000 but generates rental income of $2,200 to $3,500 per month.',
-      },
+      question: 'Is an ADU or a room addition cheaper to build in Orange County?',
+      answer:
+        'A room addition is cheaper upfront at $100,000 to $300,000. An ADU costs $150,000 to $350,000 but generates rental income of $2,200 to $3,500 per month.',
     },
     {
-      '@type': 'Question',
-      name: 'How long does it take to build an ADU vs. an addition in California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'An ADU takes 6 to 12 months from permit to completion. A room addition takes 3 to 6 months because it shares existing utilities and foundation systems.',
-      },
+      question: 'How long does it take to build an ADU vs. an addition in California?',
+      answer:
+        'An ADU takes 6 to 12 months from permit to completion. A room addition takes 3 to 6 months because it shares existing utilities and foundation systems.',
     },
     {
-      '@type': 'Question',
-      name: 'Does an ADU or room addition add more property value?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'An ADU increases property value by 20 to 30 percent. A room addition increases value by 10 to 20 percent. ADUs add more value because they create rentable square footage.',
-      },
+      question: 'Does an ADU or room addition add more property value?',
+      answer:
+        'An ADU increases property value by 20 to 30 percent. A room addition increases value by 10 to 20 percent. ADUs add more value because they create rentable square footage.',
     },
     {
-      '@type': 'Question',
-      name: 'Can my HOA block me from building an ADU in Irvine?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'No. California law AB 1033 prevents HOAs from blocking ADU construction. Your HOA cannot deny an ADU application in Irvine or anywhere in California.',
-      },
+      question: 'Can my HOA block me from building an ADU in Irvine?',
+      answer:
+        'No. California law AB 1033 prevents HOAs from blocking ADU construction. Your HOA cannot deny an ADU application in Irvine or anywhere in California.',
     },
     {
-      '@type': 'Question',
-      name: 'Do I need separate utility connections for an ADU in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Yes. ADUs require independent utility connections for water, sewer, and electrical. Room additions share existing utility connections with your main home.',
-      },
+      question: 'Do I need separate utility connections for an ADU in Orange County?',
+      answer:
+        'Yes. ADUs require independent utility connections for water, sewer, and electrical. Room additions share existing utility connections with your main home.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // Comparison Table Component
@@ -250,15 +215,7 @@ export default function AduVsAdditionPage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">

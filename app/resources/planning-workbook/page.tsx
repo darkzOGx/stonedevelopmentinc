@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -24,80 +25,44 @@ export const metadata: Metadata = {
 };
 
 // ---------------------------------------------------------------------------
-// JSON-LD Schemas
+// JSON-LD Schema (unified graph via shared utility)
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: 'Home Renovation Planning Workbook',
+const jsonLd = buildResourceSchemas({
+  slug: 'planning-workbook',
+  title: 'Home Renovation Planning Workbook',
   description:
     'A structured framework helping Orange County homeowners document their renovation wishlist, budget, timeline, and priorities before hiring a contractor.',
-  url: 'https://www.stonedevelopmentinc.com/resources/planning-workbook',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
   datePublished: '2026-03-01',
   dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'How do I plan a home renovation in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Start by documenting your project vision, room-by-room wishlist, budget framework, timeline, contractor criteria, material preferences, and a decision log before contacting any contractor.',
-      },
+      question: 'How do I plan a home renovation in Orange County?',
+      answer:
+        'Start by documenting your project vision, room-by-room wishlist, budget framework, timeline, contractor criteria, material preferences, and a decision log before contacting any contractor.',
     },
     {
-      '@type': 'Question',
-      name: 'What budget should I set for a home remodel in Irvine?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Irvine homeowners spend $75,000 to $350,000 on full home remodels. Set your budget using comparable project research, then add a 20% contingency fund for unexpected costs.',
-      },
+      question: 'What budget should I set for a home remodel in Irvine?',
+      answer:
+        'Irvine homeowners spend $75,000 to $350,000 on full home remodels. Set your budget using comparable project research, then add a 20% contingency fund for unexpected costs.',
     },
     {
-      '@type': 'Question',
-      name: 'When is the best time to start a renovation in Southern California?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Spring and early fall are the best times to start renovations in Southern California. Avoid beginning exterior work during the December through February rainy season.',
-      },
+      question: 'When is the best time to start a renovation in Southern California?',
+      answer:
+        'Spring and early fall are the best times to start renovations in Southern California. Avoid beginning exterior work during the December through February rainy season.',
     },
     {
-      '@type': 'Question',
-      name: 'How do I choose the right contractor for my renovation?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Define your selection criteria before interviewing contractors. Rank communication style, design input, local experience, specialty expertise, and availability by personal importance.',
-      },
+      question: 'How do I choose the right contractor for my renovation?',
+      answer:
+        'Define your selection criteria before interviewing contractors. Rank communication style, design input, local experience, specialty expertise, and availability by personal importance.',
     },
     {
-      '@type': 'Question',
-      name: 'What documents should I bring to a contractor consultation?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Bring your completed planning workbook including project vision, room-by-room wishlist, budget framework, timeline requirements, material preferences, and inspiration images.',
-      },
+      question: 'What documents should I bring to a contractor consultation?',
+      answer:
+        'Bring your completed planning workbook including project vision, room-by-room wishlist, budget framework, timeline requirements, material preferences, and inspiration images.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // Budget Table Component
@@ -189,15 +154,7 @@ export default function PlanningWorkbookPage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       {/* ----------------------------------------------------------------- */}

@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { ResourceGateForm } from '@/components/ui/ResourceGateForm';
+import { buildResourceSchemas } from '@/lib/resource-schemas';
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -29,77 +30,39 @@ export const metadata: Metadata = {
 // JSON-LD Schemas
 // ---------------------------------------------------------------------------
 
-const webPageSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  name: '10 Remodeling Mistakes That Cost SoCal Homeowners Thousands',
+const jsonLd = buildResourceSchemas({
+  slug: '10-costly-mistakes',
+  title: '10 Remodeling Mistakes That Cost SoCal Homeowners Thousands',
   description:
     'Avoid the 10 most expensive remodeling mistakes California homeowners make. Learn how to protect your budget, timeline, and home value.',
-  url: 'https://www.stonedevelopmentinc.com/resources/10-costly-mistakes',
-  publisher: {
-    '@type': 'Organization',
-    name: 'Stone Development Inc.',
-    url: 'https://www.stonedevelopmentinc.com',
-  },
-  datePublished: '2026-03-01',
-  dateModified: '2026-03-25',
-};
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: [
+  faqs: [
     {
-      '@type': 'Question',
-      name: 'What is the biggest mistake homeowners make when remodeling?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Hiring an unlicensed or underinsured contractor is the single most expensive remodeling mistake. It exposes homeowners to $15,000-$30,000 or more in rework costs with zero legal recourse through the CSLB.',
-      },
+      question: 'What is the biggest mistake homeowners make when remodeling?',
+      answer:
+        'Hiring an unlicensed or underinsured contractor is the single most expensive remodeling mistake. It exposes homeowners to $15,000-$30,000 or more in rework costs with zero legal recourse through the CSLB.',
     },
     {
-      '@type': 'Question',
-      name: 'How much should I budget for unexpected remodeling costs?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Budget a 20% contingency above your base estimate. The average Orange County remodel runs 15-25% over the initial estimate due to permit fees, material upgrades, and unforeseen structural issues.',
-      },
+      question: 'How much should I budget for unexpected remodeling costs?',
+      answer:
+        'Budget a 20% contingency above your base estimate. The average Orange County remodel runs 15-25% over the initial estimate due to permit fees, material upgrades, and unforeseen structural issues.',
     },
     {
-      '@type': 'Question',
-      name: 'What happens if I remodel without a permit in Orange County?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Unpermitted work triggers failed inspections, forced demolition, fines, and disclosure requirements at resale. Orange County building departments actively enforce permit requirements and penalize violations.',
-      },
+      question: 'What happens if I remodel without a permit in Orange County?',
+      answer:
+        'Unpermitted work triggers failed inspections, forced demolition, fines, and disclosure requirements at resale. Orange County building departments actively enforce permit requirements and penalize violations.',
     },
     {
-      '@type': 'Question',
-      name: 'Why is the cheapest contractor bid usually a bad choice?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'The lowest bid signals cut corners on materials, labor, or both. Cheap bids exclude critical scope items, use inferior products, and rely on unlicensed subcontractors to hit an artificially low price.',
-      },
+      question: 'Why is the cheapest contractor bid usually a bad choice?',
+      answer:
+        'The lowest bid signals cut corners on materials, labor, or both. Cheap bids exclude critical scope items, use inferior products, and rely on unlicensed subcontractors to hit an artificially low price.',
     },
     {
-      '@type': 'Question',
-      name: 'How do mid-project design changes increase remodeling costs?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Every mid-project change costs 3-5x more than the same decision made during pre-construction planning. Changes require rework, reordering materials, rescheduling trades, and extending the project timeline.',
-      },
+      question: 'How do mid-project design changes increase remodeling costs?',
+      answer:
+        'Every mid-project change costs 3-5x more than the same decision made during pre-construction planning. Changes require rework, reordering materials, rescheduling trades, and extending the project timeline.',
     },
   ],
-};
-
-const speakableSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  speakable: {
-    '@type': 'SpeakableSpecification',
-    cssSelector: ['#intro-paragraph'],
-  },
-};
+});
 
 // ---------------------------------------------------------------------------
 // Page
@@ -111,15 +74,7 @@ export default function TenCostlyMistakesPage() {
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <main className="bg-background min-h-screen">
