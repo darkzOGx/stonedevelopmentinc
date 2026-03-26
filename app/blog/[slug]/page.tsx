@@ -2,6 +2,12 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { BLOG_POSTS } from '@/src/data/blog-posts';
+import {
+  getCanonicalUrl,
+  getPostUrl,
+  isBlogIndexVisible,
+  isNoindexPost,
+} from '@/lib/blog';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -16,16 +22,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = BLOG_POSTS.find((p) => p.slug === slug);
   if (!post) return {};
 
+  const canonicalUrl = getCanonicalUrl(post);
+
   return {
     title: post.metaTitle,
     description: post.metaDescription,
     alternates: {
-      canonical: `https://www.stonedevelopmentinc.com/blog/${post.slug}`,
+      canonical: canonicalUrl,
     },
+    robots: isNoindexPost(post)
+      ? {
+          index: false,
+          follow: true,
+        }
+      : undefined,
     openGraph: {
       title: post.metaTitle,
       description: post.metaDescription,
       type: 'article',
+      url: canonicalUrl,
       publishedTime: post.date,
       modifiedTime: post.lastUpdated,
       authors: [post.author],
@@ -38,8 +53,13 @@ export default async function BlogPost({ params }: Props) {
   const post = BLOG_POSTS.find((p) => p.slug === slug);
   if (!post) notFound();
 
-  const relatedPosts = BLOG_POSTS.filter((p) =>
-    post.relatedSlugs.includes(p.slug)
+  const canonicalUrl = getCanonicalUrl(post);
+  const postUrl = getPostUrl(post);
+
+  const relatedPosts = BLOG_POSTS.filter((candidate) =>
+    candidate.slug !== post.slug &&
+    post.relatedSlugs.includes(candidate.slug) &&
+    isBlogIndexVisible(candidate)
   );
 
   const articleSchema = {
@@ -63,7 +83,7 @@ export default async function BlogPost({ params }: Props) {
     },
     datePublished: post.date,
     dateModified: post.lastUpdated,
-    mainEntityOfPage: `https://www.stonedevelopmentinc.com/blog/${post.slug}`,
+    mainEntityOfPage: canonicalUrl,
     reviewedBy: {
       '@type': 'Organization',
       name: 'Stone Development Inc.',
@@ -104,7 +124,7 @@ export default async function BlogPost({ params }: Props) {
         '@type': 'ListItem',
         position: 3,
         name: post.title,
-        item: `https://www.stonedevelopmentinc.com/blog/${post.slug}`,
+        item: postUrl,
       },
     ],
   };

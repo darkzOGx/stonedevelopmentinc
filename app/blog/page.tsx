@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { BLOG_POSTS } from '@/src/data/blog-posts';
+import { isBlogIndexVisible } from '@/lib/blog';
 
 export const metadata: Metadata = {
   title: 'Blog | Stone Development Inc. — Construction Insights & Guides',
@@ -10,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 export default function BlogPage() {
-  const sortedPosts = [...BLOG_POSTS].sort(
+  const sortedPosts = BLOG_POSTS.filter(isBlogIndexVisible).sort(
     (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
   );
 

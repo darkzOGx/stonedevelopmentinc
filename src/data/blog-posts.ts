@@ -44,6 +44,12 @@ export interface BlogPost {
   }>;
   gbpSummary: string;
   indexPriority: number;
+  noindex?: boolean;
+  canonicalTo?: string | null;
+  reviewAfterDays?: number;
+  reviewAfterImpressions?: number;
+  mergeTarget?: string | null;
+  lastGscReview?: string | null;
 }
 
 export const BLOG_POSTS: BlogPost[] = [
@@ -402,6 +408,12 @@ export const BLOG_POSTS: BlogPost[] = [
     gbpSummary:
       "Stone Development Inc. provides expert kitchen remodeling services in Irvine, CA. Our 2026 guide covers costs ($25K-$150K+), timelines (8-12 weeks), permits, and ROI data. Licensed general contractor #1146382 with 20+ years in Southern California. Free consultations available. Call (949) 508-6763.",
     indexPriority: 0.8,
+    noindex: false,
+    canonicalTo: null,
+    reviewAfterDays: 90,
+    reviewAfterImpressions: 300,
+    mergeTarget: null,
+    lastGscReview: null,
   },
   {
     id: 2,
@@ -684,6 +696,12 @@ export const BLOG_POSTS: BlogPost[] = [
     gbpSummary:
       "Stone Development Inc. builds accessory dwelling units (ADUs) in Costa Mesa, CA. Complete guide covers ADU costs ($100K-$350K+), permits (8-14 weeks), and rental income ($2,200-$3,500/mo). Licensed GC #1146382 with 20+ years experience. Free site evaluations. Call (949) 508-6763.",
     indexPriority: 0.8,
+    noindex: false,
+    canonicalTo: null,
+    reviewAfterDays: 90,
+    reviewAfterImpressions: 300,
+    mergeTarget: null,
+    lastGscReview: null,
   },
   {
     id: 3,
@@ -1004,6 +1022,12 @@ export const BLOG_POSTS: BlogPost[] = [
     gbpSummary:
       "Stone Development Inc. compares master vs. guest bathroom remodel options for Newport Beach homeowners. Master bath: $80K-$120K+. Guest bath: $10K-$25K. Includes coastal material guidance, ROI data, and timelines. Licensed GC #1146382. Free consultations. Call (949) 508-6763.",
     indexPriority: 0.8,
+    noindex: false,
+    canonicalTo: null,
+    reviewAfterDays: 90,
+    reviewAfterImpressions: 300,
+    mergeTarget: null,
+    lastGscReview: null,
   },
   {
     id: 4,
@@ -1228,5 +1252,11 @@ export const BLOG_POSTS: BlogPost[] = [
     gbpSummary:
       "Stone Development Inc. debunks 5 common myths about room additions for Mission Viejo homeowners. Costs: $80K-$250K+. Permits: 6-14 weeks. Covers foundation, electrical, and second-story feasibility for 1970s-80s tract homes. Licensed GC #1146382. Free consultations. Call (949) 508-6763.",
     indexPriority: 0.8,
+    noindex: false,
+    canonicalTo: null,
+    reviewAfterDays: 90,
+    reviewAfterImpressions: 300,
+    mergeTarget: null,
+    lastGscReview: null,
   },
 ];

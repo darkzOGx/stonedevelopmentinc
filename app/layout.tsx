@@ -16,6 +16,7 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://www.stonedevelopmentinc.com'),
   title: 'Stone Development Inc | Luxury Construction & General Contractor',
   description: "Stone Development brings uncompromising craft to every residential and commercial project in Southern California. Premier licensed, bonded, and insured contractors.",
   keywords: ['Luxury Construction', 'General Contractor', 'Southern California', 'Home Renovation', 'Commercial Build', 'ADU', 'Real Estate Development'],
