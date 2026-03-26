@@ -7,24 +7,10 @@ import * as z from 'zod';
 import { Button } from '@/components/ui/Button';
 import { motion, AnimatePresence } from 'framer-motion';
 import { CheckCircle2, Download } from 'lucide-react';
-import { DropdownSelect } from '@/components/ui/DropdownSelect';
-
-const projectTypes = [
-  'Kitchen Remodeling',
-  'Bathroom Remodeling',
-  'Room Addition',
-  'Full Home Renovation',
-  'New Construction',
-  'ADU',
-  'Commercial',
-  'Other'
-];
-
 const formSchema = z.object({
   fullName: z.string().min(2, 'Name is required'),
   phone: z.string().min(10, 'Valid phone number is required'),
   email: z.string().email('Valid email is required'),
-  projectType: z.string().min(1, 'Please select a project type'),
 });
 
 type FormData = z.infer<typeof formSchema>;
@@ -43,7 +29,7 @@ export function ResourceGateForm({
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
 
-  const { register, handleSubmit, watch, setValue, formState: { errors } } = useForm<FormData>({
+  const { register, handleSubmit, formState: { errors } } = useForm<FormData>({
     resolver: zodResolver(formSchema)
   });
 
@@ -140,14 +126,6 @@ export function ResourceGateForm({
                 {errors.email && <span className="absolute -bottom-5 left-0 text-destructive text-[10px] uppercase tracking-wider">{errors.email.message}</span>}
               </div>
             </div>
-
-            <DropdownSelect
-              value={watch('projectType')}
-              onChange={(val) => setValue('projectType', val, { shouldValidate: true })}
-              options={projectTypes}
-              placeholder="Select Project Type"
-              error={errors.projectType?.message}
-            />
 
             <div className="pt-8">
               <Button type="submit" size="lg" className="w-full text-base tracking-widest shadow-xl hover:shadow-2xl transition-all hover:-translate-y-1" disabled={isSubmitting}>
