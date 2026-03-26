@@ -4,7 +4,7 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Menu, X, ChevronDown, Calculator, FileText, ClipboardCheck } from 'lucide-react';
+import { Menu, X, ChevronDown, Calculator, FileText, ClipboardCheck, Home, TrendingUp, Clock } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/Button';
 
@@ -25,6 +25,12 @@ const resourceColumns = [
         icon: Calculator,
         description: 'Instant project estimates',
       },
+      {
+        name: 'Project Timeline',
+        href: '/resources/project-timeline',
+        icon: Clock,
+        description: 'What to expect, phase by phase',
+      },
     ],
   },
   {
@@ -37,6 +43,18 @@ const resourceColumns = [
         description: '2026 SoCal pricing',
       },
       {
+        name: 'ADU Starter Kit',
+        href: '/resources/adu-starter-kit',
+        icon: Home,
+        description: 'Regulations, costs, checklist',
+      },
+      {
+        name: 'ROI Report',
+        href: '/resources/roi-report',
+        icon: TrendingUp,
+        description: 'Which upgrades pay off',
+      },
+      {
         name: 'Contractor Checklist',
         href: '/resources/contractor-checklist',
         icon: ClipboardCheck,
@@ -45,8 +63,6 @@ const resourceColumns = [
     ],
   },
 ];
-
-const comingSoonItems = 'ADU Starter Kit \u00b7 ROI Report \u00b7 Permit Guide \u00b7 Project Timeline';
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -271,12 +287,10 @@ export default function Navbar() {
                   </div>
                 </div>
 
-                {/* Coming Soon row */}
                 <div className="mt-6 pt-6 border-t border-black/5 flex items-center justify-between">
-                  <div className="text-xs text-foreground-secondary font-light">
-                    <span className="font-medium text-foreground/60">Coming Soon |</span>{' '}
-                    {comingSoonItems}
-                  </div>
+                  <span className="text-xs text-foreground-secondary font-light">
+                    12 free guides, tools, and checklists
+                  </span>
                   <Link
                     href="/resources"
                     onClick={closeDropdown}
@@ -337,6 +351,13 @@ export default function Navbar() {
                           >
                             <div className="flex flex-col items-center gap-4 pt-4">
                               <Link
+                                href="/resources"
+                                onClick={() => setIsMobileMenuOpen(false)}
+                                className="text-lg text-accent font-medium transition-colors"
+                              >
+                                All Resources
+                              </Link>
+                              <Link
                                 href="/resources/budget-calculator"
                                 onClick={() => setIsMobileMenuOpen(false)}
                                 className="text-lg text-foreground-secondary hover:text-accent transition-colors font-light"
@@ -349,6 +370,13 @@ export default function Navbar() {
                                 className="text-lg text-foreground-secondary hover:text-accent transition-colors font-light"
                               >
                                 Cost Guide
+                              </Link>
+                              <Link
+                                href="/resources/adu-starter-kit"
+                                onClick={() => setIsMobileMenuOpen(false)}
+                                className="text-lg text-foreground-secondary hover:text-accent transition-colors font-light"
+                              >
+                                ADU Starter Kit
                               </Link>
                               <Link
                                 href="/resources/contractor-checklist"
