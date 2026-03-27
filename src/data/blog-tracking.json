@@ -22,7 +22,7 @@
       "targetCities": ["Costa Mesa"],
       "format": 6,
       "primaryKeyword": "adu construction costa mesa",
-      "hubParent": "adu-construction-guide-california"
+      "hubParent": "adu-construction-orange-county-2026-guide"
     },
     {
       "id": 3,
@@ -47,29 +47,95 @@
       "format": 5,
       "primaryKeyword": "room addition mission viejo",
       "hubParent": "home-additions-guide-orange-county"
+    },
+    {
+      "id": 15,
+      "slug": "adu-construction-orange-county-2026-guide",
+      "title": "ADU Builder Orange County: The Definitive 2026 Construction Guide",
+      "date": "2026-03-27",
+      "category": "ADU Construction",
+      "contentType": "hub",
+      "targetCities": ["Orange County"],
+      "format": 1,
+      "primaryKeyword": "adu builder orange county",
+      "hubParent": null
+    },
+    {
+      "id": 16,
+      "slug": "whole-home-renovation-orange-county-2026",
+      "title": "Whole-Home Renovation in Orange County: A Room-by-Room 2026 Investment Guide",
+      "date": "2026-03-27",
+      "category": "Full Home Renovation",
+      "contentType": "hub",
+      "targetCities": ["Orange County"],
+      "format": 1,
+      "primaryKeyword": "whole house remodel orange county",
+      "hubParent": null
+    },
+    {
+      "id": 17,
+      "slug": "adu-builder-irvine-permit-cost-2026",
+      "title": "ADU Builder Irvine: Permit Process, Costs, and HOA Rules for 2026",
+      "date": "2026-03-27",
+      "category": "ADU Construction",
+      "contentType": "cluster",
+      "targetCities": ["Irvine"],
+      "format": 2,
+      "primaryKeyword": "adu builder irvine",
+      "hubParent": "adu-construction-orange-county-2026-guide"
+    },
+    {
+      "id": 18,
+      "slug": "huntington-beach-room-addition-1960s-homes-2026",
+      "title": "Adding Square Footage to a 1960s Huntington Beach Ranch: 2026 Costs and Permit Realities",
+      "date": "2026-03-27",
+      "category": "Home Additions",
+      "contentType": "cluster",
+      "targetCities": ["Huntington Beach"],
+      "format": 2,
+      "primaryKeyword": "room addition huntington beach",
+      "hubParent": "home-additions-guide-orange-county"
+    },
+    {
+      "id": 19,
+      "slug": "huntington-beach-bathroom-remodel-coastal-2026",
+      "title": "Huntington Beach Bathroom Remodel: Salt Air, Small Footprints, and 2026 Costs",
+      "date": "2026-03-27",
+      "category": "Bathroom Remodeling",
+      "contentType": "cluster",
+      "targetCities": ["Huntington Beach"],
+      "format": 2,
+      "primaryKeyword": "bathroom remodel huntington beach",
+      "hubParent": "bathroom-remodeling-guide-orange-county"
     }
   ],
-  "lastGenerated": "2026-03-24T12:00:00.000Z",
+  "lastGenerated": "2026-03-27T12:00:00.000Z",
   "topicCoverage": {
-    "Kitchen Remodeling": 1,
-    "ADU Construction": 1,
-    "Bathroom Remodeling": 1,
-    "Home Additions": 1
+    "Kitchen Remodeling": 6,
+    "ADU Construction": 3,
+    "Bathroom Remodeling": 5,
+    "Home Additions": 2,
+    "Full Home Renovation": 1
   },
   "cityCoverage": {
-    "Irvine": 1,
-    "Costa Mesa": 1,
-    "Newport Beach": 1,
-    "Mission Viejo": 1
+    "Irvine": 3,
+    "Costa Mesa": 2,
+    "Newport Beach": 2,
+    "Mission Viejo": 2,
+    "Huntington Beach": 3,
+    "Lake Forest": 1,
+    "Tustin": 1,
+    "Orange County": 4
   },
   "formatRotation": {
-    "lastUsed": 5,
-    "history": [4, 6, 3, 5]
+    "lastUsed": 2,
+    "history": [4, 6, 3, 5, 1, 1, 2, 2, 2]
   },
   "clusterProgress": {
-    "kitchen-remodeling-guide-southern-california": 1,
-    "adu-construction-guide-california": 1,
-    "bathroom-remodeling-guide-orange-county": 1,
-    "home-additions-guide-orange-county": 1
+    "kitchen-remodeling-orange-county-2026-guide": 5,
+    "adu-construction-orange-county-2026-guide": 2,
+    "bathroom-remodeling-guide-orange-county": 4,
+    "home-additions-guide-orange-county": 2,
+    "whole-home-renovation-orange-county-2026": 0
   }
 }

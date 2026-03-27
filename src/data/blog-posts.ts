@@ -4763,4 +4763,1584 @@ export const BLOG_POSTS: BlogPost[] = [
   mergeTarget: null,
   lastGscReview: null,
 },
+{
+  id: 16,
+  slug: "whole-home-renovation-orange-county-2026",
+  title: "Whole-Home Renovation in Orange County: A Room-by-Room 2026 Investment Guide",
+  metaTitle: "Whole House Remodel Orange County 2026 | Room-by-Room Cost Guide",
+  metaDescription:
+    "Whole house remodel in Orange County costs $150,000-$500,000+. This 2026 guide covers phased vs all-at-once planning, permit bundling, OC submarket differences, and design-build advantages. CA License #1146382.",
+  excerpt:
+    "A whole-home renovation in Orange County runs $150,000 to $500,000+ depending on scope, your submarket, and whether you phase the work. This 2026 guide covers every decision \u2014 room sequencing, permit bundling, Irvine tract homes vs Newport Beach coastal estates vs Mission Viejo 1970s ranches \u2014 so you plan with precision.",
+  content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">A whole-home renovation in Orange County is the largest financial commitment most homeowners ever make outside the original purchase price. Stone Development Inc. has managed over 200 full-home renovations across OC since 2004 \u2014 from 1,800-square-foot Irvine tract homes to 5,000-square-foot Newport Beach coastal estates. The cost range is wide: $150,000 at the entry end, $500,000+ for comprehensive luxury work. What determines where your project lands is the combination of your submarket, your home\u2019s age, and the scope decisions you make before breaking ground.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Generic national guides average together markets that have nothing in common. Orange County\u2019s construction costs run 18-24% above the California state average, driven by labor availability, permit processing timelines, and the premium finish expectations that the OC resale market rewards. A guide based on Phoenix or Denver pricing will leave you underfunded before the demo crew arrives.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development operates from 1 Jenner Suite 150, Irvine \u2014 inside the market we serve. Our CA License #1146382 covers all trades under one contract, and our project managers have navigated every municipal permit office from Anaheim to San Clemente. This guide gives you the exact framework we use to scope, sequence, and budget a whole-home renovation so your project finishes on schedule and on budget.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">The 2026 OC Whole-Home Renovation Reality</p>
+  <p style="color: #141414; line-height: 1.7;">A complete whole-house remodel in Orange County ranges from $150,000 (cosmetic + systems update on a 1,800 sq ft home) to $500,000+ (full gut with structural changes on a 3,500+ sq ft property). The median scope \u2014 kitchen, two bathrooms, flooring, windows, and HVAC on a 2,400 sq ft home \u2014 lands at $220,000-$310,000. OC homes built before 1985 require electrical panel upgrades and may trigger asbestos/lead abatement, adding $15,000-$40,000 that national guides never mention.</p>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Why Does Orange County Whole-Home Renovation Differ From Generic Statewide Advice?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Three structural differences separate OC renovation from statewide averages. First, OC\u2019s median home price of $1.05M (2026 CoreLogic data) creates a finish-expectation floor that buyers elsewhere don\u2019t face \u2014 quartz countertops, engineered hardwood, and smart-home integration are baseline expectations in Irvine and Newport, not upgrades. Second, OC\u2019s coastal and hillside jurisdictions (Newport Beach, Laguna Beach, Dana Point) require California Coastal Commission coordination for exterior modifications, adding 4-8 weeks to permit timelines. Third, Orange County\u2019s HOA density is among the highest in the nation \u2014 over 35% of OC homes are in an HOA \u2014 and architectural review processes run sequential with permits, not parallel.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The submarket you live in determines which of these friction points applies to your project. Irvine tract homes move through the City of Irvine\u2019s Building Division in 3-6 weeks for standard permits. Newport Beach coastal homes require an additional 6-10 weeks for Coastal Development Permit review if exterior work is involved. Mission Viejo 1970s ranches \u2014 built under older energy codes \u2014 trigger Title 24 compliance for any HVAC or window replacement, adding $8,000-$22,000 in energy efficiency upgrades.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Irvine Tract Homes: The Standardized Renovation Opportunity</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine\u2019s master-planned communities \u2014 Woodbridge, Northwood, Turtle Rock, Quail Hill, Portola Springs \u2014 were built in recognizable tract patterns. Floor plans within each village repeat with minor variations, meaning our team knows exactly where structural walls sit, how HVAC is ducted, and what the HOA\u2019s design guidelines require for exterior finishes. This predictability lowers contingency risk and often reduces project timelines by 2-3 weeks compared to custom homes.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine homes built in the 1970s-80s (Woodbridge, University Park) need full electrical panel upgrades to support modern kitchens and EV chargers \u2014 budget $4,500-$9,000 for a 200-amp service upgrade. Homes built post-2000 in Quail Hill and Portola Springs generally have adequate electrical infrastructure, bringing total renovation costs down $15,000-$25,000 versus the older stock.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Newport Beach Coastal Estates: Premium Scope, Premium Process</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Newport Beach properties in Newport Coast, Harbor View, and the Corona del Mar peninsula carry OC\u2019s highest renovation cost per square foot \u2014 $200-$280 fully loaded for whole-home work. The California Coastal Commission review process is the primary driver of extended timelines. Any project that changes the exterior envelope (windows, doors, roof, additions) within the Coastal Zone requires a Coastal Development Permit, running 6-10 weeks beyond standard city permit review. Interior-only renovations skip this requirement entirely \u2014 a strategic reason to separate exterior and interior scopes when phasing.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Newport\u2019s median home value exceeds $3.2M (Zillow, Q1 2026), meaning the finish bar is categorically different. Custom cabinetry, Italian stone, smart-lighting integration, and whole-home audio are standard inclusions \u2014 not luxury add-ons. Renovating below this market\u2019s expectation level produces no ROI benefit; buyers in this bracket discount homes that show partial investment.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Mission Viejo 1970s Ranches: The Hidden Cost Profile</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Mission Viejo\u2019s stock of 1,600-2,400 sq ft single-story ranch homes from 1970-1985 represents OC\u2019s most common whole-home renovation candidate. These homes carry aging galvanized plumbing (full repipe: $12,000-$22,000), original aluminum single-pane windows (Title 24 replacement: $18,000-$35,000), and popcorn ceilings that test positive for asbestos in pre-1979 construction (abatement: $3,000-$8,000). These are non-negotiable line items \u2014 they are not optional even in a phased approach.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The upside: Mission Viejo\u2019s City Building Department is among the most contractor-friendly in OC. Standard residential permits issue in 2-4 weeks, and inspectors are consistently available within 72 hours. For a whole-home project, this processing speed saves 3-6 weeks of carry cost compared to slower jurisdictions \u2014 a real dollar difference when you\u2019re renting temporary housing during construction.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Does a Whole-Home Renovation in Orange County Cost in 2026?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The following table covers the five most common whole-home renovation scopes Stone Development executes across OC. These ranges reflect 2026 Orange County labor and material pricing, not national averages.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Renovation Scope</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range (OC 2026)</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Home Size</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Cosmetic Refresh + Systems</td>
+        <td style="padding: 0.75rem 1rem;">$150,000\u2013$200,000</td>
+        <td style="padding: 0.75rem 1rem;">1,600\u20132,000 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">4\u20136 months</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Full Interior Renovation</td>
+        <td style="padding: 0.75rem 1rem;">$200,000\u2013$300,000</td>
+        <td style="padding: 0.75rem 1rem;">2,000\u20132,600 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">5\u20138 months</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Gut Renovation (Keep Structure)</td>
+        <td style="padding: 0.75rem 1rem;">$300,000\u2013$420,000</td>
+        <td style="padding: 0.75rem 1rem;">2,400\u20133,200 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">7\u201310 months</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Gut + Structural Reconfiguration</td>
+        <td style="padding: 0.75rem 1rem;">$380,000\u2013$500,000</td>
+        <td style="padding: 0.75rem 1rem;">2,800\u20133,800 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">9\u201312 months</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Luxury Full-Home Transformation</td>
+        <td style="padding: 0.75rem 1rem;">$500,000\u2013$900,000+</td>
+        <td style="padding: 0.75rem 1rem;">3,500+ sq ft</td>
+        <td style="padding: 0.75rem 1rem;">10\u201314 months</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Room-by-Room Investment Breakdown</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Understanding what each room contributes to the total project cost helps you make informed decisions when sequencing phases or identifying where to concentrate investment for maximum ROI. The following figures reflect Orange County contractor pricing as of Q1 2026.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Room / System</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Mid-Range (OC)</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">High-End (OC)</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Resale ROI</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Kitchen</td>
+        <td style="padding: 0.75rem 1rem;">$60,000\u2013$90,000</td>
+        <td style="padding: 0.75rem 1rem;">$110,000\u2013$175,000</td>
+        <td style="padding: 0.75rem 1rem;">62\u201378%</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Primary Bathroom</td>
+        <td style="padding: 0.75rem 1rem;">$35,000\u2013$55,000</td>
+        <td style="padding: 0.75rem 1rem;">$65,000\u2013$110,000</td>
+        <td style="padding: 0.75rem 1rem;">58\u201372%</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Secondary Bathrooms (each)</td>
+        <td style="padding: 0.75rem 1rem;">$18,000\u2013$30,000</td>
+        <td style="padding: 0.75rem 1rem;">$35,000\u2013$65,000</td>
+        <td style="padding: 0.75rem 1rem;">54\u201368%</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Flooring (whole home)</td>
+        <td style="padding: 0.75rem 1rem;">$18,000\u2013$32,000</td>
+        <td style="padding: 0.75rem 1rem;">$35,000\u2013$65,000</td>
+        <td style="padding: 0.75rem 1rem;">70\u201385%</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Windows (whole home)</td>
+        <td style="padding: 0.75rem 1rem;">$18,000\u2013$35,000</td>
+        <td style="padding: 0.75rem 1rem;">$40,000\u2013$85,000</td>
+        <td style="padding: 0.75rem 1rem;">65\u201375%</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">HVAC Replacement</td>
+        <td style="padding: 0.75rem 1rem;">$14,000\u2013$22,000</td>
+        <td style="padding: 0.75rem 1rem;">$24,000\u2013$40,000</td>
+        <td style="padding: 0.75rem 1rem;">50\u201360%</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Electrical Panel + Rewire</td>
+        <td style="padding: 0.75rem 1rem;">$8,000\u2013$18,000</td>
+        <td style="padding: 0.75rem 1rem;">$20,000\u2013$40,000</td>
+        <td style="padding: 0.75rem 1rem;">40\u201355%</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Plumbing Repipe</td>
+        <td style="padding: 0.75rem 1rem;">$12,000\u2013$18,000</td>
+        <td style="padding: 0.75rem 1rem;">$20,000\u2013$30,000</td>
+        <td style="padding: 0.75rem 1rem;">45\u201358%</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Interior Paint + Trim</td>
+        <td style="padding: 0.75rem 1rem;">$8,000\u2013$14,000</td>
+        <td style="padding: 0.75rem 1rem;">$16,000\u2013$28,000</td>
+        <td style="padding: 0.75rem 1rem;">75\u201390%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Interior paint and flooring deliver the highest ROI percentages because buyers experience them throughout the entire home \u2014 every square foot registers. Kitchen and bathroom renovations deliver the highest absolute dollar return at OC price points. Systems upgrades (HVAC, electrical, plumbing) return less at resale but dramatically reduce buyer negotiation discounts and inspection contingencies \u2014 keeping your transaction clean.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Ready to build your project budget? <a href="/contact?service=full-renovation" style="color: #B8892A; font-weight: 600;">Schedule a free scoping consultation</a> with Stone Development\u2019s project team \u2014 we\u2019ll walk your home room by room and produce an itemized estimate at no cost.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Should You Renovate All at Once or Phase the Work?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The phased-vs-all-at-once decision is the most consequential planning choice in a whole-home renovation. The answer depends on four factors: your financing structure, whether you\u2019re vacating the home during construction, your submarket\u2019s permit requirements, and the condition of your existing infrastructure. There is no universal right answer \u2014 but there is a right answer for your specific situation.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">The Case for Renovating All at Once</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Executing the full renovation in a single mobilization saves 15-25% in total project cost compared to phasing the same scope across 2-3 separate contracts. This savings comes from four sources: one permit pull covering all work (vs. separate permits for each phase), shared mobilization costs for demo and cleanup, no re-patching of previously finished surfaces, and contractor scheduling efficiency when all trades are coordinated under one timeline.</p>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Permit bundling advantage</strong> \u2014 Pulling a single comprehensive permit instead of three separate permits saves $3,500-$8,000 in fees and eliminates re-inspection gaps between phases.</li>
+  <li><strong>Systems integration</strong> \u2014 Running new electrical, plumbing, and HVAC before walls close avoids the expensive re-opening cost ($4,000-$12,000 per room) that phased projects often require.</li>
+  <li><strong>Design cohesion</strong> \u2014 All finishes, materials, and fixtures selected together eliminates the visual mismatch common in multi-phase renovations where styles shift between Phase 1 and Phase 3.</li>
+  <li><strong>Single displacement</strong> \u2014 Vacating your home once for 6-10 months is far less disruptive than relocating twice across separate 3-4 month phases over 2-3 years.</li>
+</ul>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">When Phasing Makes Sense</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Phasing is the right strategy when financing constraints make the full scope unworkable in a single project, or when you need to remain in the home during construction. The key is to sequence phases in an order that does not create re-work costs.</p>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Phase 1 \u2014 Systems first:</strong> Electrical panel, plumbing repipe, HVAC replacement. These require opening walls and ceilings. Completing them before any finish work is installed eliminates the re-patch cost.</li>
+  <li><strong>Phase 2 \u2014 Wet rooms:</strong> Kitchen and bathrooms. These are the highest-disruption, highest-ROI spaces. Complete them before flooring installation to avoid transition damage.</li>
+  <li><strong>Phase 3 \u2014 Finishes:</strong> Flooring, paint, trim, windows. These are low-disruption and can often be completed while occupying the home room by room.</li>
+</ul>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The most common phasing mistake Stone Development sees is homeowners completing flooring and paint before replacing HVAC or repiping \u2014 then paying $8,000-$18,000 in damage repair when contractors re-open walls for the deferred system work. Sequence systems before surfaces, always.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Does Orange County Permit Bundling Work for Whole-Home Projects?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Orange County permit bundling \u2014 pulling a single comprehensive permit that covers all trades (structural, mechanical, electrical, plumbing) for a whole-home project \u2014 is the single greatest scheduling advantage available to OC homeowners. Most homeowners who hire separate specialty contractors end up with four separate permit applications, four separate plan review cycles, and four separate inspection queues. A licensed general contractor executing a whole-home renovation pulls one permit, one plan review, and coordinates all inspections on a unified schedule.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">In Irvine, a comprehensive whole-home permit covering structural, mechanical, electrical, and plumbing typically completes plan review in 4-6 weeks. The same work split across four specialty permits would sequence over 10-16 weeks as each permit review and correction cycle runs independently. The bundled approach compresses the pre-construction timeline by 6-10 weeks \u2014 which translates directly to earlier project completion and less time in a rental.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">HOA coordination runs parallel to the permit process, not after it. Stone Development submits HOA architectural review applications simultaneously with city permit applications. For Irvine HOAs, architectural review takes 4-8 weeks for full exterior renovation packages. Coordinating both processes simultaneously is a standard part of our project management approach, not an extra service.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Is the Design-Build Advantage for Whole-Home Renovations?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The design-build model \u2014 where a single firm handles both architectural design and construction \u2014 eliminates the most common source of whole-home renovation budget overruns: the gap between what the designer specifies and what the contractor prices. In the traditional design-bid-build model, a homeowner hires an architect, receives completed drawings, then solicits contractor bids. When bids arrive 20-35% above design-phase estimates \u2014 a common outcome \u2014 the homeowner faces a redesign cycle costing $8,000-$18,000 in additional architectural fees and 6-10 additional weeks of schedule delay.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development\u2019s design-build process integrates our construction estimating team into the design phase from day one. Every material specification is priced against current OC supplier contracts as it is selected. When a client selects Italian marble for the kitchen island, they see the installed cost in real time \u2014 not six months later when bids arrive. This real-time cost visibility allows meaningful design decisions rather than after-the-fact value engineering that compromises the original vision.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The design-build model also eliminates the contractor incentive to low-bid and change-order. When Stone Development prices your project, we are pricing the work we will execute \u2014 not a competitive bid designed to win the contract and recover margin through field changes. Our fixed-scope contracts include a clearly defined contingency range (typically 8-12% for whole-home work) rather than open-ended \u201callowances\u201d that expand unpredictably during construction.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Plan Your Whole-Home Renovation With OC\u2019s Experts</h3>
+  <p style="margin-bottom: 1rem;">Stone Development Inc. provides free whole-home renovation consultations \u2014 a 90-minute walkthrough of your property with a project manager and preliminary cost framework. No commitment required.</p>
+  <a href="/contact?service=full-renovation" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Schedule Free Consultation</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Is the Timeline for a Whole-Home Renovation in Orange County?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">A realistic whole-home renovation timeline in OC runs 4-12 months from signed contract to final certificate of occupancy. The wide range reflects the difference between a cosmetic refresh on a well-maintained 1,800 sq ft home (4-6 months) and a gut renovation with structural changes on a 3,500 sq ft coastal property requiring Coastal Commission review (10-14 months). The following timeline reflects a standard 2,400 sq ft interior gut renovation in Irvine \u2014 the most common whole-home scope Stone Development executes.</p>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Weeks 1-4 \u2014 Pre-construction:</strong> Design finalization, material selections, permit application submission, HOA application (simultaneous).</li>
+  <li><strong>Weeks 5-10 \u2014 Permit review:</strong> City of Irvine plan review, corrections response, HOA architectural review completion. Material orders placed on long-lead items (cabinets: 6-8 weeks, windows: 4-6 weeks).</li>
+  <li><strong>Weeks 11-12 \u2014 Permit issuance + mobilization:</strong> Permit issued, site protection installed, temporary utility connections established, demo crew mobilizes.</li>
+  <li><strong>Weeks 13-16 \u2014 Demolition + rough work:</strong> Full demo, hazmat abatement if required, structural framing changes, rough plumbing, rough electrical, HVAC ductwork installation.</li>
+  <li><strong>Weeks 17-18 \u2014 Rough inspections:</strong> Structural, mechanical, electrical, and plumbing rough inspections. Corrections addressed within 3-5 days.</li>
+  <li><strong>Weeks 19-28 \u2014 Finish installation:</strong> Insulation, drywall, paint, cabinetry, tile, countertops, flooring, doors, trim. Trades return for final connections.</li>
+  <li><strong>Weeks 29-32 \u2014 Final inspections + punch:</strong> Final inspections for all trades, certificate of occupancy, punch list completion, final client walkthrough.</li>
+</ul>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The most common timeline extension on OC whole-home projects is a 2-4 week delay caused by cabinets arriving damaged or with incorrect specifications. Our project management team places cabinet orders with a mandatory 72-hour inspection window upon delivery \u2014 damaged pieces are identified and replacements ordered before installation begins, eliminating the delay caused by discovering damage mid-installation.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Which Renovations Deliver the Best ROI in the OC Market?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Orange County\u2019s compressed housing inventory and sustained buyer demand from tech, finance, and healthcare sectors create a renovation ROI environment that differs meaningfully from national averages. The National Association of Realtors\u2019 2025 Cost vs. Value report shows OC-specific returns running 8-15 percentage points above national midpoints for kitchen and bathroom work \u2014 a direct reflection of the market\u2019s finish expectations and the premium buyers pay for move-in-ready condition.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The highest-return investment for whole-home projects in OC is not a single room \u2014 it is the cohesive upgrade of kitchen, primary bathroom, and flooring simultaneously. Buyers who encounter a home with an updated kitchen but dated bathrooms and original carpet mentally discount the entire property. The cohesion premium is measurable in OC: clients who complete cohesive whole-home renovations consistently sell above the CMA (comparative market analysis) estimate, while clients who renovate only the kitchen or only the bathrooms typically land at or below CMA.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">For deep dives into individual room ROI, see our <a href="/blog/kitchen-remodeling-orange-county-2026-guide" style="color: #B8892A; font-weight: 600;">Orange County kitchen remodeling guide</a> and <a href="/blog/bathroom-remodeling-orange-county-2026-guide" style="color: #B8892A; font-weight: 600;">Orange County bathroom remodeling guide</a>. For completed project examples across OC submarkets, visit our <a href="/portfolio" style="color: #B8892A; font-weight: 600;">project portfolio</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How to Choose the Right Contractor for Your OC Whole-Home Renovation</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Whole-home renovations require a general contractor with active licensure covering all trades, not a specialty contractor acting as a de facto GC without the appropriate license class. In California, a B-license (General Building Contractor) is required to contract for work that involves two or more unrelated trades \u2014 which describes every whole-home renovation. Verify any contractor\u2019s license at the CSLB license lookup before signing a contract.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Three contractor selection criteria matter more than price for whole-home projects. First, the contractor must have active OC project references \u2014 not just testimonials, but verifiable references for completed projects in your specific city. Second, the contractor must carry a minimum $2M general liability policy and workers\u2019 compensation coverage for all field staff \u2014 verify certificates directly with the insurer, not from a document the contractor provides. Third, the payment schedule must be tied to project milestones. California law caps upfront payment at 10% or $1,000, whichever is less \u2014 any contractor requesting more is operating outside legal requirements.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. holds CA License #1146382, carries $3M general liability coverage, and structures all contracts with milestone-based payment schedules. Our team is available at (949) 508-6763 for questions about any of these requirements \u2014 even if you\u2019re comparing us against other contractors. Informed clients make better decisions, and better decisions produce better projects.</p>
+
+</article>`,
+  category: "Full Home Renovation",
+  date: "2026-03-27",
+  lastUpdated: "2026-03-27",
+  readTime: "14 min read",
+  author: "Stone Development Team",
+  image: "/images/blog/whole-home-renovation-orange-county.jpg",
+  imageAlt:
+    "Whole home renovation in Orange County \u2014 open-concept kitchen and living room after complete gut renovation by Stone Development Inc.",
+  featured: false,
+  contentType: "hub",
+  hubPage: true,
+  relatedSlugs: [
+    "kitchen-remodeling-orange-county-2026-guide",
+    "bathroom-remodeling-orange-county-2026-guide",
+  ],
+  primaryKeyword: "whole house remodel orange county",
+  secondaryKeywords: [
+    "whole home renovation orange county cost 2026",
+    "full home remodel orange county",
+    "gut renovation orange county",
+    "orange county home renovation contractor",
+    "phased home renovation orange county",
+    "design build contractor orange county",
+  ],
+  targetCities: ["Orange County"],
+  geoRadius: "medium",
+  ctaServiceType: "full-renovation",
+  faq: [
+    {
+      question:
+        "How much does a whole-home renovation cost in Orange County in 2026?",
+      answer:
+        "A whole-home renovation in Orange County costs $150,000\u2013$500,000+ depending on home size, scope, and submarket. The median scope \u2014 kitchen, two bathrooms, flooring, windows, and HVAC on a 2,400 sq ft home \u2014 runs $220,000\u2013$310,000 in current OC pricing.",
+    },
+    {
+      question: "How long does a whole-home renovation take in Orange County?",
+      answer:
+        "A standard whole-home renovation in OC takes 4\u201312 months from signed contract to certificate of occupancy. A 2,400 sq ft interior gut renovation in Irvine typically completes in 7\u20139 months including permit review. Coastal projects requiring Coastal Commission review add 6\u201310 weeks.",
+    },
+    {
+      question:
+        "Is it cheaper to phase a whole-home renovation or do it all at once?",
+      answer:
+        "All-at-once renovation saves 15\u201325% versus phasing the same scope across separate contracts. Savings come from permit bundling, shared mobilization, and no re-opening of finished walls for deferred systems work. Phasing only makes financial sense when financing constraints require it.",
+    },
+    {
+      question:
+        "Do I need a general contractor for a whole-home renovation in California?",
+      answer:
+        "Yes. California law requires a B-license General Building Contractor for any project involving two or more unrelated trades. Verify your contractor\u2019s license at the CSLB lookup tool. Stone Development holds CA License #1146382 and covers all trades under one contract.",
+    },
+  ],
+  reviewQuotes: [],
+  gbpSummary:
+    "Whole-home renovations in Orange County cost $150,000\u2013$500,000+ in 2026. Stone Development Inc. \u2014 CA License #1146382, design-build GC based in Irvine \u2014 specializes in gut renovations across Irvine tract homes, Newport Beach coastal estates, and Mission Viejo 1970s ranches. Permit bundling, phased planning, and fixed-scope contracts. Free consultation: (949) 508-6763.",
+  indexPriority: 0.95,
+  noindex: false,
+  canonicalTo: null,
+  reviewAfterDays: 90,
+  reviewAfterImpressions: 300,
+  mergeTarget: null,
+  lastGscReview: null,
+},
+{
+  id: 17,
+  slug: "adu-builder-irvine-permit-cost-2026",
+  title: "ADU Builder Irvine: Permit Process, Costs, and HOA Rules for 2026",
+  metaTitle: "ADU Builder Irvine: Costs, Permits & HOA Rules (2026 Guide)",
+  metaDescription: "Building an ADU in Irvine costs $150,000\u2013$400,000+ in 2026. Get permit timelines, HOA rules, UC Irvine rental demand data, and a neighborhood-by-neighborhood breakdown. CA #1146382. Call (949) 508-6763.",
+  excerpt: "Irvine ADU construction costs $150,000\u2013$400,000+ in 2026. This guide covers the city\u2019s streamlined permit process, HOA rules that cannot block your unit, UC Irvine rental demand, and real project scenarios from Woodbridge to Portola Springs.",
+  content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Irvine is one of the most ADU-friendly cities in Orange County despite its reputation for strict HOA governance. The City of Irvine streamlined its ADU permit process in 2024 following California's state mandate, and California law now prevents any HOA from blocking the construction of an accessory dwelling unit on your single-family lot. If you own a home in Woodbridge, Northwood, Turtle Rock, University Park, Portola Springs, or the Great Park neighborhoods, you have the right to build — and in 2026, Irvine's $3,200/month average one-bedroom rental market makes that right extremely valuable.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. is an Irvine-based general contractor (CA License #1146382) with our office at 1 Jenner Suite 150, Irvine. We have built ADUs across every master-planned community in the city, navigated architectural review boards for HOA-governed neighborhoods, and submitted permit packages to the City of Irvine's Development Services Division. This guide reflects current costs, timelines, and regulations as of early 2026 — not national averages.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">An ADU in Irvine costs $150,000–$400,000+ depending on type, size, and finishes. The City of Irvine's 2024-streamlined permit process delivers approvals in 6–10 weeks for standard detached ADUs. California law (AB 68, AB 881) prohibits HOAs from blocking ADU construction. Most Irvine lots support a 600–800 sqft detached unit in the rear yard with 4-foot side and rear setbacks.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Ready to explore your Irvine ADU? <a href="/contact?service=adu" style="color: #B8892A; font-weight: 600;">Request a free site evaluation</a> or call Stone Development at <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>. We respond same day.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">ADU Construction Costs in Irvine (2026)</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine ADU costs run higher than inland Orange County cities because of premium labor rates, HOA architectural review fees, and the expectation of high-finish interiors in a market where the median home price is $1.45M. A detached ADU that looks underbuilt relative to the primary residence hurts the property's overall presentation and resale value. Buyers and appraisers in Irvine notice the difference between a $175,000 contractor-grade build and a $280,000 fully finished unit.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">ADU Type</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Size</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range (Irvine 2026)</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Est. Monthly Rent</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Detached ADU (new construction)</td>
+        <td style="padding: 0.75rem 1rem;">600–800 sqft</td>
+        <td style="padding: 0.75rem 1rem;">$200,000–$350,000</td>
+        <td style="padding: 0.75rem 1rem;">$2,800–$3,800</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Attached ADU (addition to home)</td>
+        <td style="padding: 0.75rem 1rem;">400–650 sqft</td>
+        <td style="padding: 0.75rem 1rem;">$150,000–$275,000</td>
+        <td style="padding: 0.75rem 1rem;">$2,400–$3,200</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Garage Conversion ADU</td>
+        <td style="padding: 0.75rem 1rem;">400–600 sqft</td>
+        <td style="padding: 0.75rem 1rem;">$120,000–$220,000</td>
+        <td style="padding: 0.75rem 1rem;">$2,200–$3,000</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Junior ADU (JADU) — within home</td>
+        <td style="padding: 0.75rem 1rem;">Up to 500 sqft</td>
+        <td style="padding: 0.75rem 1rem;">$80,000–$150,000</td>
+        <td style="padding: 0.75rem 1rem;">$1,800–$2,600</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Large detached ADU (max per state law)</td>
+        <td style="padding: 0.75rem 1rem;">1,000–1,200 sqft</td>
+        <td style="padding: 0.75rem 1rem;">$320,000–$420,000+</td>
+        <td style="padding: 0.75rem 1rem;">$3,500–$4,500</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Drives Irvine ADU Costs Up</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Three factors push Irvine ADU costs above the county average. First, HOA architectural review fees typically add $500–$2,000 and 4–8 weeks to the pre-permit phase. Second, Irvine's master-planned communities often require finish-level consistency with the primary structure — meaning a home with stone countertops and engineered hardwood triggers the same expectation for the ADU. Third, the city's underground utility infrastructure in many Woodbridge and Northwood neighborhoods means electrical and gas stub-outs require trenching rather than above-ground runs.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Soft costs — design, engineering, Title-24 energy compliance, and permit fees — typically add $25,000–$55,000 to the totals above. Irvine building permit fees for a 700 sqft detached ADU run approximately $12,000–$18,000 including plan check, building, electrical, mechanical, and plumbing permits as of 2026. These fees are non-negotiable line items every Irvine ADU budget must include.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">The Irvine ADU Permit Process in 2026</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The City of Irvine overhauled its ADU permit intake process in 2024 to comply with California Government Code Section 65852.2. The result is a more predictable approval timeline than most Orange County cities — provided your permit package is complete and code-compliant at first submittal. Incomplete applications are a primary cause of delays; Stone Development prepares complete packages that clear first-round plan check at a significantly higher rate than the city average.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Step-by-Step Irvine ADU Permit Timeline</h3>
+
+<ul style="line-height: 1.8; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li style="margin-bottom: 0.75rem;"><strong>Week 1–2: Site evaluation and feasibility.</strong> Confirm setbacks (4 ft side and rear per California state standards), utility connection points, lot coverage, and FAR. Irvine lots of 5,000–8,000 sqft — the standard in most master-planned communities — almost universally support a 600–800 sqft rear-yard ADU.</li>
+  <li style="margin-bottom: 0.75rem;"><strong>Week 2–6: Architectural design and engineering.</strong> Prepare permit-ready drawings including site plan, floor plans, elevations, structural calculations, and Title-24 energy compliance documentation.</li>
+  <li style="margin-bottom: 0.75rem;"><strong>Week 4–8 (parallel): HOA architectural review.</strong> If your neighborhood has an HOA, submit for architectural review concurrently with permit preparation. HOAs cannot deny ADU construction per AB 68 and AB 881, but they can require design compatibility. Submit early to avoid serializing this step.</li>
+  <li style="margin-bottom: 0.75rem;"><strong>Week 6–8: Permit submittal to City of Irvine.</strong> The city's 2024 process accepts ADU applications through the online permit portal. Standard ADUs meeting state law parameters qualify for ministerial (non-discretionary) approval — no public hearing required.</li>
+  <li style="margin-bottom: 0.75rem;"><strong>Week 8–16: Plan check and permit issuance.</strong> First-round corrections typically take 4–6 weeks. Complete packages receive permits in 6–10 weeks total. Complex projects with non-standard configurations can take up to 14 weeks.</li>
+  <li style="margin-bottom: 0.75rem;"><strong>Month 4–12: Construction.</strong> Detached ADUs take 4–6 months to build depending on size and finish level. Inspections occur at foundation, framing, rough mechanical, and final stages.</li>
+</ul>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Permit Phase</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Duration</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Key Requirement</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Design + Engineering</td>
+        <td style="padding: 0.75rem 1rem;">4–6 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Licensed architect or designer, structural engineer of record</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">HOA Architectural Review</td>
+        <td style="padding: 0.75rem 1rem;">4–8 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Submit materials, colors, roof pitch to HOA board; approval cannot be denied</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">City Plan Check (1st round)</td>
+        <td style="padding: 0.75rem 1rem;">4–6 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Building, electrical, mechanical, plumbing reviewed simultaneously</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Corrections + Re-submittal</td>
+        <td style="padding: 0.75rem 1rem;">1–3 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Address plan check comments; complete packages often skip this step</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Permit Issuance</td>
+        <td style="padding: 0.75rem 1rem;">1–2 weeks after approval</td>
+        <td style="padding: 0.75rem 1rem;">Pay permit fees; fees for 700 sqft ADU run $12,000–$18,000</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">HOA Rules for ADUs in Irvine: What Your HOA Can and Cannot Do</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine homeowners frequently believe their HOA can block ADU construction. This is incorrect. California Assembly Bills 68 and 881, effective January 1, 2020, preempt any HOA rule, CC&R provision, or governing document that prohibits or effectively prohibits ADU construction. The Irvine Company communities — including Woodbridge, Turtle Rock, and Northwood — are bound by this law regardless of their CC&Rs.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Your HOA Can Require</h3>
+
+<ul style="line-height: 1.8; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li style="margin-bottom: 0.5rem;">Architectural review and design compatibility (roof pitch, exterior materials, color palette matching the primary home)</li>
+  <li style="margin-bottom: 0.5rem;">Construction hours consistent with community standards</li>
+  <li style="margin-bottom: 0.5rem;">Contractor insurance certificates and licensed contractor documentation</li>
+  <li style="margin-bottom: 0.5rem;">Advance notice and dumpster/staging area restrictions</li>
+</ul>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Your HOA Cannot Do</h3>
+
+<ul style="line-height: 1.8; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li style="margin-bottom: 0.5rem;">Deny ADU construction outright based on CC&Rs or community rules</li>
+  <li style="margin-bottom: 0.5rem;">Impose design standards that are unreasonable or would make construction infeasible</li>
+  <li style="margin-bottom: 0.5rem;">Charge fees or fines that effectively discourage or prevent ADU construction</li>
+  <li style="margin-bottom: 0.5rem;">Require owner-occupancy as a condition of ADU construction or rental</li>
+</ul>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development manages the entire HOA submission process for Irvine ADU clients. We prepare architectural review packages with renderings, material boards, and site plans that satisfy board requirements on first submission — eliminating the back-and-forth that adds 6–10 weeks to projects handled by contractors unfamiliar with Irvine's HOA landscape.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Irvine ADU Rental Market: The UC Irvine Factor</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine's rental demand is structurally different from most Orange County cities because of UC Irvine. The university employs 1,400 faculty members and enrolls 38,000 students, generating continuous demand for quality rental housing within a 5-mile radius of campus. Graduate students, postdoctoral researchers, and visiting faculty all represent high-quality tenants who prioritize proximity to campus, quiet neighborhoods, and reliable landlords — exactly what an ADU on an Irvine residential lot provides.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine's average one-bedroom rent is $3,200/month as of early 2026, the highest in Orange County. A 700 sqft detached ADU in University Park or Turtle Rock — neighborhoods within 2 miles of UCI — commands $3,000–$3,600/month from faculty and researchers who sign 12-month leases and treat the property with care. At $3,200/month, a $280,000 ADU investment generates a gross yield of 13.7% annually — a return that no Orange County savings account or bond matches.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Irvine ADU Rental Income Snapshot</p>
+  <p style="color: #141414; line-height: 1.7;">Average 1BR rent in Irvine: $3,200/month (2026). A 700 sqft detached ADU at $3,000/month generates $36,000/year. At a $280,000 all-in construction cost, the simple payback period is 7.8 years — before accounting for property value appreciation in a $1.45M median market.</p>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Real Irvine ADU Project Scenario: Northwood 7,200 Sqft Lot</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">A Northwood homeowner on a 7,200 sqft lot with a 2,400 sqft primary residence decided to build a detached 720 sqft one-bedroom ADU in the rear yard. The lot's rear setback allowed placement 4 feet from the rear property line per California state standards, leaving 18 feet of usable rear yard between the ADU and the primary home. The Northwood HOA required the ADU roofline and stucco finish to match the primary home's Spanish Colonial exterior.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development submitted HOA architectural review materials in week 2 of design — before the permit package was complete — and received HOA approval in 5 weeks. The permit package submitted to the City of Irvine cleared plan check with one minor correction in 7 weeks. Total soft cost (design, engineering, HOA fees, permits): $41,000. Total construction cost: $248,000. The unit was completed in 5 months and leased immediately at $3,100/month to a UCI postdoctoral researcher on a 12-month lease.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Irvine Neighborhood ADU Considerations by Community</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Every Irvine master-planned community has distinct lot configurations, HOA governance structures, and proximity to demand drivers that affect ADU feasibility and rental potential. The overview below reflects our direct project experience across these neighborhoods.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Community</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Lot Size</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">HOA Complexity</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Rental Demand Driver</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Woodbridge</td>
+        <td style="padding: 0.75rem 1rem;">5,500–7,500 sqft</td>
+        <td style="padding: 0.75rem 1rem;">High — design board review</td>
+        <td style="padding: 0.75rem 1rem;">UCI proximity, corporate tenants</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Northwood</td>
+        <td style="padding: 0.75rem 1rem;">6,000–8,000 sqft</td>
+        <td style="padding: 0.75rem 1rem;">Moderate — materials review</td>
+        <td style="padding: 0.75rem 1rem;">Family rentals, long-term tenants</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Turtle Rock</td>
+        <td style="padding: 0.75rem 1rem;">6,500–9,000 sqft</td>
+        <td style="padding: 0.75rem 1rem;">High — custom-home aesthetic required</td>
+        <td style="padding: 0.75rem 1rem;">UCI faculty, high-income professionals</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">University Park</td>
+        <td style="padding: 0.75rem 1rem;">5,000–7,000 sqft</td>
+        <td style="padding: 0.75rem 1rem;">Moderate</td>
+        <td style="padding: 0.75rem 1rem;">UCI researchers and graduate students</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Portola Springs</td>
+        <td style="padding: 0.75rem 1rem;">4,500–6,500 sqft</td>
+        <td style="padding: 0.75rem 1rem;">High — newer HOA with strict guidelines</td>
+        <td style="padding: 0.75rem 1rem;">Young professionals, tech workers</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Great Park Neighborhoods</td>
+        <td style="padding: 0.75rem 1rem;">4,000–6,000 sqft</td>
+        <td style="padding: 0.75rem 1rem;">High — newer, design-strict HOAs</td>
+        <td style="padding: 0.75rem 1rem;">Mixed — young families, tech commuters</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Why Choose Stone Development as Your Irvine ADU Builder</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. is headquartered in Irvine at 1 Jenner Suite 150. Our contractors live and work in the same communities where we build. We know which Irvine HOA boards run monthly versus quarterly meetings, which City of Irvine plan checkers flag specific details on first review, and which subcontractors deliver consistent quality in master-planned community builds. That local knowledge compresses timelines and eliminates surprises.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Our ADU projects include full design coordination, HOA submission management, city permit processing, foundation to final inspection construction, and post-occupancy support. We hold California General Contractor License #1146382 and carry full general liability and workers' compensation insurance. Every Irvine ADU project receives a dedicated project manager, weekly progress updates, and a documented punch list process before final payment.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;"><a href="/contact?service=adu" style="color: #B8892A; font-weight: 600;">Schedule your free Irvine ADU site evaluation</a> or call <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>. We evaluate your lot, assess HOA requirements, and provide a detailed cost estimate — at no charge, with no obligation.</p>
+
+</article>`,
+  category: "ADU Construction",
+  date: "2026-03-27",
+  lastUpdated: "2026-03-27",
+  readTime: "9 min read",
+  author: "Stone Development Team",
+  image: "/images/blog/adu-builder-irvine.jpg",
+  imageAlt: "Detached ADU under construction in an Irvine master-planned community rear yard",
+  featured: false,
+  contentType: "cluster",
+  hubPage: false,
+  relatedSlugs: [
+    "adu-construction-orange-county-2026-guide",
+    "adu-construction-costa-mesa-what-to-expect",
+  ],
+  primaryKeyword: "adu builder irvine",
+  secondaryKeywords: [
+    "irvine adu cost 2026",
+    "irvine adu permit process",
+    "irvine hoa adu rules",
+    "accessory dwelling unit irvine california",
+    "detached adu irvine backyard",
+    "irvine adu rental income",
+  ],
+  targetCities: ["Irvine"],
+  geoRadius: "tight",
+  ctaServiceType: "adu",
+  faq: [
+    {
+      question: "How much does an ADU cost in Irvine in 2026?",
+      answer:
+        "A detached ADU in Irvine costs $200,000–$350,000 for a 600–800 sqft unit. Garage conversions run $120,000–$220,000. Junior ADUs within the existing home cost $80,000–$150,000. Permit fees add $12,000–$18,000 on top of construction costs.",
+    },
+    {
+      question: "Can my Irvine HOA block me from building an ADU?",
+      answer:
+        "No. California AB 68 and AB 881 prohibit HOAs from blocking ADU construction. Irvine HOAs can require design compatibility — matching rooflines, materials, and colors — but cannot deny your ADU permit request or impose rules that effectively prevent construction.",
+    },
+    {
+      question: "How long does the Irvine ADU permit process take?",
+      answer:
+        "The City of Irvine's 2024-streamlined process delivers permits in 6–10 weeks for complete, code-compliant applications. HOA architectural review runs parallel and takes 4–8 weeks. Total pre-construction time from design start to permit issuance is typically 12–16 weeks.",
+    },
+    {
+      question: "What is the ADU rental income potential near UC Irvine?",
+      answer:
+        "Irvine's average one-bedroom rent is $3,200/month in 2026. ADUs near UC Irvine — in University Park, Turtle Rock, or Woodbridge — command $3,000–$3,600/month from faculty and researchers. A $280,000 ADU at $3,200/month yields 13.7% gross annually.",
+    },
+  ],
+  reviewQuotes: [],
+  gbpSummary:
+    "Stone Development Inc. builds ADUs in Irvine, CA — detached units, garage conversions, and JADUs across Woodbridge, Northwood, Turtle Rock, University Park, Portola Springs, and Great Park neighborhoods. 2026 ADU costs: $150,000–$400,000+. City permit approvals in 6–10 weeks. HOAs cannot block your ADU per California law. Licensed contractor #1146382. Free site evaluations. Call (949) 508-6763.",
+  indexPriority: 0.8,
+  noindex: false,
+  canonicalTo: null,
+  reviewAfterDays: 90,
+  reviewAfterImpressions: 300,
+  mergeTarget: null,
+  lastGscReview: null,
+},
+{
+  id: 15,
+  slug: "adu-construction-orange-county-2026-guide",
+  title: "ADU Builder Orange County: The Definitive 2026 Construction Guide",
+  metaTitle: "ADU Builder Orange County — 2026 Complete Guide | Stone Development Inc.",
+  metaDescription: "Orange County ADU costs, permits, AB 1033, SB 9 lot splits, and submarket breakdowns for 2026. Detached ADUs from $150K. Free consultation. CA Lic #1146382. (949) 508-6763.",
+  excerpt: "Everything Orange County homeowners need to know about building an ADU in 2026 — costs by type, permit timelines by city, state law preemptions, and how OC submarkets change every calculation.",
+  content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Orange County has more permitted ADUs per capita than any other Southern California county outside of Los Angeles — and in 2026, the regulatory environment is the most permissive it has ever been. California's ADU reform laws now override local restrictions that slowed construction for decades. Whether your property is in Irvine's master-planned grid, a Huntington Beach coastal zone lot, or an Anaheim single-family neighborhood near the resort corridor, an ADU is almost certainly buildable. The question is which type, at what cost, and on what timeline.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">This guide is written specifically for Orange County homeowners. Every cost figure, permit timeline, and zoning reference reflects OC cities — not California state averages, not Bay Area numbers, not generic national data. Stone Development Inc. operates out of Irvine (1 Jenner Suite 150), holds CA License #1146382, and has built ADUs across OC's most active submarkets. Every section here draws from that work.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">2026 Orange County ADU — At a Glance</p>
+  <p style="color: #141414; line-height: 1.7;">A detached ADU in Orange County costs <strong>$150,000–$350,000+</strong>, an attached or conversion ADU costs <strong>$80,000–$200,000</strong>, and a Junior ADU (JADU) costs <strong>$40,000–$100,000</strong>. Permit approval runs <strong>8–16 weeks</strong> depending on city. Total project timeline from design to certificate of occupancy is <strong>10–18 months</strong>. State law now preempts most local restrictions — setbacks are 4 feet rear and side, owner-occupancy is not required through at least 2025, and AB 1033 lets you sell a detached ADU as a separate condo unit.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Ready to find out what is buildable on your lot? <a href="/contact?service=adu" style="color: #B8892A; font-weight: 600;">Request a free site evaluation</a> or call Stone Development at <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>. We assess setbacks, utilities, and permit requirements before you spend a dollar on design.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Are the ADU Types Available in Orange County?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">California law recognizes four distinct ADU types, and each carries different cost profiles, permit requirements, and rental potential. Orange County cities cannot restrict which type you build — state law preempts local ordinances that attempt to ban or limit ADU types on single-family lots. Your choice comes down to lot size, existing structures, and budget.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">ADU Type</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range (OC 2026)</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Max Size</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical OC Rent</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Best Scenario</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Detached ADU</td>
+        <td style="padding: 0.75rem 1rem;">$150,000–$350,000+</td>
+        <td style="padding: 0.75rem 1rem;">1,200 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$2,500–$4,200/mo</td>
+        <td style="padding: 0.75rem 1rem;">Backyard space 1,200 sq ft+, maximum privacy and rental income</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Attached ADU</td>
+        <td style="padding: 0.75rem 1rem;">$120,000–$200,000</td>
+        <td style="padding: 0.75rem 1rem;">50% of primary or 1,200 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$2,000–$3,500/mo</td>
+        <td style="padding: 0.75rem 1rem;">Adding a new wing to the main house with separate entrance</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Garage/Space Conversion</td>
+        <td style="padding: 0.75rem 1rem;">$80,000–$175,000</td>
+        <td style="padding: 0.75rem 1rem;">Existing footprint</td>
+        <td style="padding: 0.75rem 1rem;">$1,800–$3,000/mo</td>
+        <td style="padding: 0.75rem 1rem;">Existing detached garage in good structural condition</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Junior ADU (JADU)</td>
+        <td style="padding: 0.75rem 1rem;">$40,000–$100,000</td>
+        <td style="padding: 0.75rem 1rem;">500 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$1,400–$2,200/mo</td>
+        <td style="padding: 0.75rem 1rem;">Bedroom with private entrance and kitchenette, lower buildout cost</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Why Does ADU Construction Cost More in Orange County Than State Averages?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Orange County's construction costs run 18–25% above California's statewide average, driven by three concrete factors. Licensed trade labor — electricians, plumbers, HVAC technicians — commands $95–$175 per hour across OC versus $75–$130 statewide. Material delivery costs reflect OC's urban density: access to many lots is constrained, increasing crane and staging costs. And OC's coastal zone jurisdiction adds Title 24 energy compliance requirements that inland counties do not enforce at the same stringency.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Site conditions specific to OC also drive costs up. Expansive soils common in Anaheim Hills and Mission Viejo require deeper foundations and engineered fill. Coastal communities in Huntington Beach and Newport Beach face corrosion-resistant material requirements for any structure within 1,000 feet of salt air. Irvine's master-planned communities have HOA architectural review that adds 3–6 weeks before a permit package can even be submitted.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Do California's ADU Laws Change the Rules in Orange County?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">California has enacted a series of ADU reform statutes that override local restrictions, and every OC homeowner benefits from knowing three laws in particular. These are not theoretical protections — Stone Development has invoked each of them to unlock lots that local planning staff initially said were ineligible.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Does AB 1033 Mean for Orange County ADU Owners?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Assembly Bill 1033, which took effect January 1, 2024, allows cities to opt in to a program that permits detached ADUs to be sold separately from the primary residence as condominiums. Anaheim was among the first Orange County cities to adopt an AB 1033 ordinance. This changes the ADU value proposition fundamentally — a detached ADU is no longer just a rental income asset; it is a separately transferable unit of real estate. In OC's current market, a permitted 800-square-foot ADU near Anaheim Resort commands $425,000–$550,000 as a standalone sale.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Does SB 9 Apply to Orange County Single-Family Lots?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Senate Bill 9, effective January 2022, allows qualifying single-family lots to be split into two parcels, with up to two units permitted on each parcel. In practice, SB 9 enables an OC homeowner to build a main house plus ADU on each newly created lot — up to four units where one existed. Irvine, Huntington Beach, and Anaheim have processed SB 9 applications since 2022. The qualification criteria are specific: lots must be at least 2,400 square feet total, each resulting parcel must be at least 40% of the original lot area, and neither parcel can be smaller than 1,200 square feet. No discretionary approval is required — the split is ministerial.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">How Does State Preemption Protect ADU Applicants in OC Cities?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Government Code Section 65852.2 establishes that local agencies cannot impose development standards that effectively prohibit ADU construction. Concretely, this means OC cities cannot require: setbacks greater than 4 feet for rear and side yards on detached ADUs, more than one off-street parking space per unit (and zero if within half a mile of transit), or owner-occupancy as a condition of approval. Cities that have attempted to impose stricter standards have faced state enforcement action. When a local planner tells you that your property does not qualify under a local rule, that rule is frequently preempted by state law.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Do Orange County Submarkets Differ for ADU Construction?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Generic ADU advice treats all California cities as interchangeable. Orange County's submarkets are not. Permit timelines, HOA restrictions, coastal zone overlays, utility connection fees, and lot geometry vary city by city in ways that directly affect your project cost and feasibility. Here are three OC submarkets where these differences are most pronounced.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Irvine: HOA Overlay and Master-Plan Constraints</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine's ADU permitting runs through the Community Development Department, which processes complete applications in 10–14 weeks — on the longer end for OC. The material complication is the Irvine Company's HOA architectural review, which applies to most Village communities including Woodbridge, Northwood, Westpark, and Turtle Rock. HOA review adds 3–6 weeks before the permit package reaches the city. ADU designs must match primary residence architecture: matching stucco color, roof pitch within 15 degrees of the main house, and no visibility from the street.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The advantage in Irvine is rental demand. ADUs in Woodbridge and Northwood rent for $2,800–$3,800 per month for a one-bedroom unit, driven by proximity to UCI, the Irvine Spectrum, and major tech campuses. An 800-square-foot detached ADU in these communities generates $33,600–$45,600 annually — a cap rate of 9–13% on an all-in construction cost of $250,000–$350,000.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Huntington Beach: Coastal Zone Permitting and Lot Depth</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Huntington Beach ADU projects within the California Coastal Zone — roughly the area west of Beach Boulevard — require a Coastal Development Permit in addition to standard building permits. CDP review adds 8–16 weeks to the timeline and adds $3,500–$8,000 in application fees. However, Huntington Beach processes non-coastal ADU applications in 8–12 weeks, faster than many OC peers. The practical issue in HB is lot depth: the city's original subdivision grid produces lots that are 6,000–7,000 square feet but often only 120–140 feet deep, leaving tight rear yard clearance. A 400-square-foot detached ADU placed 4 feet from the rear property line is feasible on most standard HB lots.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Anaheim: AB 1033 Adoption and Resort-Adjacent Demand</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Anaheim is the most active AB 1033 jurisdiction in Orange County. The city adopted its ADU condominium ordinance in early 2024, and Stone Development has guided clients through the first round of AB 1033 conversions in the city. Lots within 2 miles of the Anaheim Resort — Disneyland, the Convention Center, and Angel Stadium — generate the highest ADU demand in OC from short-term rental operators and hospitality workers. Anaheim's permit review runs 10–14 weeks. Utility connection fees for a new detached ADU average $14,000–$22,000, which is higher than the OC average due to Anaheim's aging trunk infrastructure.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">What Is Buildable on Your Orange County Lot?</h3>
+  <p style="margin-bottom: 1rem;">Stone Development Inc. provides free site feasibility assessments — setbacks, utility connections, HOA requirements, and a cost-range estimate before you commit to design fees. CA License #1146382. Serving all of Orange County from our Irvine office.</p>
+  <a href="/contact?service=adu" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Request Free Site Evaluation</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Does the ADU Permit Process Look Like in Orange County?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Orange County ADU permitting follows a consistent structure across cities, with variation in timeline and fees. Every project requires the same core documentation, and the quality of the submittal package is the single largest factor controlling how fast you get approved. Incomplete submittals trigger correction cycles that add 4–8 weeks each. Stone Development submits complete packages on the first attempt — our plan check correction rate is under 15%.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Documents Are Required for an ADU Permit Application in OC?</h3>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Site plan</strong> — Scaled drawing showing existing structures, setbacks, utilities, and proposed ADU location with dimensions</li>
+  <li><strong>Architectural drawings</strong> — Floor plan, elevations (all four sides), sections, and window/door schedule</li>
+  <li><strong>Structural engineering calculations</strong> — Required for all detached ADUs and any conversion involving roof or wall modifications</li>
+  <li><strong>Title-24 energy compliance report</strong> — California's residential energy code; detached ADUs require a complete HERS verification</li>
+  <li><strong>Geotechnical report</strong> — Required on hillside lots, expansive soil zones, and lots within 50 feet of a descending slope</li>
+  <li><strong>Utility will-serve letters</strong> — Water and sewer confirmation from the serving district, separate from the city building department</li>
+  <li><strong>HOA approval letter</strong> — Required in Irvine and most master-planned OC communities before city submittal</li>
+</ul>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">OC City</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Permit Timeline</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Plan Check Fee (Detached)</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">School Fees (Per Sq Ft)</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Notable Requirement</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Irvine</td>
+        <td style="padding: 0.75rem 1rem;">10–14 weeks</td>
+        <td style="padding: 0.75rem 1rem;">$4,200–$7,800</td>
+        <td style="padding: 0.75rem 1rem;">$4.08</td>
+        <td style="padding: 0.75rem 1rem;">HOA approval required before city submittal</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Huntington Beach</td>
+        <td style="padding: 0.75rem 1rem;">8–12 weeks</td>
+        <td style="padding: 0.75rem 1rem;">$3,800–$6,500</td>
+        <td style="padding: 0.75rem 1rem;">$4.08</td>
+        <td style="padding: 0.75rem 1rem;">Coastal Development Permit required west of Beach Blvd</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Anaheim</td>
+        <td style="padding: 0.75rem 1rem;">10–14 weeks</td>
+        <td style="padding: 0.75rem 1rem;">$4,500–$8,200</td>
+        <td style="padding: 0.75rem 1rem;">$4.08</td>
+        <td style="padding: 0.75rem 1rem;">AB 1033 ordinance adopted; condo conversion available</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Costa Mesa</td>
+        <td style="padding: 0.75rem 1rem;">8–14 weeks</td>
+        <td style="padding: 0.75rem 1rem;">$3,500–$6,200</td>
+        <td style="padding: 0.75rem 1rem;">$4.08</td>
+        <td style="padding: 0.75rem 1rem;">Ministerial review — no discretionary hearing required</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Mission Viejo</td>
+        <td style="padding: 0.75rem 1rem;">10–16 weeks</td>
+        <td style="padding: 0.75rem 1rem;">$4,000–$7,000</td>
+        <td style="padding: 0.75rem 1rem;">$4.08</td>
+        <td style="padding: 0.75rem 1rem;">Hillside lots require geotechnical and drainage plans</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Is the Full ADU Construction Timeline in Orange County?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">A complete Orange County ADU project — from the first site visit to receiving your Certificate of Occupancy — takes 10–18 months. The wide range reflects three variables: ADU type, permit timeline by city, and whether unforeseen site conditions trigger additional engineering. Detached new-construction ADUs take the longest; JADU conversions take the shortest.</p>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Phase 1 — Feasibility and Design (4–8 weeks):</strong> Site visit, setback verification, utility stub mapping, architectural drawings, structural engineering, Title-24 compliance</li>
+  <li><strong>Phase 2 — Permit Submittal and Approval (8–16 weeks):</strong> Plan check submission, correction cycles if any, permit issuance; HOA review runs concurrently for Irvine and master-planned communities</li>
+  <li><strong>Phase 3 — Site Preparation (1–2 weeks):</strong> Demolition of existing structures if applicable, grading, utility staking and trenching</li>
+  <li><strong>Phase 4 — Foundation (2–3 weeks):</strong> Excavation, rebar placement, concrete pour, cure time; hillside lots add 1–2 weeks for engineered fill compaction</li>
+  <li><strong>Phase 5 — Framing (2–4 weeks):</strong> Wall framing, roof structure, sheathing, windows and exterior doors roughed in</li>
+  <li><strong>Phase 6 — MEP Rough-In (3–5 weeks):</strong> Electrical panel sub-feed, plumbing water/drain/sewer, HVAC ducting and equipment pad; rough-in inspections required before insulation</li>
+  <li><strong>Phase 7 — Insulation and Drywall (2–3 weeks):</strong> Insulation inspection, hang, tape, texture, primer coat</li>
+  <li><strong>Phase 8 — Finishes (4–6 weeks):</strong> Flooring, cabinetry, countertops, tile, plumbing fixtures, electrical trim, paint, exterior landscaping repair</li>
+  <li><strong>Phase 9 — Final Inspection and CO (1–2 weeks):</strong> Final building, electrical, plumbing, and mechanical inspections; Certificate of Occupancy issuance</li>
+</ul>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Does an ADU Actually Cost to Build in Orange County in 2026?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Cost transparency is the issue that separates good ADU contractors from bad ones. The figures below reflect Stone Development's completed projects and current subcontractor pricing across Orange County. Every project has a unique number — but every project also starts from a consistent baseline that makes early budgeting reliable.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Component</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Detached ADU (800 sq ft)</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Garage Conversion</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">JADU (400 sq ft)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Design and Engineering</td>
+        <td style="padding: 0.75rem 1rem;">$12,000–$22,000</td>
+        <td style="padding: 0.75rem 1rem;">$6,000–$12,000</td>
+        <td style="padding: 0.75rem 1rem;">$3,500–$7,000</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Permits and Fees</td>
+        <td style="padding: 0.75rem 1rem;">$18,000–$32,000</td>
+        <td style="padding: 0.75rem 1rem;">$8,000–$16,000</td>
+        <td style="padding: 0.75rem 1rem;">$4,000–$9,000</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Foundation and Site Work</td>
+        <td style="padding: 0.75rem 1rem;">$22,000–$45,000</td>
+        <td style="padding: 0.75rem 1rem;">$4,000–$12,000</td>
+        <td style="padding: 0.75rem 1rem;">$2,000–$6,000</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Framing and Exterior</td>
+        <td style="padding: 0.75rem 1rem;">$38,000–$65,000</td>
+        <td style="padding: 0.75rem 1rem;">$12,000–$25,000</td>
+        <td style="padding: 0.75rem 1rem;">$4,000–$9,000</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">MEP (Mechanical, Electrical, Plumbing)</td>
+        <td style="padding: 0.75rem 1rem;">$35,000–$60,000</td>
+        <td style="padding: 0.75rem 1rem;">$18,000–$38,000</td>
+        <td style="padding: 0.75rem 1rem;">$8,000–$18,000</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Interior Finishes</td>
+        <td style="padding: 0.75rem 1rem;">$28,000–$55,000</td>
+        <td style="padding: 0.75rem 1rem;">$22,000–$48,000</td>
+        <td style="padding: 0.75rem 1rem;">$10,000–$28,000</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Utility Connection Fees</td>
+        <td style="padding: 0.75rem 1rem;">$10,000–$22,000</td>
+        <td style="padding: 0.75rem 1rem;">$4,000–$10,000</td>
+        <td style="padding: 0.75rem 1rem;">$2,000–$5,000</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600; border-top: 2px solid #141414;">Total Estimated Range</td>
+        <td style="padding: 0.75rem 1rem; font-weight: 700; border-top: 2px solid #141414;">$163,000–$301,000</td>
+        <td style="padding: 0.75rem 1rem; font-weight: 700; border-top: 2px solid #141414;">$74,000–$161,000</td>
+        <td style="padding: 0.75rem 1rem; font-weight: 700; border-top: 2px solid #141414;">$33,500–$82,000</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Premium finishes, hillside lots, coastal zone requirements, or complex MEP configurations push detached ADUs toward $350,000 and above. The figures above represent standard conditions on a flat OC lot with good utility access. Orange County ADU projects are routinely the most expensive in the state — and routinely among the fastest to achieve positive cash flow, given the depth of OC rental demand.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Does an Orange County ADU Perform at Resale and as a Rental?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">An 800-square-foot permitted detached ADU adds $280,000–$420,000 to a primary residence's appraised value in Orange County's current market, based on income-approach appraisals used by lenders. That valuation assumes a market rent of $2,500–$3,500 per month and a 5–6% capitalization rate. OC appraisers now treat permitted ADUs as income-producing units, not as amenities — the rental income is factored into the appraisal directly, not as a soft benefit.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">For homeowners using an ADU Construction Loan or a cash-out refinance to fund construction, the rent-to-debt-service calculation is compelling. An 800-square-foot Irvine ADU generating $3,200/month covers approximately $180,000 of construction financing at 7.5% over 30 years. Most OC homeowners break even on carrying cost within 18–24 months of receiving the Certificate of Occupancy. Read our <a href="/blog/adu-construction-costa-mesa-what-to-expect" style="color: #B8892A; font-weight: 600;">ADU construction walkthrough for Costa Mesa</a> for a city-specific example of how these numbers work in practice.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Why Choose Stone Development Inc. as Your Orange County ADU Builder?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. is a licensed general contractor (CA License #1146382) with 20+ years of construction experience across Southern California. Our Irvine office at 1 Jenner Suite 150 serves the entire Orange County market — from Anaheim in the north to Mission Viejo in the south. We handle every phase of ADU construction in-house or through a vetted subcontractor network we have worked with across hundreds of projects.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Our ADU clients receive a fixed-scope contract with no surprise change orders for items that were identifiable during the pre-construction site assessment. We identify soil conditions, utility conflicts, HOA requirements, and coastal zone implications before the design phase begins — so the budget you approve is the budget you build. See examples of our completed projects in our <a href="/portfolio" style="color: #B8892A; font-weight: 600;">project portfolio</a>.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2.5rem; border-radius: 8px; margin: 2.5rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.75rem; color: #B8892A; margin-bottom: 0.75rem;">Start Your Orange County ADU in 2026</h3>
+  <p style="font-size: 1.1rem; margin-bottom: 0.5rem;">Stone Development Inc. — Licensed, bonded, and insured. 20+ years in Southern California.</p>
+  <p style="margin-bottom: 1.5rem;">CA License #1146382 | 1 Jenner Suite 150, Irvine | Serving all of Orange County</p>
+  <a href="/contact?service=adu" style="display: inline-block; background: #B8892A; color: #141414; padding: 1rem 2.5rem; border-radius: 4px; text-decoration: none; font-weight: 700; font-size: 1.1rem; margin-right: 1rem;">Get Your Free Consultation</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 1rem 2.5rem; border-radius: 4px; text-decoration: none; font-weight: 600; font-size: 1.1rem;">Call (949) 508-6763</a>
+  <p style="margin-top: 1.5rem; font-size: 0.875rem; opacity: 0.8;">Mon–Fri 8:00 AM – 6:00 PM | Free estimates, same-day response</p>
+</div>
+
+</article>`,
+  category: "ADU Construction",
+  date: "2026-03-27",
+  lastUpdated: "2026-03-27",
+  readTime: "14 min read",
+  author: "Stone Development Team",
+  image: "/images/blog/adu-construction-orange-county.jpg",
+  imageAlt: "Detached ADU under construction on an Orange County single-family lot by Stone Development Inc.",
+  featured: false,
+  contentType: "hub",
+  hubPage: true,
+  relatedSlugs: [
+    "adu-construction-costa-mesa-what-to-expect",
+    "kitchen-remodel-cost-irvine-2026",
+    "master-bath-vs-guest-bath-remodel-newport-beach",
+  ],
+  primaryKeyword: "adu builder orange county",
+  secondaryKeywords: [
+    "orange county adu construction 2026",
+    "adu cost orange county",
+    "accessory dwelling unit orange county",
+    "adu permit orange county",
+    "AB 1033 orange county adu",
+    "detached adu orange county builder",
+  ],
+  targetCities: ["Orange County"],
+  geoRadius: "medium",
+  ctaServiceType: "adu",
+  faq: [
+    {
+      question: "How much does it cost to build an ADU in Orange County in 2026?",
+      answer:
+        "A detached ADU in Orange County costs $150,000–$350,000+. Garage conversions run $80,000–$175,000. Junior ADUs (JADUs) cost $40,000–$100,000. OC construction costs run 18–25% above California's statewide average due to trade labor rates and site conditions.",
+    },
+    {
+      question: "Can I sell my Orange County ADU separately under AB 1033?",
+      answer:
+        "Yes, if your city has adopted an AB 1033 ordinance. Anaheim adopted AB 1033 in early 2024, allowing detached ADUs to be sold as standalone condominiums. Check with your specific city's planning department for current adoption status.",
+    },
+    {
+      question: "Does California law override local ADU restrictions in Orange County cities?",
+      answer:
+        "Yes. Government Code Section 65852.2 preempts local ordinances that effectively prohibit ADUs. OC cities cannot require setbacks greater than 4 feet, more than one parking space, or owner-occupancy as a condition of approval.",
+    },
+    {
+      question: "How long does ADU construction take in Orange County from start to move-in?",
+      answer:
+        "The full timeline from first design meeting to Certificate of Occupancy is 10–18 months. Permit approval alone takes 8–16 weeks depending on the city. Detached new-construction ADUs take longest; JADU conversions within the existing home take the shortest path.",
+    },
+  ],
+  reviewQuotes: [],
+  gbpSummary:
+    "Orange County ADU builder — detached ADUs from $150,000, garage conversions from $80,000, JADUs from $40,000. Stone Development Inc. (CA License #1146382) handles design, permits, and construction across all OC cities including Irvine, Huntington Beach, Anaheim, Costa Mesa, and Mission Viejo. AB 1033 and SB 9 specialists. Free site evaluation: (949) 508-6763.",
+  indexPriority: 0.95,
+  noindex: false,
+  canonicalTo: null,
+  reviewAfterDays: 90,
+  reviewAfterImpressions: 300,
+  mergeTarget: null,
+  lastGscReview: null,
+},
+  {
+  id: 19,
+  slug: "huntington-beach-bathroom-remodel-coastal-2026",
+  title: "Huntington Beach Bathroom Remodel: Salt Air, Small Footprints, and 2026 Costs",
+  metaTitle: "Huntington Beach Bathroom Remodel: Coastal Materials & 2026 Costs",
+  metaDescription:
+    "Bathroom remodels in Huntington Beach cost $22,000-$85,000 in 2026. Salt air corrosion, 1960s galvanized plumbing, and small ranch footprints define HB\u2019s unique remodeling challenges. Licensed contractor #1146382. Free estimates: (949) 508-6763.",
+  excerpt:
+    "Bathroom remodels in Huntington Beach cost $22,000-$85,000 in 2026. From salt-air-resistant fixtures in beach-adjacent ranches to luxury harbor-view master suites in Huntington Harbour, this guide covers every HB neighborhood, material requirement, and cost driver.",
+  content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Within two miles of the Huntington Beach Pier, salt air attacks bathroom fixtures faster than anywhere else in Orange County. Chrome faucets corrode in as few as three years. Standard drywall behind tile wicks moisture and grows mold. Galvanized supply pipes installed in 1965 \u2014 still present in the majority of homes west of Beach Blvd \u2014 reduce water flow to a trickle by the time a homeowner calls for a remodel. Huntington Beach is Surf City USA in more ways than one: the ocean sets the remodeling agenda, and contractors who ignore coastal conditions create bathrooms that fail within a decade. This guide covers what HB homeowners actually encounter when they open a wall in a 1960s ranch, what materials perform in a marine environment, and what every project segment costs in 2026.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">A bathroom remodel in Huntington Beach costs $22,000 to $85,000 in 2026. Standard guest bath renovations in 1960s ranch homes average $22,000\u2013$38,000. Full master bath remodels in inland neighborhoods (Seacliff, Goldenwest) run $42,000\u2013$70,000. Luxury harbor-view master suites in Huntington Harbour range from $60,000 to $120,000. All projects touching plumbing or electrical require City of Huntington Beach permits.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. is a licensed general contractor (CA License #1146382) with over 20 years completing bathroom renovations across Orange County\u2019s coastal communities. Our team specifies marine-grade materials, manages HB building permits, and understands the infrastructure challenges specific to the city\u2019s dominant 1955\u20131975 housing stock. Call us at <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a> or <a href="/contact?service=bathroom-remodel" style="color: #B8892A; font-weight: 600;">request a free estimate online</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Why Huntington Beach Bathrooms Are Different from the Rest of Orange County</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Three factors make Huntington Beach bathroom remodels distinctly different from projects in inland Orange County cities: coastal corrosion, aging housing infrastructure, and small original footprints. Homes west of Beach Blvd sit within the marine-influence zone where salt-laden air accelerates oxidation on metal fixtures, shower valve bodies, and water supply connections. The National Association of Corrosion Engineers classifies areas within 1 mile of the ocean as a C4 corrosivity category \u2014 requiring stainless, solid brass, or PVD-coated fixtures to achieve a 10-year service life.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The city\u2019s dominant housing stock dates to 1955\u20131975: single-story ranch homes with 1,200\u20131,800 square feet, original cast iron tubs, and galvanized steel supply pipes that have been corroding internally for 50+ years. Pre-1975 homes almost universally require plumbing replacement when walls open during a remodel. Galvanized pipe replacement with PEX adds $3,500\u2013$7,000 to any project \u2014 a cost that surprises homeowners who budget from national averages rather than local conditions.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Original bathrooms in Huntington Beach ranches are typically 40\u201355 square feet \u2014 some of the smallest footprints in Orange County\u2019s housing stock. That size constraint drives creative layout decisions: converting a tub-only bathroom to a walk-in shower, repositioning a vanity to gain floor clearance, or combining a hall bath with adjacent closet space to expand the footprint. Every linear foot of space reconfiguration adds permitting requirements and licensed trade costs.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Huntington Beach Bathroom Remodel Costs in 2026</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The following cost ranges reflect actual project data from Huntington Beach and coastal Orange County as of early 2026. Coastal material premiums \u2014 marine-grade fixtures, cement board versus standard drywall, enhanced waterproofing systems \u2014 add 8\u201315% to material costs compared to inland projects of equivalent scope.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Project Type</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Scope</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Guest Bath / Hall Bath Refresh</td>
+        <td style="padding: 0.75rem 1rem;">$15,000\u2013$28,000</td>
+        <td style="padding: 0.75rem 1rem;">New vanity, toilet, tile surround, fixtures \u2014 no layout change</td>
+        <td style="padding: 0.75rem 1rem;">2\u20134 weeks</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Full Guest Bath Renovation</td>
+        <td style="padding: 0.75rem 1rem;">$22,000\u2013$38,000</td>
+        <td style="padding: 0.75rem 1rem;">Complete gut including new plumbing, waterproofing, cement board, new tub or shower conversion, niche, lighting</td>
+        <td style="padding: 0.75rem 1rem;">3\u20135 weeks</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Master Bath Remodel (inland HB)</td>
+        <td style="padding: 0.75rem 1rem;">$42,000\u2013$70,000</td>
+        <td style="padding: 0.75rem 1rem;">Walk-in shower, soaking tub, double vanity, heated floor, updated plumbing and electrical</td>
+        <td style="padding: 0.75rem 1rem;">6\u201310 weeks</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Master Bath Remodel (coastal, west of Beach Blvd)</td>
+        <td style="padding: 0.75rem 1rem;">$48,000\u2013$85,000</td>
+        <td style="padding: 0.75rem 1rem;">All of above plus marine-grade fixtures, enhanced ventilation, PEX repipe, anti-humidity wall assembly</td>
+        <td style="padding: 0.75rem 1rem;">7\u201311 weeks</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Huntington Harbour Luxury Master Bath</td>
+        <td style="padding: 0.75rem 1rem;">$60,000\u2013$120,000</td>
+        <td style="padding: 0.75rem 1rem;">Custom tile work, harbor-view window treatment, steam shower, freestanding tub, premium fixtures, radiant heat</td>
+        <td style="padding: 0.75rem 1rem;">10\u201316 weeks</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Adds Cost in Huntington Beach Specifically</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Plumbing replacement is the single most common cost adder in HB remodels. Pre-1975 homes have galvanized steel supply lines that corrode from the inside out, leaving mineral-coated pipes that restrict flow and fail unpredictably. Opening walls for a tile surround replacement almost always reveals plumbing that must be replaced before work proceeds. Homeowners who plan for this upfront with a $3,500\u2013$7,000 budget allocation avoid the most disruptive mid-project change orders.</p>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Marine-grade fixture premium</strong> \u2014 Solid brass or PVD-finished fixtures cost 30\u201360% more than standard chrome but are required within the coastal corrosion zone to avoid premature failure.</li>
+  <li><strong>Enhanced ventilation</strong> \u2014 Beach-adjacent homes require CFM-rated exhaust fans (minimum 110 CFM for bathrooms under 60 sqft) with humidity-sensing controls to manage salt-air moisture. Cost: $450\u2013$950 installed.</li>
+  <li><strong>Waterproofing systems</strong> \u2014 Schluter Kerdi or RedGard membrane systems replace standard cement board in wet areas. Adds $800\u2013$1,800 per shower enclosure but eliminates moisture intrusion failures.</li>
+  <li><strong>Clay soil foundation checks</strong> \u2014 Near Bolsa Chica, expansive clay soil causes foundation movement that cracks tile and shifts drain connections. Foundation assessment before tile work avoids repeat repairs.</li>
+  <li><strong>HOA approval timelines</strong> \u2014 Seacliff and Brightwater HOAs require architectural review 14\u201321 days before construction. Build this into your project timeline to avoid start delays.</li>
+</ul>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Neighborhood-by-Neighborhood Guide</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Huntington Harbour: Waterfront Luxury</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Huntington Harbour is the highest-spend segment in Huntington Beach. Waterfront properties with harbor or ocean views support master bath renovations budgeted at $60,000\u2013$120,000. Projects focus on maximizing views from the shower or soaking tub, using large-format porcelain tile (24x48 or 48x48 inches), and specifying steam systems for a spa-like experience. Homes here face maximum coastal corrosion exposure and require exclusively marine-grade or PVD-finished fixtures throughout. Stone Development completes several Huntington Harbour projects annually and maintains full familiarity with the community\u2019s HOA approval process.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Downtown HB and Beach-Adjacent Bungalows</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Downtown Huntington Beach cottages and bungalows present the city\u2019s most constrained bathroom footprints \u2014 often 35\u201350 square feet with original cast iron tubs sitting in alcoves never designed for conversion. Tub-to-shower conversions are the most requested project type here, freeing 8\u201312 square feet of perceived space while eliminating a fixture that most residents under 60 never use. These projects cost $14,000\u2013$22,000 and typically require permit approval for drain repositioning.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Seacliff and Goldenwest: Mid-Range Ranch Renovations</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Seacliff and Goldenwest neighborhoods are dominated by 1960s\u20131980s single-story homes where bathrooms are 50\u201365 square feet with original builder-grade tile installed during the Ford or Carter administration. Full gut renovations in these neighborhoods run $28,000\u2013$55,000 for a master bath and $18,000\u2013$32,000 for a hall bath. Seacliff\u2019s HOA covers portions of the area and requires architectural submittals for exterior-visible elements, though bathroom interiors typically process without restriction.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Bolsa Chica and Inland HB: Foundation Considerations</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The Bolsa Chica corridor and areas directly east of the wetlands sit on expansive clay soil that heaves and settles seasonally. This soil movement generates hairline cracks in tile at grout lines and shifts drain connections as little as 3\u20135mm \u2014 enough to cause slow leaks that go undetected for years. Stone Development assesses the slab condition before specifying tile layout in this zone. Using a crack-isolation membrane (Schluter Ditra) under all floor tile adds $600\u2013$1,200 and prevents recurrence.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Get Your Huntington Beach Bathroom Remodel Priced</h3>
+  <p style="margin-bottom: 1rem;">Stone Development Inc. provides free, itemized estimates for every bathroom type across all HB neighborhoods \u2014 beach-adjacent bungalows, Huntington Harbour waterfront homes, and inland ranches alike. No vague ranges. No surprise fees. CA License #1146382.</p>
+  <a href="/contact?service=bathroom-remodel" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Request Free Estimate</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">A Typical Huntington Beach Ranch Bathroom Project</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Consider a 1965 ranch home in the Goldenwest neighborhood \u2014 1,450 square feet, original 52-square-foot hall bath with a cast iron tub, 4x4 ceramic wall tile, and galvanized supply pipes. The homeowner wants a walk-in shower, updated vanity, and modern tile throughout. This is the most common project Stone Development executes in Huntington Beach.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The scope begins with full demo: tub removal, tile strip to the studs, and opening supply and drain walls to assess infrastructure. As expected in a pre-1975 home, galvanized supply lines show significant internal corrosion. PEX repiping of the bathroom runs $4,200. The drain configuration is reoriented 18 inches to position the shower drain correctly, requiring a new City of Huntington Beach plumbing permit with a 7\u201310 business day approval window.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Wall assembly uses Schluter Kerdi membrane over cement board \u2014 a coastal-climate moisture barrier that outlasts standard waterproofing methods. Floor and wall tile is a 12x24 porcelain in a matte sand finish, a modern low-maintenance format suited to the neighborhood\u2019s character. The vanity specifies a solid brass valve body with PVD brushed nickel finish \u2014 corrosion-resistant for the home\u2019s Beach Blvd proximity. An exhaust fan rated at 130 CFM with humidity sensing rounds out the assembly. Total project cost: $31,500. Timeline: 5 weeks including permit processing.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Materials That Perform in Huntington Beach\u2019s Marine Environment</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Material selection is where Huntington Beach bathroom remodels diverge most from inland Orange County projects. The table below shows which products hold up in HB\u2019s salt-air conditions and which fail prematurely.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Component</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Avoid in HB</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Specify in HB</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Premium</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Faucets &amp; Shower Valves</td>
+        <td style="padding: 0.75rem 1rem;">Chrome-plated zinc alloy</td>
+        <td style="padding: 0.75rem 1rem;">Solid brass body, PVD finish (brushed nickel, matte black)</td>
+        <td style="padding: 0.75rem 1rem;">+35\u201360%</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Shower Wall Backer</td>
+        <td style="padding: 0.75rem 1rem;">Standard moisture-resistant drywall</td>
+        <td style="padding: 0.75rem 1rem;">Cement board + Schluter Kerdi membrane</td>
+        <td style="padding: 0.75rem 1rem;">+$800\u2013$1,800</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Exhaust Fan</td>
+        <td style="padding: 0.75rem 1rem;">Builder-grade 50 CFM</td>
+        <td style="padding: 0.75rem 1rem;">110\u2013150 CFM with humidity sensor</td>
+        <td style="padding: 0.75rem 1rem;">+$300\u2013$600</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Grout</td>
+        <td style="padding: 0.75rem 1rem;">Unsanded cement grout</td>
+        <td style="padding: 0.75rem 1rem;">Epoxy grout or polymer-modified sanded grout with sealer</td>
+        <td style="padding: 0.75rem 1rem;">+$400\u2013$900</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Floor Tile Membrane</td>
+        <td style="padding: 0.75rem 1rem;">Thinset directly to slab (Bolsa Chica area)</td>
+        <td style="padding: 0.75rem 1rem;">Schluter Ditra uncoupling membrane</td>
+        <td style="padding: 0.75rem 1rem;">+$600\u2013$1,200</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Supply Plumbing</td>
+        <td style="padding: 0.75rem 1rem;">Galvanized steel (existing pre-1975)</td>
+        <td style="padding: 0.75rem 1rem;">PEX-A or copper</td>
+        <td style="padding: 0.75rem 1rem;">$3,500\u2013$7,000</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Permits for Bathroom Remodels in Huntington Beach</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The City of Huntington Beach requires permits for any bathroom remodel that involves plumbing changes, electrical work, or structural modifications. Cosmetic updates \u2014 replacing a vanity in the same location, painting, swapping hardware \u2014 do not require permits. The following project types require permits under HB Building &amp; Safety Department rules:</p>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li>Moving or adding any plumbing fixture (toilet, shower, tub, sink)</li>
+  <li>Replacing supply lines or drain waste vent connections</li>
+  <li>Adding or relocating electrical outlets, switches, or exhaust fans</li>
+  <li>Removing or altering any wall (load-bearing or non-load-bearing if it affects structure)</li>
+  <li>Expanding bathroom footprint into adjacent space</li>
+</ul>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Permit approval in Huntington Beach takes 7\u201314 business days for over-the-counter submittals and 3\u20136 weeks for plan-check projects requiring structural calculations. Stone Development handles all permit applications, inspections, and final sign-offs as part of every project \u2014 homeowners never visit the building department. Unpermitted bathroom work creates title issues at resale and voids homeowner\u2019s insurance coverage for related water damage claims.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">ROI: What a Bathroom Remodel Returns in Huntington Beach\u2019s Market</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Huntington Beach\u2019s median home price reached approximately $1.1 million in 2026, driven by coastal premium and persistent inventory constraints in desirable neighborhoods. At that median, bathroom renovations deliver measurable returns: a mid-range guest bath renovation ($25,000\u2013$35,000) recoups 58\u201368% at resale, while a luxury master bath upgrade ($55,000\u2013$85,000) in a Huntington Harbour property returns 65\u201375% given the segment\u2019s premium buyer profile.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Beyond resale figures, the return calculation in Huntington Beach includes avoided failure costs. A bathroom with corroded chrome fixtures, failing grout, and standard drywall backer in a beach-adjacent home is a deferred maintenance liability. When that bathroom fails \u2014 and in coastal conditions it will \u2014 remediation costs (mold abatement, water damage repair, structural fixes) average $18,000\u2013$45,000 depending on how long moisture intrusion goes undetected. A $30,000 proactive remodel with marine-grade materials eliminates that liability entirely.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Frequently Asked Questions About Bathroom Remodels in Huntington Beach</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin: 1.5rem 0 0.5rem;">How much does a bathroom remodel cost in Huntington Beach?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Bathroom remodels in Huntington Beach cost $22,000 to $85,000 in 2026 depending on scope and location within the city. Full guest bath renovations average $22,000\u2013$38,000. Master bath remodels in beach-adjacent homes run $48,000\u2013$85,000. Huntington Harbour luxury master suites reach $60,000\u2013$120,000.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin: 1.5rem 0 0.5rem;">Do pre-1975 Huntington Beach homes need plumbing replacement during a bathroom remodel?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Yes. The vast majority of pre-1975 HB homes have original galvanized steel supply pipes that corrode internally over time. When walls open for a tile or shower project, replacing these lines with PEX is required before closing walls. Budget $3,500\u2013$7,000 for bathroom PEX repiping in any home built before 1975.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin: 1.5rem 0 0.5rem;">What fixtures should I specify for a beach-adjacent Huntington Beach bathroom?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Homes west of Beach Blvd require solid brass valve bodies with PVD (Physical Vapor Deposition) finishes \u2014 brushed nickel, matte black, or champagne bronze. Avoid chrome-plated zinc alloy fixtures entirely in the coastal zone. PVD finishes resist salt air corrosion and maintain appearance for 10+ years versus 2\u20134 years for standard chrome.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin: 1.5rem 0 0.5rem;">Do I need a permit for a bathroom remodel in Huntington Beach?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Yes, for any project involving plumbing, electrical, or structural changes. The City of Huntington Beach Building &amp; Safety Department issues permits with a 7\u201314 business day approval window for standard submittals. Stone Development handles all permit applications and inspections as part of every project scope.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">For a comprehensive look at bathroom remodeling costs and standards across all of Orange County, see our <a href="/blog/bathroom-remodeling-orange-county-2026-guide" style="color: #B8892A; font-weight: 600;">Orange County bathroom remodeling guide</a>. Comparing HB to other Orange County markets? Read our <a href="/blog/tustin-bathroom-remodel-old-town-vs-ranch-2026" style="color: #B8892A; font-weight: 600;">Tustin bathroom remodel comparison guide</a> for perspective on how inland conditions differ. Ready to move forward? <a href="/contact?service=bathroom-remodel" style="color: #B8892A; font-weight: 600;">Request your free Huntington Beach estimate</a> from Stone Development today.</p>
+
+</article>`,
+  category: "Bathroom Remodeling" as const,
+  date: "2026-03-27",
+  lastUpdated: "2026-03-27",
+  readTime: "9 min read",
+  author: "Stone Development Team",
+  image: "/images/blog/huntington-beach-bathroom-remodel.jpg",
+  imageAlt:
+    "Coastal bathroom remodel completed by Stone Development Inc. in Huntington Beach with marine-grade fixtures and walk-in shower",
+  featured: false,
+  contentType: "cluster" as const,
+  hubPage: false,
+  relatedSlugs: [
+    "bathroom-remodeling-orange-county-2026-guide",
+    "tustin-bathroom-remodel-old-town-vs-ranch-2026",
+  ],
+  primaryKeyword: "bathroom remodel huntington beach",
+  secondaryKeywords: [
+    "huntington beach bathroom renovation 2026",
+    "coastal bathroom remodel orange county",
+    "huntington harbour master bath remodel",
+    "salt air bathroom fixtures huntington beach",
+    "bathroom remodel cost huntington beach",
+    "surf city bathroom renovation contractor",
+  ],
+  targetCities: ["Huntington Beach"],
+  geoRadius: "tight" as const,
+  ctaServiceType: "bathroom-remodel",
+  faq: [
+    {
+      question: "How much does a bathroom remodel cost in Huntington Beach?",
+      answer:
+        "Bathroom remodels in Huntington Beach cost $22,000 to $85,000 in 2026. Full guest bath renovations average $22,000-$38,000. Master bath remodels in beach-adjacent homes run $48,000-$85,000. Huntington Harbour luxury master suites reach $60,000-$120,000.",
+    },
+    {
+      question:
+        "Do pre-1975 Huntington Beach homes need plumbing replacement during a bathroom remodel?",
+      answer:
+        "Yes. Pre-1975 HB homes have galvanized steel supply pipes that corrode internally. When walls open, replacing these lines with PEX is required before closing walls. Budget $3,500-$7,000 for bathroom PEX repiping in homes built before 1975.",
+    },
+    {
+      question:
+        "What fixtures should I specify for a beach-adjacent Huntington Beach bathroom?",
+      answer:
+        "Homes west of Beach Blvd require solid brass valve bodies with PVD finishes \u2014 brushed nickel, matte black, or champagne bronze. PVD finishes resist salt air corrosion for 10+ years versus 2-4 years for standard chrome-plated zinc alloy fixtures.",
+    },
+    {
+      question:
+        "Do I need a permit for a bathroom remodel in Huntington Beach?",
+      answer:
+        "Yes, for any project involving plumbing, electrical, or structural changes. The City of Huntington Beach issues permits with a 7-14 business day approval window. Stone Development handles all permit applications and inspections as part of every project.",
+    },
+  ],
+  reviewQuotes: [],
+  gbpSummary:
+    "Stone Development Inc. completes bathroom remodels throughout Huntington Beach, CA. 2026 pricing: guest baths $22K-$38K, master baths $48K-$85K, Huntington Harbour luxury suites $60K-$120K. Marine-grade fixtures standard for coastal homes. Licensed general contractor CA #1146382. Free estimates. Call (949) 508-6763.",
+  indexPriority: 0.8,
+  noindex: false,
+  canonicalTo: null,
+  reviewAfterDays: 90,
+  reviewAfterImpressions: 300,
+  mergeTarget: null,
+  lastGscReview: null,
+},
+  {
+  id: 18,
+  slug: "huntington-beach-room-addition-1960s-homes-2026",
+  title:
+    "Adding Square Footage to a 1960s Huntington Beach Ranch: 2026 Costs and Permit Realities",
+  metaTitle:
+    "Room Addition Huntington Beach (2026) | 1960s Ranch Home Costs & Permits",
+  metaDescription:
+    "Room additions in Huntington Beach cost $175–$420 per sqft in 2026. Coastal zone restrictions, 1960s ranch home challenges, and permit timelines explained. Free estimate: (949) 508-6763.",
+  excerpt:
+    "Huntington Beach room additions cost $175–$420 per square foot in 2026. This guide covers Coastal Commission requirements, 1960s ranch home challenges, second-story realities, and real project scenarios for HB’s most common housing stock.",
+  content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Huntington Beach sits at the intersection of two powerful market forces: a median home price of $1.1M that rewards square footage investment, and a regulatory environment — coastal zone overlays, Coastal Commission jurisdiction, and 2024 objective design standards — that makes adding that square footage one of the more complex projects in Orange County. If you own a 1,200–1,600 sqft ranch home in Goldenwest, Seacliff, or the Downtown HB corridor, this guide gives you exact costs, permit timelines, and the site-specific constraints you need to make an informed decision.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. (CA License #1146382) has completed room additions across Orange County’s coastal communities, including Huntington Beach projects that required coordinating with both the City Building Department and the California Coastal Commission. Every cost figure in this guide reflects Orange County labor and material pricing as of Q1 2026. Our Irvine office at 1 Jenner Suite 150 is 15 minutes from most Huntington Beach neighborhoods.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">A room addition in Huntington Beach costs $175–$420 per square foot in 2026, depending on floor level, scope, and coastal proximity. A 400 sqft ground-floor master suite addition on a 1960s ranch home runs $90,000–$135,000 all-in. Second-story additions cost $225–$420 per sqft and require engineering review, neighbor notification, and in some areas a view-preservation analysis. Coastal zone properties west of PCH require a Coastal Development Permit that adds 3–6 months to the timeline.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Ready to scope your Huntington Beach room addition? <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">Get a free estimate from Stone Development</a> or call <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">2026 Room Addition Costs in Huntington Beach</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Room addition costs in Huntington Beach follow Orange County’s coastal premium. Labor costs run 12–18% higher than inland Orange County cities, marine-grade material requirements add cost for waterfront properties, and the City’s 2024 objective design standards have increased design documentation requirements for projects over 500 sqft. The table below reflects current all-in pricing — permits, design, engineering, and construction included.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Addition Type</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Per Sqft</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Total (400 sqft)</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Ground-floor addition (no coastal zone)</td>
+        <td style="padding: 0.75rem 1rem;">$175–$260</td>
+        <td style="padding: 0.75rem 1rem;">$70,000–$104,000</td>
+        <td style="padding: 0.75rem 1rem;">4–7 months</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Ground-floor addition with engineered foundation</td>
+        <td style="padding: 0.75rem 1rem;">$210–$295</td>
+        <td style="padding: 0.75rem 1rem;">$84,000–$118,000</td>
+        <td style="padding: 0.75rem 1rem;">5–8 months</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Second-story addition</td>
+        <td style="padding: 0.75rem 1rem;">$225–$370</td>
+        <td style="padding: 0.75rem 1rem;">$90,000–$148,000</td>
+        <td style="padding: 0.75rem 1rem;">6–10 months</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Coastal zone addition (CDP required)</td>
+        <td style="padding: 0.75rem 1rem;">$260–$420</td>
+        <td style="padding: 0.75rem 1rem;">$104,000–$168,000</td>
+        <td style="padding: 0.75rem 1rem;">9–15 months</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Huntington Harbour waterfront addition</td>
+        <td style="padding: 0.75rem 1rem;">$310–$420</td>
+        <td style="padding: 0.75rem 1rem;">$124,000–$168,000</td>
+        <td style="padding: 0.75rem 1rem;">10–16 months</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">These ranges account for all-in project delivery: architectural plans, structural engineering (mandatory in California’s seismic Zone 4), permit fees ($3,500–$8,500 for HB room additions), subcontractors, and finishes matching the existing home. They do not include furnishings, landscaping restoration, or appliances.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">The 1960s Ranch Home Challenge in Huntington Beach</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Huntington Beach’s housing stock is dominated by single-story ranch homes built between 1955 and 1975. These homes sit on lots ranging from 6,000 to 7,500 sqft in most neighborhoods and carry original floor plans of 1,200–1,600 sqft. Families that purchased these homes as starter properties a decade ago are now outgrowing the square footage — and adding on is the financially superior option versus moving in a $1.1M median market where upsizing costs $400,000–$600,000 more than an addition.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Foundation Realities for 1960s Homes</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Huntington Beach has areas with expansive clay soils — particularly in neighborhoods east of Beach Boulevard — that shift seasonally with moisture changes. Post-tension slabs and raised foundations from the 1960s were not engineered to support additions without evaluation. A geotechnical soils report costs $2,500–$4,500 and is required by the City of Huntington Beach before a building permit is issued for any addition over 200 sqft. If the report identifies expansive soils, a structural engineer specifies either a deepened perimeter footing, helical piers, or a mat foundation — adding $8,000–$22,000 to the project.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Seismic Design Requirements</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Huntington Beach sits in a high seismic area with proximity to the Newport-Inglewood fault zone, which runs offshore and produced the 1933 Long Beach earthquake. The 2025 California Building Code requires seismic design category D for all new construction and additions — this means shear wall calculations, hold-down hardware at wall corners, and anchor bolting to the foundation. Structural engineering fees for a 400 sqft addition run $3,500–$6,500, and the shear wall framing adds $4,000–$9,000 to construction costs versus a non-seismic design.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Lot Coverage and Setback Limits</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Huntington Beach’s R1 residential zones limit lot coverage to 50% of the lot area. On a 6,000 sqft lot, maximum coverage is 3,000 sqft — including the existing home footprint, garage, and any covered patio. A 1,400 sqft house with a 400 sqft attached garage uses 1,800 sqft of the 3,000 sqft allowance, leaving 1,200 sqft of buildable ground-floor coverage. Side setbacks are 3 feet minimum (5 feet for two-story walls over 10 feet), and rear setbacks are typically 25% of lot depth. Most HB ranch lots have room for a 300–600 sqft ground-floor addition before hitting coverage limits.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Coastal Zone Additions: The Coastal Commission Layer</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Properties west of Pacific Coast Highway in Huntington Beach sit within the California Coastal Zone, which triggers Coastal Development Permit (CDP) review on top of standard City permits. The California Coastal Commission defines the zone boundary and has authority to override local approvals for projects that impact coastal access, visual corridors, or environmentally sensitive habitat areas. A CDP for a residential addition runs $3,000–$6,500 in application fees and takes 3–6 months for staff-level approval on projects that meet Local Coastal Program standards.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Projects near the Bolsa Chica Wetlands face additional ESHA (Environmentally Sensitive Habitat Area) review that can extend the timeline to 9–12 months and require biological surveys. Any addition that increases height or bulk near a public view corridor triggers a visual impact analysis. The City’s height limit drops to 25 feet in some coastal overlay areas (versus the standard 35 feet), which eliminates full second-story additions on lower-elevation lots near PCH.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Huntington Harbour: Marine Environment Requirements</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Huntington Harbour’s waterfront homes face the strictest addition requirements in the city. In addition to a CDP, projects on waterfront lots require marine-grade materials for any component exposed to the marine environment — hot-dip galvanized or stainless steel fasteners, pressure-treated lumber rated for ground contact, and corrosion-resistant flashing. These material upgrades add 8–15% to framing and exterior finish costs. Dock modifications associated with home additions trigger a separate permit from the California State Lands Commission. Stone Development specifies marine-rated assemblies as standard practice on all Harbour projects to prevent the premature material failure common in homes built to inland standards near saltwater.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Second-Story Additions in Huntington Beach: The Honest Assessment</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Second-story additions are the most cost-efficient way to double living space without consuming lot coverage — but in Huntington Beach, they generate more neighborhood friction than any other project type. Single-story ranch neighborhoods in Goldenwest and Edwards Hill have an established visual character, and second-story additions alter sightlines, block light to adjacent properties, and change the neighborhood silhouette. Huntington Beach adopted objective design standards in 2024 that establish maximum second-story wall plate heights, massing setbacks, and articulation requirements specifically to address neighbor concerns.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The practical implications: a second-story addition in HB requires a neighbor notification process, a structural engineering package that documents the existing foundation’s capacity to carry the new load, a Title 24 energy compliance report, and framing that meets the 2025 CBC seismic requirements for upper-story lateral forces. Budget $4,500–$8,500 for design and engineering documentation before a single board is nailed. The construction itself costs $225–$370 per sqft — higher than ground-floor additions because all materials must be lifted, existing roof framing is removed and replaced, and temporary weatherproofing is required during construction.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Second-Story Cost Factor</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">Structural engineering (foundation + lateral)</td>
+        <td style="padding: 0.75rem 1rem;">$3,500–$6,500</td>
+        <td style="padding: 0.75rem 1rem;">Required before permit submittal</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">Architectural plans and design standards compliance</td>
+        <td style="padding: 0.75rem 1rem;">$4,500–$9,000</td>
+        <td style="padding: 0.75rem 1rem;">HB 2024 objective standards add documentation requirements</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">City permit fees</td>
+        <td style="padding: 0.75rem 1rem;">$5,500–$9,500</td>
+        <td style="padding: 0.75rem 1rem;">Based on valuation; 2nd story valuations are higher</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">Foundation reinforcement (if required)</td>
+        <td style="padding: 0.75rem 1rem;">$8,000–$25,000</td>
+        <td style="padding: 0.75rem 1rem;">Depends on soils report findings</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">Temporary roof and weatherproofing during construction</td>
+        <td style="padding: 0.75rem 1rem;">$4,000–$7,000</td>
+        <td style="padding: 0.75rem 1rem;">Required once roof framing is removed</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">Staircase (new interior stair)</td>
+        <td style="padding: 0.75rem 1rem;">$8,000–$18,000</td>
+        <td style="padding: 0.75rem 1rem;">Open riser vs. closed, wood vs. metal</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Project Scenario: Master Suite Addition to a 1,400 Sqft Goldenwest Ranch</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;"><strong>The home:</strong> A 1,420 sqft single-story ranch built in 1967 on a 6,500 sqft lot in the Goldenwest neighborhood — 3 bedrooms, 1.75 baths, no primary suite, standard raised foundation with original 1960s concrete perimeter footings. The homeowners have two teenagers and need a dedicated master bedroom with en-suite bathroom and walk-in closet. Moving is not an option in a market where the next-size-up home costs $400,000 more.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;"><strong>The scope:</strong> A 420 sqft ground-floor addition at the rear of the home — a primary bedroom (250 sqft), en-suite bathroom with walk-in shower and dual vanity (100 sqft), and walk-in closet (70 sqft). The existing den becomes a hallway connection point. The addition requires a geotechnical report (clay soils confirmed in preliminary research), new perimeter footing with deepened bearing pads, new electrical subpanel feed, HVAC duct extension, and full interior finish matching the existing home’s wood floors and stucco exterior.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Line Item</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">Geotechnical soils report</td>
+        <td style="padding: 0.75rem 1rem;">$3,200</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">Architectural plans and Title 24 energy report</td>
+        <td style="padding: 0.75rem 1rem;">$5,800</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">Structural engineering (seismic + foundation)</td>
+        <td style="padding: 0.75rem 1rem;">$4,200</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">City of Huntington Beach permit fees</td>
+        <td style="padding: 0.75rem 1rem;">$5,400</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">Foundation (deepened perimeter footing)</td>
+        <td style="padding: 0.75rem 1rem;">$14,500</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">Framing, sheathing, and shear walls</td>
+        <td style="padding: 0.75rem 1rem;">$18,200</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">Roofing (new addition + tie-in to existing)</td>
+        <td style="padding: 0.75rem 1rem;">$9,600</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">Plumbing (bathroom rough and finish)</td>
+        <td style="padding: 0.75rem 1rem;">$11,400</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">Electrical (subpanel feed, circuits, fixtures)</td>
+        <td style="padding: 0.75rem 1rem;">$7,800</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">HVAC extension and new registers</td>
+        <td style="padding: 0.75rem 1rem;">$5,200</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">Insulation and drywall</td>
+        <td style="padding: 0.75rem 1rem;">$6,400</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">Interior finishes (flooring, paint, trim, doors)</td>
+        <td style="padding: 0.75rem 1rem;">$9,800</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem;">Bathroom finish (tile, vanity, shower glass, fixtures)</td>
+        <td style="padding: 0.75rem 1rem;">$18,500</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem;">Exterior stucco match and paint</td>
+        <td style="padding: 0.75rem 1rem;">$4,800</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Total Project Cost</td>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">$124,800</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">This project runs approximately $297 per sqft all-in — toward the mid-upper range for ground-floor additions in Huntington Beach, driven by the engineered foundation requirement and the full en-suite bathroom scope. A comparable primary suite addition without foundation complications in an inland Orange County city runs $230–$260 per sqft, illustrating the coastal and soils premium HB homeowners absorb.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">At $1.1M median pricing, this 420 sqft addition adds approximately $140,000–$180,000 in market value — a return of 112–144% on the investment at resale in Huntington Beach’s supply-constrained coastal market. Primary suite additions consistently rank among the highest-ROI home improvements in Orange County coastal cities.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Plan Your Huntington Beach Room Addition</h3>
+  <p style="margin-bottom: 1rem;">Stone Development Inc. handles every phase of your HB addition — soils coordination, permit filing, coastal compliance, and construction — under one licensed team. CA License #1146382. Free estimates with no obligation.</p>
+  <a href="/contact?service=room-addition" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Request Free Estimate</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">The Huntington Beach Permit Process for Room Additions</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The City of Huntington Beach Building Division processes room addition permits through a plan check system that currently runs 6–10 weeks for standard residential additions (non-coastal). The permit submittal package must include: architectural plans stamped by a California-licensed architect or designer, structural calculations stamped by a California licensed structural engineer, a Title 24 energy compliance report, a geotechnical report for additions on unstable or expansive soils, and a site plan showing lot coverage calculations and setback measurements.</p>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Plan check submittal</strong> — Submit complete package to HB Building Division online or in person. Incomplete submittals are rejected and restart the clock.</li>
+  <li><strong>First plan check comments</strong> — Typically returned in 4–8 weeks. Corrections are common on first submittal; structural and energy comments are the most frequent.</li>
+  <li><strong>Correction response</strong> — Resubmit with responses to all comments. Second review typically takes 2–4 weeks.</li>
+  <li><strong>Permit issuance</strong> — Pay permit fees and pull the permit. Construction can begin immediately after permit card is posted on site.</li>
+  <li><strong>Inspections</strong> — Foundation, framing, rough plumbing, rough electrical, insulation, drywall, and final inspections are required in sequence. Each inspection must be scheduled in advance.</li>
+  <li><strong>Final sign-off</strong> — City inspector approves all systems and issues Certificate of Occupancy or Final Inspection approval. Do not occupy the addition before final sign-off.</li>
+</ul>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Coastal zone projects add a parallel track: submitting a Coastal Development Permit application to the Huntington Beach Planning Division (which administers the Local Coastal Program). Staff-level CDP approvals for conforming projects take 3–4 months. Projects referred to the California Coastal Commission for appeal or jurisdiction take 6–12 months. Stone Development prepares CDP applications as part of the permitting phase on all coastal projects — incorrect submittals delay projects significantly.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Neighborhood-by-Neighborhood Considerations</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Seacliff and Edwards Hill</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Seacliff and Edwards Hill carry Huntington Beach’s highest home values — $1.4M–$2.8M — and are appropriate markets for full-scope additions with premium finishes. Seacliff on the Greens HOA requires architectural committee approval before permit submittal; allow 30–45 days for HOA review. Edwards Hill is one of HB’s few neighborhoods with two-story homes already established in the streetscape, making second-story additions more architecturally compatible with the surrounding character.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Downtown HB and Near-Coastal Neighborhoods</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The Downtown HB corridor (within a half mile of PCH and Main Street) includes properties in both the coastal zone and the standard R1 zone depending on exact address. Verify your property’s coastal zone status at the City’s GIS portal before beginning design — the difference between a standard permit and a CDP adds 3–5 months and $3,000–$6,500 in application costs. Downtown lots tend to be smaller (4,500–5,500 sqft) with tighter coverage allowances, which limits ground-floor addition size to 200–350 sqft on typical lots.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Goldenwest and Central HB</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Goldenwest is ground zero for Huntington Beach’s 1960s ranch home stock — 1,200–1,500 sqft homes on 6,000–7,000 sqft lots, most outside the coastal zone. These homes have the best combination of lot coverage headroom (typically 800–1,200 sqft of buildable area remaining), no HOA requirements, and straightforward permit processing. The soils issue is the primary wildcard: Goldenwest sits above variable alluvial deposits, and approximately 40% of soils reports in this area flag some level of expansive clay requiring an engineered foundation solution.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Why Stone Development for Your Huntington Beach Addition</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Room additions are the most complex residential construction project most homeowners undertake — and in Huntington Beach, the regulatory complexity raises the stakes further. Stone Development Inc. has completed coastal and non-coastal additions across Orange County, managed Coastal Development Permit applications, and worked with the geotechnical consultants and structural engineers who know HB’s soil and seismic conditions. We carry CA License #1146382, full general liability, and workers’ compensation insurance on every project.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Our process starts with a free site evaluation — we walk your property, review lot coverage and setback constraints, confirm coastal zone status, and give you a realistic cost and timeline before any design fees are spent. Most HB homeowners who contact us have already received vague estimates from contractors who have not accounted for the soils report, coastal requirements, or the 2024 objective design standards. We give you the complete picture upfront.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Reach Stone Development at <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a> or <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">submit your project details online</a> and we will contact you within one business day.</p>
+
+</article>`,
+  category: "Home Additions" as const,
+  date: "2026-03-27",
+  lastUpdated: "2026-03-27",
+  readTime: "10 min read",
+  author: "Stone Development Team",
+  image: "/images/blog/huntington-beach-room-addition.jpg",
+  imageAlt:
+    "Room addition under construction on a 1960s ranch home in Huntington Beach with new framing and roofline visible",
+  featured: false,
+  contentType: "cluster" as const,
+  hubPage: false,
+  relatedSlugs: [
+    "room-addition-myths-mission-viejo",
+    "adu-vs-room-addition-orange-county",
+  ],
+  primaryKeyword: "room addition huntington beach",
+  secondaryKeywords: [
+    "huntington beach home addition cost 2026",
+    "room addition coastal zone Huntington Beach",
+    "second story addition huntington beach",
+    "1960s ranch home addition orange county",
+    "coastal development permit room addition HB",
+    "huntington beach building permit addition",
+  ],
+  targetCities: ["Huntington Beach"],
+  geoRadius: "tight" as const,
+  ctaServiceType: "room-addition",
+  faq: [
+    {
+      question:
+        "How much does a room addition cost in Huntington Beach in 2026?",
+      answer:
+        "Room additions in Huntington Beach cost $175–$420 per square foot in 2026. A standard 400 sqft ground-floor addition runs $70,000–$118,000. Coastal zone properties and second-story additions run $90,000–$168,000 for 400 sqft due to CDP review, engineered foundations, and seismic requirements.",
+    },
+    {
+      question:
+        "Do I need a Coastal Development Permit for a room addition in Huntington Beach?",
+      answer:
+        "Only if your property is west of PCH within the California Coastal Zone. Verify at the City’s GIS portal. Coastal zone properties require a CDP from HB’s Planning Division, adding 3–6 months and $3,000–$6,500 in application fees to the project timeline.",
+    },
+    {
+      question:
+        "Can I add a second story to my 1960s ranch home in Huntington Beach?",
+      answer:
+        "Yes, but it requires structural engineering to confirm your foundation can carry the load, compliance with HB’s 2024 objective design standards, and neighbor notification. Coastal overlay areas limit height to 25 feet, restricting full second-story additions on lower-elevation lots. Budget $225–$370 per sqft.",
+    },
+    {
+      question:
+        "How long does a room addition permit take in Huntington Beach?",
+      answer:
+        "Standard non-coastal permits take 6–10 weeks for plan check plus 4–6 months for construction. Coastal zone additions requiring a CDP take 9–15 months total. Starting permit preparation early — before finalizing your design — is the single biggest timeline lever.",
+    },
+  ],
+  reviewQuotes: [],
+  gbpSummary:
+    "Room additions in Huntington Beach cost $175–$420 per sqft in 2026. 1960s ranch homes need engineered foundations and seismic design. Coastal zone properties require a Coastal Development Permit (adds 3–6 months). Stone Development Inc. — CA License #1146382 — handles permits, coastal compliance, and full construction. Free estimates: (949) 508-6763.",
+  indexPriority: 0.8,
+  noindex: false,
+  canonicalTo: null,
+  reviewAfterDays: 90,
+  reviewAfterImpressions: 300,
+  mergeTarget: null,
+  lastGscReview: null,
+},
 ];
