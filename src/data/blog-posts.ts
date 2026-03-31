@@ -2554,8 +2554,8 @@ export const BLOG_POSTS: BlogPost[] = [
 
 </article>`,
   category: "Kitchen Remodeling" as const,
-  date: "2026-04-06",
-  lastUpdated: "2026-04-06",
+  date: "2026-03-25",
+  lastUpdated: "2026-03-25",
   readTime: "10 min read",
   author: "Stone Development Inc.",
   image: "/images/blog/kitchen-remodel-costa-mesa-ranch.jpg",
@@ -2935,8 +2935,8 @@ export const BLOG_POSTS: BlogPost[] = [
 
 </article>`,
   category: "Kitchen Remodeling" as const,
-  date: "2026-04-08",
-  lastUpdated: "2026-04-08",
+  date: "2026-03-25",
+  lastUpdated: "2026-03-25",
   readTime: "9 min read",
   author: "Stone Development Inc.",
   image: "/images/blog/kitchen-remodel-lake-forest.jpg",
@@ -3292,8 +3292,8 @@ export const BLOG_POSTS: BlogPost[] = [
 
 </article>`,
   category: "Kitchen Remodeling" as const,
-  date: "2026-04-10",
-  lastUpdated: "2026-04-10",
+  date: "2026-03-25",
+  lastUpdated: "2026-03-25",
   readTime: "7 min read",
   author: "Stone Development Inc.",
   image: "/images/blog/luxury-kitchen-upgrades-roi.jpg",
@@ -3607,8 +3607,8 @@ export const BLOG_POSTS: BlogPost[] = [
 
 </article>`,
   category: "Bathroom Remodeling" as const,
-  date: "2026-04-13",
-  lastUpdated: "2026-04-13",
+  date: "2026-03-25",
+  lastUpdated: "2026-03-25",
   readTime: "14 min read",
   author: "Stone Development Inc.",
   image: "/images/blog/bathroom-remodeling-orange-county.jpg",
@@ -3923,8 +3923,8 @@ export const BLOG_POSTS: BlogPost[] = [
 
 </article>`,
   category: "Bathroom Remodeling" as const,
-  date: "2026-04-15",
-  lastUpdated: "2026-04-15",
+  date: "2026-03-25",
+  lastUpdated: "2026-03-25",
   readTime: "10 min read",
   author: "Stone Development Inc.",
   image: "/images/blog/bathroom-remodel-irvine.jpg",
@@ -4298,8 +4298,8 @@ export const BLOG_POSTS: BlogPost[] = [
 
 </article>`,
   category: "Bathroom Remodeling" as const,
-  date: "2026-04-17",
-  lastUpdated: "2026-04-17",
+  date: "2026-03-25",
+  lastUpdated: "2026-03-25",
   readTime: "9 min read",
   author: "Stone Development Inc.",
   image: "/images/blog/bathroom-remodel-mission-viejo.jpg",
@@ -4703,8 +4703,8 @@ export const BLOG_POSTS: BlogPost[] = [
 
 </article>`,
   category: "Bathroom Remodeling" as const,
-  date: "2026-04-20",
-  lastUpdated: "2026-04-20",
+  date: "2026-03-25",
+  lastUpdated: "2026-03-25",
   readTime: "8 min read",
   author: "Stone Development Inc.",
   image: "/images/blog/tustin-bathroom-remodel.jpg",
@@ -6336,6 +6336,979 @@ export const BLOG_POSTS: BlogPost[] = [
   gbpSummary:
     "Room additions in Huntington Beach cost $175–$420 per sqft in 2026. 1960s ranch homes need engineered foundations and seismic design. Coastal zone properties require a Coastal Development Permit (adds 3–6 months). Stone Development Inc. — CA License #1146382 — handles permits, coastal compliance, and full construction. Free estimates: (949) 508-6763.",
   indexPriority: 0.8,
+  noindex: false,
+  canonicalTo: null,
+  reviewAfterDays: 90,
+  reviewAfterImpressions: 300,
+  mergeTarget: null,
+  lastGscReview: null,
+},
+{
+  id: 20,
+  slug: "home-additions-guide-orange-county",
+  title: "Home Additions in Orange County: The 2026 Homeowner's Guide",
+  metaTitle:
+    "Home Additions Orange County 2026 | Costs, Timelines & ROI",
+  metaDescription:
+    "Home additions in Orange County cost $110,000-$650,000+ in 2026. Compare room, suite, and second-story addition costs, timelines, and ROI. (949) 508-6763.",
+  excerpt:
+    "Orange County home additions run $110,000 to $650,000+ in 2026. This guide compares ground-floor rooms, primary suites, and second-story additions so you can choose the right scope, sequence permits, and budget with confidence.",
+  content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Orange County homeowners do not start searching for a home addition because they are bored. They start when the house they love no longer fits the life they are living. A third child needs a bedroom. Aging parents need a ground-floor suite. A work-from-home schedule turns the dining room into a daily compromise. In a market where moving up often costs far more than building out, square footage has become a strategy decision as much as a lifestyle one.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">Home additions in Orange County cost $110,000 to $650,000+ in 2026 depending on size, city, and structural scope. Most homeowners spend $160,000-$320,000 for a well-executed primary suite, great room, or second-story expansion that adds meaningful livability and measurable resale value.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. is a licensed, bonded, and fully insured general contractor operating from 1 Jenner Suite 150 in Irvine. We have spent more than 20 years building across Southern California, and Orange County additions remain one of the clearest examples of why local context matters. A 500-square-foot addition in Irvine, Newport Beach, Mission Viejo, and Huntington Beach does not move through the same approval path, does not carry the same structural risk, and does not produce the same return profile.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Ready to compare your options with a licensed team? <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">Schedule a free addition feasibility review</a> or call <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Much Does a Home Addition Cost in Orange County in 2026?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Orange County addition costs start with square footage, but they do not stop there. The biggest pricing swings come from whether the addition is single-story or second-story, whether the new space includes a bathroom, whether the existing structure needs engineering upgrades, and whether the property sits in a city or neighborhood with added approval friction. In Stone Development's current Orange County pipeline, the majority of serious addition projects land between $160,000 and $320,000 all-in.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Addition Type</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Size</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Single-room ground-floor addition</td>
+        <td style="padding: 0.75rem 1rem;">250-400 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$110,000-$185,000</td>
+        <td style="padding: 0.75rem 1rem;">5-7 months</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Family room or great room expansion</td>
+        <td style="padding: 0.75rem 1rem;">350-600 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$140,000-$260,000</td>
+        <td style="padding: 0.75rem 1rem;">6-8 months</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Primary suite addition</td>
+        <td style="padding: 0.75rem 1rem;">450-700 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$180,000-$320,000</td>
+        <td style="padding: 0.75rem 1rem;">6-9 months</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Second-story addition</td>
+        <td style="padding: 0.75rem 1rem;">700-1,400 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$250,000-$650,000+</td>
+        <td style="padding: 0.75rem 1rem;">8-12 months</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Luxury multi-room expansion</td>
+        <td style="padding: 0.75rem 1rem;">900-1,800 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$400,000-$900,000+</td>
+        <td style="padding: 0.75rem 1rem;">10-15 months</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Those ranges assume complete delivery: design coordination, engineering, permit filing, rough and finish trades, and final inspection. They do not assume bargain-basement scopes or partial contractor quotes that conveniently leave out structural design, utility upgrades, and finish matching. In Orange County, those omissions are where budgets break.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">For a faster budgeting pass before your first meeting, use Stone Development's <a href="/resources/budget-calculator" style="color: #B8892A; font-weight: 600;">project budget calculator</a> and pair it with our <a href="/resources/cost-guide" style="color: #B8892A; font-weight: 600;">2026 Southern California cost guide</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Which Type of Home Addition Makes the Most Sense for Your Property?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The right addition is not always the biggest one. The right addition is the one that solves the pressure point in the house without pushing the project into avoidable engineering or approval costs. In practice, Orange County homeowners usually choose between four categories.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Option</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Best For</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Primary Advantage</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Primary Tradeoff</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Bedroom / office addition</td>
+        <td style="padding: 0.75rem 1rem;">Growing families, work-from-home households</td>
+        <td style="padding: 0.75rem 1rem;">Lowest structural complexity</td>
+        <td style="padding: 0.75rem 1rem;">Less resale lift than a full suite</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Primary suite</td>
+        <td style="padding: 0.75rem 1rem;">Homeowners staying 5+ years</td>
+        <td style="padding: 0.75rem 1rem;">Strong livability and strong resale</td>
+        <td style="padding: 0.75rem 1rem;">Bathroom plumbing increases budget</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Great room / rear expansion</td>
+        <td style="padding: 0.75rem 1rem;">Homes with tight kitchens or closed family areas</td>
+        <td style="padding: 0.75rem 1rem;">Transforms how the house feels</td>
+        <td style="padding: 0.75rem 1rem;">Often triggers beam and roofline work</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Second-story addition</td>
+        <td style="padding: 0.75rem 1rem;">Lot-constrained properties in premium neighborhoods</td>
+        <td style="padding: 0.75rem 1rem;">Largest square-foot gain without eating yard space</td>
+        <td style="padding: 0.75rem 1rem;">Highest engineering and disruption profile</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">A primary suite is the most common Orange County choice because it solves two problems at once: bedroom count and bathroom scarcity. A second-story addition becomes the right answer when lot coverage, setback limitations, or outdoor-living priorities make a ground-floor expansion too expensive in usable yard terms. Great room additions are the emotional favorite because they change daily life the fastest, but they also expose the most hidden structural work when older roofs and load paths are involved.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Need Help Choosing the Right Addition Scope?</h3>
+  <p style="margin-bottom: 1rem;">Stone Development scopes additions around livability, resale, lot constraints, and permit realities — not generic square-foot pricing. We will tell you when a smaller scope is the smarter move.</p>
+  <a href="/contact?service=room-addition" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Request Free Consultation</a>
+  <a href="/resources/adu-vs-addition" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Compare ADU vs Addition</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Drives Home Addition Costs Higher in Some Orange County Cities?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Orange County is one market on paper and many markets in practice. The difference between an addition in Irvine and one in coastal Newport Beach is not branding. It is review layers, structural conditions, finish expectations, and what the resale market will tolerate.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Changes the Numbers in Irvine?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine additions benefit from repeatable tract-home geometry, but they pick up extra pre-construction work through HOA review and the City's document-heavy submittal process. The City of Irvine's residential addition package requires architectural and structural plans, Title 24 energy calculations, a school facilities fee form for additions, and an HOA approval letter. Homes that push close to side or rear setbacks may also need a survey, which changes both design time and pre-permit cost.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Changes the Numbers in Mission Viejo?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Mission Viejo additions tend to land lower than Newport Beach but higher than homeowners expect because 1970s and 1980s tract homes frequently need panel upgrades, roof tie-in corrections, and structural coordination around aging framing. Casta del Sol, Pacific Hills, and the neighborhoods around Lake Mission Viejo also skew toward projects that blend accessibility, resale, and family flexibility into one scope, which pushes the finish program upward.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Changes the Numbers in Huntington Beach?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Huntington Beach adds coastal-material and site-risk pressure. In Goldenwest, Yorktown, and Central HB, the dominant issue is 1960s housing stock with foundation and layout limitations. In harbor-adjacent and more coastal neighborhoods, salt-air exposure and added review layers matter more. Stone Development sees some of the widest budget swings in Huntington Beach because the neighborhood tells you almost everything about the job before design even starts.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">What Changes the Numbers in Newport Beach?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Newport Beach is where lot value, privacy concerns, and coastal-process nuance matter most. The City processes additions through its online plan check system, and many single-unit residential projects in qualifying coastal-zone areas can proceed under the City's categorical exclusion framework instead of a full coastal development permit path. But first-row shoreline lots, Bay Shores, bluff-adjacent homes, and harbor-edge properties operate on a different timeline and a different risk profile. The gap between an inland Eastbluff addition and a shoreline-adjacent Newport addition is measured in months and often six figures.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">See how addition work fits into broader renovation planning in our <a href="/blog/whole-home-renovation-orange-county-2026" style="color: #B8892A; font-weight: 600;">whole-home renovation guide</a> and our <a href="/portfolio" style="color: #B8892A; font-weight: 600;">project portfolio</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Long Does a Home Addition Take from Feasibility to Final Inspection?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Orange County addition timelines break into five predictable stages: feasibility, design, approval, construction, and closeout. What creates schedule overruns is not usually one catastrophic problem. It is a stack of smaller misses: incomplete drawings, late HOA responses, utility conflicts, or structural conditions discovered after demolition.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Phase</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Duration</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">What Happens</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Feasibility and budgeting</td>
+        <td style="padding: 0.75rem 1rem;">1-3 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Site walk, zoning fit, scope selection, rough budget</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Design and engineering</td>
+        <td style="padding: 0.75rem 1rem;">4-8 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Plans, structural design, energy docs, revisions</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">HOA and permit review</td>
+        <td style="padding: 0.75rem 1rem;">3-10 weeks</td>
+        <td style="padding: 0.75rem 1rem;">City plan check, HOA approval, corrections, fee payment</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Construction</td>
+        <td style="padding: 0.75rem 1rem;">12-32 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Foundation, framing, rough trades, finishes, inspections</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Final inspection and closeout</td>
+        <td style="padding: 0.75rem 1rem;">1-2 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Punch list, finals, signoff, handoff</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The fastest Orange County additions are simple inland room expansions on straightforward lots with complete submittals on the first pass. The longest are second-story or coastal projects that require more review, more sequencing, and more homeowner decision-making during finishes. The strongest schedule protection is a complete front-end scope. Every item deferred during design tends to return as a cost and time multiplier during construction.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">If timeline clarity matters as much as price, review Stone Development's <a href="/resources/project-timeline" style="color: #B8892A; font-weight: 600;">remodel project timeline guide</a> before your consultation.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Kind of Return Does a Home Addition Deliver in Orange County?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Home additions should be judged on two returns, not one. The first is market return at resale. The second is daily-use return while you live in the home. Orange County buyers pay a premium for better bedroom counts, stronger primary suites, and improved family layouts, but they do not pay full retail for every construction dollar spent. That is why scope discipline matters.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Addition Type</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical ROI Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Why It Performs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Primary suite addition</td>
+        <td style="padding: 0.75rem 1rem;">60-75%</td>
+        <td style="padding: 0.75rem 1rem;">Solves bedroom and bathroom scarcity at once</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Family room / great room</td>
+        <td style="padding: 0.75rem 1rem;">55-70%</td>
+        <td style="padding: 0.75rem 1rem;">Improves flow and buyer appeal in tract homes</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Second-story addition</td>
+        <td style="padding: 0.75rem 1rem;">58-72%</td>
+        <td style="padding: 0.75rem 1rem;">Adds major square footage where land is constrained</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Basic bedroom without bath</td>
+        <td style="padding: 0.75rem 1rem;">45-60%</td>
+        <td style="padding: 0.75rem 1rem;">Useful, but less transformational for buyers</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">ROI rises when the addition brings the house into line with what buyers expect for the neighborhood. A cramped 3-bedroom in Turtle Rock benefits more from a proper primary suite than a fully maxed-out custom home in Newport Coast does from another flex room. In other words, the same square footage can be smart in one submarket and overbuilt in another.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Should You Build an Addition or Move Instead?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">This is the real question behind most Orange County addition projects. If the next-size-up home in your target neighborhood costs $700,000 to $1,500,000 more than your current position, a $220,000 to $350,000 addition is not just a construction project. It is a capital-efficiency decision. That does not mean adding on is always right. It means the comparison needs to be made honestly.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Build an addition when you like the block, the schools, and the lot, and when the new square footage fixes the problem the home currently has. Move when the house has multiple non-negotiable constraints that the addition cannot solve: bad orientation, poor lot usability, chronic parking issues, or a broader finish and system deficiency that would turn the project into a de facto whole-home renovation.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">If you are comparing multiple paths, start with our <a href="/resources/adu-vs-addition" style="color: #B8892A; font-weight: 600;">ADU vs. addition resource</a> and the <a href="/resources/contractor-checklist" style="color: #B8892A; font-weight: 600;">contractor vetting checklist</a>. Then review recent Stone Development work in our <a href="/portfolio" style="color: #B8892A; font-weight: 600;">portfolio</a> before making a decision based on square-foot math alone.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Want a Straight Answer on Whether an Addition Makes Sense?</h3>
+  <p style="margin-bottom: 1rem;">Stone Development will tell you whether you should add on, renovate deeper, or stop before the project becomes an overbuilt mistake. Free consultations. CA License #1146382.</p>
+  <a href="/contact?service=room-addition" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Book Free Consultation</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Frequently Asked Questions About Home Additions in Orange County</h2>
+
+<div class="faq-section">
+  <h3>How much does a home addition cost in Orange County in 2026?</h3>
+  <p><span class="faq-answer">Orange County home additions cost $110,000-$650,000+ in 2026, depending on size, story count, city, and whether the scope includes a bathroom.</span> Simple room additions land at the lower end. Primary suites and second-story additions land much higher because they carry more engineering, more finish work, and more approval complexity.</p>
+
+  <h3>How long does a home addition take in Orange County?</h3>
+  <p><span class="faq-answer">Most Orange County additions take 5-12 months from feasibility to final inspection.</span> Straightforward inland additions move faster. Coastal and second-story projects move slower because design, review, and construction sequencing all expand.</p>
+
+  <h3>What kind of addition delivers the best resale return?</h3>
+  <p><span class="faq-answer">Primary suite additions usually deliver the strongest combined livability and resale return in Orange County.</span> They improve bedroom count, bathroom count, and buyer appeal in one move, which is why they consistently outperform basic extra-room scopes.</p>
+
+  <h3>Is a second-story addition cheaper than moving in Orange County?</h3>
+  <p><span class="faq-answer">In many Orange County neighborhoods, yes.</span> A second-story addition that costs $300,000-$500,000 is often less expensive than buying the next-size-up home when the neighborhood price gap runs well beyond that amount.</p>
+
+  <h3>Do Orange County additions always require engineering?</h3>
+  <p><span class="faq-answer">Yes, serious additions require structural design and permit-ready documentation.</span> The exact level varies by city and scope, but additions are not finish-only projects. They change load paths, foundations, roofs, and life-safety systems.</p>
+
+  <h3>Should I build an addition or an ADU?</h3>
+  <p><span class="faq-answer">Choose an addition when the goal is to improve your main house. Choose an ADU when the goal is separate living space or rental flexibility.</span> The right answer depends on your lot, your city, your budget, and how you plan to use the property long term.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Call Stone Development at <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a> or <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">request your free consultation online</a>. Our Irvine office serves homeowners across Orange County, and we scope additions around the realities that actually control cost, timing, and resale.</p>
+
+</article>`,
+  category: "Home Additions" as const,
+  date: "2026-03-31",
+  lastUpdated: "2026-03-31",
+  readTime: "15 min read",
+  author: "Stone Development Team",
+  image: "/hero-still.jpg",
+  imageAlt:
+    "Stone Development Orange County residential construction project representing a custom home addition",
+  featured: true,
+  contentType: "hub" as const,
+  hubPage: true,
+  relatedSlugs: [
+    "room-addition-myths-mission-viejo",
+    "huntington-beach-room-addition-1960s-homes-2026",
+    "room-addition-cost-irvine-2026",
+    "second-story-addition-newport-beach-worth-it-2026",
+  ],
+  primaryKeyword: "home additions orange county",
+  secondaryKeywords: [
+    "room addition cost orange county",
+    "orange county home addition contractor",
+    "primary suite addition orange county",
+    "second story addition orange county",
+    "home addition timeline orange county",
+    "add a room to house orange county",
+  ],
+  targetCities: ["Orange County"],
+  geoRadius: "medium" as const,
+  ctaServiceType: "room-addition",
+  faq: [
+    {
+      question: "How much does a home addition cost in Orange County in 2026?",
+      answer:
+        "Orange County home additions cost $110,000-$650,000+ in 2026, depending on size, story count, city, and whether the scope includes a bathroom.",
+    },
+    {
+      question: "How long does a home addition take in Orange County?",
+      answer:
+        "Most Orange County additions take 5-12 months from feasibility to final inspection. Straightforward inland additions move faster than coastal and second-story projects.",
+    },
+    {
+      question: "What kind of addition delivers the best resale return?",
+      answer:
+        "Primary suite additions usually deliver the strongest combined livability and resale return in Orange County because they improve bedroom count, bathroom count, and buyer appeal together.",
+    },
+    {
+      question:
+        "Is a second-story addition cheaper than moving in Orange County?",
+      answer:
+        "In many neighborhoods, yes. A $300,000-$500,000 second-story addition is often less expensive than buying the next-size-up home when the local price gap is much larger.",
+    },
+    {
+      question: "Do Orange County additions always require engineering?",
+      answer:
+        "Yes. Additions change load paths, foundations, roofs, and life-safety systems, so structural design and permit-ready documentation are standard requirements.",
+    },
+    {
+      question: "Should I build an addition or an ADU?",
+      answer:
+        "Choose an addition when the goal is to improve your main house. Choose an ADU when the goal is separate living space or rental flexibility.",
+    },
+  ],
+  reviewQuotes: [],
+  gbpSummary:
+    "Home additions in Orange County cost $110,000-$650,000+ in 2026 depending on size, story count, city, and structural scope. Stone Development Inc. breaks down room additions, primary suites, and second-story expansions in our new guide, including timelines, ROI ranges, and the differences between Irvine, Mission Viejo, Huntington Beach, and Newport Beach projects. If you are deciding between adding on and moving, this is the framework we use with clients every week. Call (949) 508-6763 to schedule a free addition consultation with Stone Development. Read more: https://www.stonedevelopmentinc.com/blog/home-additions-guide-orange-county",
+  indexPriority: 0.95,
+  noindex: false,
+  canonicalTo: null,
+  reviewAfterDays: 90,
+  reviewAfterImpressions: 300,
+  mergeTarget: null,
+  lastGscReview: null,
+},
+{
+  id: 21,
+  slug: "room-addition-cost-irvine-2026",
+  title: "What Does a Room Addition Cost in Irvine in 2026?",
+  metaTitle: "Room Addition Cost Irvine 2026 | Pricing & Timeline",
+  metaDescription:
+    "Room addition cost in Irvine runs $95,000-$320,000+ in 2026. See HOA, permit, and timeline drivers. Call Stone Development at (949) 508-6763.",
+  excerpt:
+    "Irvine room additions cost $95,000 to $320,000+ in 2026 depending on square footage, bathroom count, HOA review, and whether the design stays single story. This guide breaks down pricing by neighborhood, approval path, and real budget line item.",
+  content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">In Irvine, the question is rarely whether a family needs more space. The real question is whether adding that space is smarter than paying the jump to the next-size-up house in the same school boundary. In Woodbridge, Northwood, University Park, Turtle Rock, and Quail Hill, that answer often comes down to one number: room addition cost in Irvine in 2026.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">Room addition cost in Irvine typically lands between $95,000 and $320,000+ in 2026. Most ground-floor additions run 5-9 months start to finish, and HOA-governed neighborhoods add front-end review work that changes design time more than construction time.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. is licensed, bonded, and fully insured under CA License #1146382, with 20+ years building across Southern California. Our office at 1 Jenner Suite 150 is inside Irvine, which means site walks in Turtle Rock, Northwood, and Woodbridge are usually same-day visits rather than a contractor driving in from another county. That local familiarity matters because Irvine additions are shaped by repeated tract-home layouts, HOA architecture rules, and a document-heavy submittal process that generic statewide cost guides miss.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Need a real number for your lot and floor plan? <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">Request a free room addition estimate</a> or call <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Much Does a Room Addition Cost in Irvine in 2026?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine additions price differently than similar projects in older Orange County cities because the finish baseline is higher and the front-end paperwork is heavier. In practice, the cheapest projects are simple family-room or bedroom expansions that stay off property lines and avoid new plumbing. The most expensive are primary suite or second-story additions that require structural redesign, bathroom work, and more HOA scrutiny.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Irvine Addition Type</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Size</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">2026 Cost Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Bedroom or flex-room addition</td>
+        <td style="padding: 0.75rem 1rem;">180-300 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$95,000-$165,000</td>
+        <td style="padding: 0.75rem 1rem;">5-7 months</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Family room addition</td>
+        <td style="padding: 0.75rem 1rem;">250-450 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$120,000-$210,000</td>
+        <td style="padding: 0.75rem 1rem;">6-8 months</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Primary suite addition</td>
+        <td style="padding: 0.75rem 1rem;">350-550 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$170,000-$280,000</td>
+        <td style="padding: 0.75rem 1rem;">7-9 months</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Second-story bedroom and bath</td>
+        <td style="padding: 0.75rem 1rem;">450-700 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$230,000-$320,000+</td>
+        <td style="padding: 0.75rem 1rem;">8-11 months</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The practical midpoint for many Irvine homeowners is a 280- to 400-square-foot addition that improves bedroom count or expands daily living space without turning the project into a full-house reconstruction. That scope usually lands between $130,000 and $210,000 when the roofline ties in cleanly, the electrical service is adequate, and the design stays clear of setback headaches.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Want a Line-Item Irvine Addition Budget?</h3>
+  <p style="margin-bottom: 1rem;">Stone Development scopes additions around your exact floor plan, HOA, and structural path instead of giving you a national-average placeholder.</p>
+  <a href="/contact?service=room-addition" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Get Free Estimate</a>
+  <a href="/resources/budget-calculator" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Use Budget Calculator</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Which Irvine Homes Cost More to Expand?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine is not one cost environment. The structure type, HOA layer, and lot geometry change by village. Woodbridge and University Park often involve older floor plans that need electrical service review, roof tie-in cleanup, or tighter side-yard planning. Northwood and Northpark projects often encounter stronger HOA architecture requirements. Turtle Rock and Quail Hill carry higher finish expectations, and those expectations show up in windows, doors, flooring transitions, and exterior detailing.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">This is where the swap test matters. A room addition in Woodbridge is not interchangeable with one in Portola Springs. Woodbridge and University Park families are usually solving for better bedroom count in homes built decades earlier, often with original service panels and stricter matching requirements against existing stucco and roof tile. Portola Springs and newer Orchard Hills homes usually have better systems capacity but tighter HOA design review and less tolerance for off-pattern exterior changes. The underlying square footage may look similar. The cost path is not.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Why Do Woodbridge and University Park Additions Need Closer Front-End Review?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Many homes in Woodbridge and University Park were built in eras where today's HVAC loads, appliance packages, and EV expectations were not part of the original design. When an addition introduces a new bedroom, bathroom, or enlarged family area, the project team has to confirm panel capacity, duct routing, and roof framing before pricing can be trusted. That work does not automatically make the project expensive, but it does separate a reliable estimate from a low bid that turns into change orders later.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Why Do Turtle Rock and Quail Hill Additions Carry a Higher Finish Standard?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">In Turtle Rock, Quail Hill, and similar upper-tier Irvine neighborhoods, homeowners are rarely trying to add the cheapest possible room. They are trying to preserve architectural credibility and resale quality. That usually means premium window packages, better millwork, stronger flooring transitions, upgraded insulation, and cleaner exterior detailing where the new footprint meets the original house. The incremental finish spend is real, and it is usually the right decision for the submarket.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">If you want a more strategic comparison before committing to an addition, review our <a href="/resources/adu-vs-addition" style="color: #B8892A; font-weight: 600;">ADU vs. addition guide</a> and our <a href="/blog/home-additions-guide-orange-county" style="color: #B8892A; font-weight: 600;">Orange County home additions hub</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Permits and Approvals Shape the Irvine Budget?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The City of Irvine uses an online residential submittal path, and additions typically require a complete drawing set rather than a light over-the-counter review. In real terms, that means architectural plans, structural calculations, energy documentation, and supporting forms have to be right before the job ever reaches framing. When the home is in an HOA-governed community, architectural approval usually belongs in the same planning conversation, not as an afterthought.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">A practical Irvine budget should assume four front-end cost buckets before construction starts: design, engineering, permit and school-fee paperwork where applicable, and HOA review packaging. Complete submittals often move through review faster than incomplete ones, but the safer underwriting move is to budget several weeks for plan check and correction cycles instead of pretending the permit will appear instantly.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Front-End Cost Item</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Irvine Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Why It Shows Up</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Architectural design</td>
+        <td style="padding: 0.75rem 1rem;">$6,000-$18,000</td>
+        <td style="padding: 0.75rem 1rem;">Plans, revisions, site fit, HOA visuals</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Structural engineering</td>
+        <td style="padding: 0.75rem 1rem;">$3,500-$9,000</td>
+        <td style="padding: 0.75rem 1rem;">Foundations, roof loads, framing tie-ins</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Permit and agency fees</td>
+        <td style="padding: 0.75rem 1rem;">$4,000-$12,000</td>
+        <td style="padding: 0.75rem 1rem;">Plan review, inspections, local fee stack</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">HOA package and exterior matching</td>
+        <td style="padding: 0.75rem 1rem;">$1,500-$8,000</td>
+        <td style="padding: 0.75rem 1rem;">Submittal prep, samples, revised elevations, matching tile or stucco</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">That permitting reality is exactly why Stone Development does not separate pricing from feasibility. The low-cost mistake in Irvine is not overplanning. It is pretending HOA and city approvals are outside the budget until the homeowner is already emotionally committed to the project.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Before you meet contractors, download our <a href="/resources/permit-guide" style="color: #B8892A; font-weight: 600;">SoCal permit guide</a> and <a href="/resources/contractor-checklist" style="color: #B8892A; font-weight: 600;">contractor vetting checklist</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Does a Typical Irvine Room Addition Budget Look Like Line by Line?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">A realistic room addition budget is not one number. It is a stack of decisions. The table below models a mid-range 320-square-foot Irvine family-room addition with no new bathroom, moderate exterior matching, and a clean roof tie-in on a tract home lot.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Budget Category</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Share of Budget</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Design, engineering, permits</td>
+        <td style="padding: 0.75rem 1rem;">$16,000-$30,000</td>
+        <td style="padding: 0.75rem 1rem;">12-18%</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Foundation and framing</td>
+        <td style="padding: 0.75rem 1rem;">$32,000-$48,000</td>
+        <td style="padding: 0.75rem 1rem;">24-30%</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Roofing, exterior, windows, insulation</td>
+        <td style="padding: 0.75rem 1rem;">$22,000-$38,000</td>
+        <td style="padding: 0.75rem 1rem;">17-22%</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Electrical, HVAC, drywall, paint</td>
+        <td style="padding: 0.75rem 1rem;">$18,000-$32,000</td>
+        <td style="padding: 0.75rem 1rem;">14-19%</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Flooring, doors, trim, finish carpentry</td>
+        <td style="padding: 0.75rem 1rem;">$16,000-$30,000</td>
+        <td style="padding: 0.75rem 1rem;">12-18%</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Contingency and hidden conditions</td>
+        <td style="padding: 0.75rem 1rem;">$8,000-$18,000</td>
+        <td style="padding: 0.75rem 1rem;">6-10%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The biggest budget trap is leaving out the items that do not photograph well on social media: panel upgrades, reworked attic routing, roof tile matching, drainage changes, or exterior repainting at the connection line. Irvine tract homes can look straightforward from the street while still hiding expensive tie-in work once demolition begins.</p>
+
+<div class="cta-block" style="background: #F5F3EF; border: 1px solid #ddd; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin-bottom: 0.75rem;">See If Your Addition Is Still Smarter Than Moving</h3>
+  <p style="line-height: 1.8; margin-bottom: 1rem;">Families in Northwood and Woodbridge often compare a $150,000-$220,000 addition against a move-up purchase that costs far more once commissions, rate resets, and new finishes are counted.</p>
+  <a href="/resources/cost-guide" style="color: #B8892A; font-weight: 600; margin-right: 1rem;">Download Cost Guide</a>
+  <a href="/portfolio" style="color: #B8892A; font-weight: 600;">Review Our Portfolio</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Long Does a Room Addition Take in Irvine?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Irvine schedules are usually won or lost before excavation. The cleanest projects move because the scope is locked, HOA materials are ready, and the city packet is complete. The slowest projects drift when homeowners are still changing windows, roof lines, or bathroom layouts after engineering has already begun.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Project Stage</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Duration</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">What Slows It Down</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Feasibility and measuring</td>
+        <td style="padding: 0.75rem 1rem;">1-2 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Scope uncertainty, missing survey data</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Design and engineering</td>
+        <td style="padding: 0.75rem 1rem;">4-7 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Revisions, structural changes, bathroom adds</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">HOA and city review</td>
+        <td style="padding: 0.75rem 1rem;">3-8 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Incomplete packets, correction cycles, exterior mismatches</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Construction</td>
+        <td style="padding: 0.75rem 1rem;">10-20 weeks</td>
+        <td style="padding: 0.75rem 1rem;">Weather, hidden framing issues, late selections</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">That is why most Irvine additions land in the 5- to 9-month band from first feasibility work to final signoff. The path gets longer if the addition includes a second story, an extensive plumbing scope, or a homeowner who wants to make design decisions in the field instead of up front.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">If timing matters as much as cost, our <a href="/resources/project-timeline" style="color: #B8892A; font-weight: 600;">project timeline guide</a> is the best pre-consultation read.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Does a Room Addition Pay Off in Irvine?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">In Irvine, room additions perform best when they solve a real neighborhood mismatch. A cramped 3-bedroom in Northwood that becomes a functional 4-bedroom usually makes more resale sense than a generic oversized bonus room. A primary suite in University Park often pays off better than the same spend on luxury finishes alone because it improves the count and the layout at the same time.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">As a working range, well-scoped Irvine additions commonly recoup about 55-72% at resale, with the strongest returns showing up when the project aligns the home with local buyer expectations instead of pushing the property beyond them. That resale math matters, but it is not the whole decision. For many families, the real return is staying in the same school zone, the same commute pattern, and the same neighborhood network without paying the premium required to relocate nearby.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">If you want a cleaner comparison across cities and project types, see our related posts on <a href="/blog/room-addition-myths-mission-viejo" style="color: #B8892A; font-weight: 600;">Mission Viejo room addition myths</a> and <a href="/blog/huntington-beach-room-addition-1960s-homes-2026" style="color: #B8892A; font-weight: 600;">Huntington Beach room addition costs</a>.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Need an Irvine-Specific Go or No-Go Decision?</h3>
+  <p style="margin-bottom: 1rem;">Stone Development will tell you whether your lot, HOA, and budget support the addition before you spend months chasing the wrong plan.</p>
+  <a href="/contact?service=room-addition" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Book Free Consultation</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Frequently Asked Questions About Room Addition Cost in Irvine</h2>
+
+<div class="faq-section">
+  <h3>How much does a room addition cost in Irvine in 2026?</h3>
+  <p><span class="faq-answer">Most Irvine room additions cost $95,000-$320,000+ in 2026.</span> Simple bedroom expansions land at the low end, while primary suites and second-story projects cost much more because they add plumbing, structural redesign, and more approval work.</p>
+
+  <h3>Why are Irvine room additions more expensive than some nearby cities?</h3>
+  <p><span class="faq-answer">Irvine projects carry higher finish expectations and more front-end review.</span> HOA architecture rules, tract-home matching requirements, and a full drawing-set permit path add time and cost before construction begins.</p>
+
+  <h3>How long does an Irvine room addition usually take?</h3>
+  <p><span class="faq-answer">Most Irvine room additions take about 5-9 months start to finish.</span> Straightforward ground-floor additions move faster, while bathroom and second-story scopes move slower because design and approvals expand.</p>
+
+  <h3>Do Irvine HOAs make room additions harder?</h3>
+  <p><span class="faq-answer">Yes, but they are manageable when planned correctly.</span> The cost problem is not the HOA itself. The problem is treating HOA review as separate from the design and permit schedule.</p>
+
+  <h3>Is adding a room in Irvine better than moving?</h3>
+  <p><span class="faq-answer">Often, yes.</span> When the next-size-up home in the same Irvine neighborhood costs far more than the addition budget, building out can be the more efficient financial move.</p>
+
+  <h3>What is the best addition type for Irvine resale?</h3>
+  <p><span class="faq-answer">The best-performing additions usually solve bedroom or primary-suite scarcity.</span> Buyers in Irvine tend to reward practical layout improvements more than generic extra square footage with no clear use case.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Talk to Stone Development at <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a> or <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">request your free estimate online</a>. Our Irvine team builds room additions around the real drivers that control cost: structure, approvals, and finish level.</p>
+
+</article>`,
+  category: "Home Additions" as const,
+  date: "2026-03-31",
+  lastUpdated: "2026-03-31",
+  readTime: "13 min read",
+  author: "Stone Development Inc.",
+  image: "/hero-still.jpg",
+  imageAlt:
+    "Stone Development Irvine home addition project showing a luxury room addition exterior",
+  featured: false,
+  contentType: "cluster" as const,
+  hubPage: false,
+  relatedSlugs: [
+    "home-additions-guide-orange-county",
+    "room-addition-myths-mission-viejo",
+    "huntington-beach-room-addition-1960s-homes-2026",
+    "second-story-addition-newport-beach-worth-it-2026",
+  ],
+  primaryKeyword: "room addition cost irvine",
+  secondaryKeywords: [
+    "room addition irvine",
+    "how much does a room addition cost in irvine",
+    "irvine home addition cost",
+    "irvine primary suite addition cost",
+    "irvine addition permit cost",
+    "irvine room addition timeline",
+  ],
+  targetCities: ["Irvine"],
+  geoRadius: "tight" as const,
+  ctaServiceType: "room-addition",
+  faq: [
+    {
+      question: "How much does a room addition cost in Irvine in 2026?",
+      answer:
+        "Most Irvine room additions cost $95,000-$320,000+ in 2026, with simple bedroom additions at the low end and primary suite or second-story scopes at the high end.",
+    },
+    {
+      question: "Why are Irvine room additions more expensive than some nearby cities?",
+      answer:
+        "Irvine additions carry higher finish expectations, HOA review work, and a document-heavy permit path that pushes more cost into design and approvals.",
+    },
+    {
+      question: "How long does an Irvine room addition usually take?",
+      answer:
+        "Most Irvine room additions take about 5-9 months from first feasibility work to final signoff, depending on scope and correction cycles.",
+    },
+    {
+      question: "Do Irvine HOAs make room additions harder?",
+      answer:
+        "Yes, but mostly by adding front-end review, exterior matching, and revision work. The construction itself is not always harder than in nearby cities.",
+    },
+    {
+      question: "Is adding a room in Irvine better than moving?",
+      answer:
+        "Often, yes. When the move-up price inside the same neighborhood is much larger than the addition budget, building out can be more efficient.",
+    },
+    {
+      question: "What is the best addition type for Irvine resale?",
+      answer:
+        "Additions that solve bedroom count or primary-suite layout problems usually perform best because they align the home with what Irvine buyers expect.",
+    },
+  ],
+  reviewQuotes: [],
+  gbpSummary:
+    "Room addition cost in Irvine typically ranges from $95,000 to $320,000+ in 2026 depending on square footage, plumbing, HOA review, and whether the project stays single story. Stone Development Inc. breaks down bedroom additions, family-room expansions, and primary-suite pricing for Irvine homeowners in Woodbridge, Northwood, University Park, Turtle Rock, and nearby villages. The guide also covers permit and HOA budgeting, timeline planning, and which additions make the most sense for resale. Call Stone Development at (949) 508-6763 for a free consultation from our Irvine office at 1 Jenner Suite 150. Read more: https://www.stonedevelopmentinc.com/blog/room-addition-cost-irvine-2026",
+  indexPriority: 0.9,
+  noindex: false,
+  canonicalTo: null,
+  reviewAfterDays: 90,
+  reviewAfterImpressions: 300,
+  mergeTarget: null,
+  lastGscReview: null,
+},
+{
+  id: 22,
+  slug: "second-story-addition-newport-beach-worth-it-2026",
+  title: "Is a Second-Story Addition Worth It in Newport Beach?",
+  metaTitle: "Second Story Addition Newport Beach | Worth It in 2026?",
+  metaDescription:
+    "Second story addition in Newport Beach costs $275,000-$650,000+ in 2026. Compare ROI, coastal review risk, and moving costs. Call (949) 508-6763.",
+  excerpt:
+    "A second-story addition in Newport Beach costs $275,000 to $650,000+ in 2026. This guide compares building up versus moving or building out, with neighborhood-specific guidance for Eastbluff, Newport Heights, Harbor View, and Corona del Mar.",
+  content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">In Newport Beach, the land is usually too valuable to waste on the wrong square footage. Families in Eastbluff, Newport Heights, Harbor View Homes, and Corona del Mar do not ask whether they need more room. They ask whether a second-story addition is worth the money, the disruption, and the planning risk compared with moving or building out.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">A second-story addition in Newport Beach is usually worth it when the lot cannot expand cleanly and the move-up price gap is far larger than a $275,000-$650,000+ build cost. Inland lots move faster than shoreline-sensitive properties, and planning risk should be priced from day one.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. is licensed, bonded, and fully insured under CA License #1146382, and our Irvine office at 1 Jenner Suite 150 regularly serves Newport Beach homeowners who need an honest answer before commissioning plans. From Eastbluff or Harbor View, a site visit from Irvine is straightforward. Corona del Mar, Balboa Peninsula, and harbor-edge neighborhoods bring a different traffic pattern, a different lot pattern, and in many cases a different approval strategy. That is exactly why Newport Beach second-story decisions should not be treated like generic Orange County additions.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Need a real feasibility read before you build up? <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">Book a free consultation</a> or call <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">When Is a Second-Story Addition Worth It in Newport Beach?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">A second story is worth it when three things are true at the same time. First, the lot is already constrained, so pushing outward would erase yard usability, parking, or setback flexibility. Second, the finished home value supports the spend. Third, the approval path is still manageable relative to the alternatives. Newport Beach often checks those boxes because the cost of buying more square footage in the same neighborhood can dwarf the cost of building it.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">In practice, the strongest candidates are single-story homes on valuable inland lots where the existing footprint is efficient but undersized for current family needs. Eastbluff and Harbor View Homes are classic examples. The weakest candidates are houses with highly constrained access, aggressive view sensitivity, or a planning path that becomes too fragile once height and massing increase. The answer is not emotional. It is underwriting.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Need an Honest Build Up vs Move Comparison?</h3>
+  <p style="margin-bottom: 1rem;">Stone Development compares structural feasibility, planning risk, and neighborhood value before telling you to commit to a second story.</p>
+  <a href="/contact?service=room-addition" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Schedule Consultation</a>
+  <a href="/resources/adu-vs-addition" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Compare Addition Options</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Much Does a Second-Story Addition Cost in Newport Beach in 2026?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Newport Beach second-story costs run above the county average because the labor market is premium, the finish standard is premium, and the planning risk can be premium too. The real spread is not between cheap and expensive contractors. It is between clean inland lots and properties that introduce access, view, coastal, or structural complications.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Scenario</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Size</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">2026 Cost Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Total Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Inland second-story bedroom suite</td>
+        <td style="padding: 0.75rem 1rem;">450-650 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$275,000-$390,000</td>
+        <td style="padding: 0.75rem 1rem;">7-10 months</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Larger family expansion with bath</td>
+        <td style="padding: 0.75rem 1rem;">650-900 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$360,000-$520,000</td>
+        <td style="padding: 0.75rem 1rem;">8-12 months</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">View-sensitive or coastal-adjacent project</td>
+        <td style="padding: 0.75rem 1rem;">500-850 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$420,000-$650,000+</td>
+        <td style="padding: 0.75rem 1rem;">10-14 months</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Those ranges assume full project delivery: design, engineering, permit work, structural reinforcement to the existing house, roofing, windows, insulation, rough trades, and finished interiors. They do not assume a bargain-basement finish level because Newport buyers do not reward bargain-basement results. The market here is too expensive for that strategy.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">If you want a broader cost framework before narrowing to Newport, see our <a href="/blog/home-additions-guide-orange-county" style="color: #B8892A; font-weight: 600;">Orange County home additions guide</a> and our <a href="/resources/cost-guide" style="color: #B8892A; font-weight: 600;">2026 remodeling cost guide</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Makes Newport Beach Approvals Different from Inland Orange County?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Newport Beach runs residential permit activity through its online iPermit system, but the bigger difference is not the software. It is the planning context around height, massing, privacy, and coastal sensitivity. A second story changes how a house sits in the street and how it affects neighboring properties, so the entitlement risk is naturally higher than it is for a basic single-story room addition in an inland tract neighborhood.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The practical rule is simple. Inland neighborhoods such as Eastbluff and many Harbor View Homes lots usually offer a cleaner path. Properties closer to the shoreline, harbor edge, or bluff conditions need more careful planning because coastal review and neighborhood sensitivity can change the timeline fast. Newport Beach's coastal framework allows some single-unit residential work to move on a simpler path when it fits the local rules, but shoreline-adjacent, bluff-adjacent, and highly visible sites should always be underwritten as higher-risk projects.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Approval Driver</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Why It Matters</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Budget Impact</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Height and massing review</td>
+        <td style="padding: 0.75rem 1rem;">Second stories change neighborhood scale and privacy relationships</td>
+        <td style="padding: 0.75rem 1rem;">More design work, more revision risk</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Coastal or view sensitivity</td>
+        <td style="padding: 0.75rem 1rem;">Some sites face extra planning analysis depending on location</td>
+        <td style="padding: 0.75rem 1rem;">Longer front-end schedule and consultant costs</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Existing structure capacity</td>
+        <td style="padding: 0.75rem 1rem;">The original home must safely carry the new upper-story load</td>
+        <td style="padding: 0.75rem 1rem;">Steel, foundation reinforcement, and engineering fees</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Access and staging</td>
+        <td style="padding: 0.75rem 1rem;">Tight streets and constrained lots slow production</td>
+        <td style="padding: 0.75rem 1rem;">Higher labor time and site logistics cost</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">This is also why Newport Beach second-story projects benefit from a contractor who can tell you no. A beautiful concept that sits on a fragile entitlement path is not a smart project just because the renderings look good.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Which Newport Beach Neighborhoods Make Second Stories More or Less Attractive?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Eastbluff and Harbor View Homes are often the best fit for second-story math because the lots are valuable, the families tend to want more bedroom count without leaving the neighborhood, and many homes start from a single-story footprint that can be strategically expanded. Newport Heights can also work well, but older structures often need more reinforcement and tighter staging plans. Corona del Mar is the highest-variance submarket of the group because view sensitivity, access, and design expectations are all sharper.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The route context matters too. A Harbor View Homes site visit from Stone's Irvine office is simple. A Balboa Peninsula or Corona del Mar project has a different site-management reality because crews, deliveries, and neighbors all feel the density. That density does not kill the project. It changes how disciplined the planning has to be.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Why Does Eastbluff Often Produce the Cleanest Second-Story Value?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Eastbluff homeowners are often sitting on valuable land with houses that still have strong family-use potential if the bedroom and bathroom count improves. That is the profile where a second story has room to create value instead of just creating cost. You are adding square footage in a submarket that already rewards it.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin: 1.5rem 0 0.75rem;">Why Does Corona del Mar Demand More Discipline?</h3>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Corona del Mar is less forgiving because the design bar is high and the lot conditions are tighter. When privacy, views, parking, and neighborhood scale are all in play, small design choices have larger consequences. That does not mean a second-story addition is wrong there. It means the margin for loose assumptions is smaller.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">For a more direct city-to-city comparison, review our posts on <a href="/blog/room-addition-cost-irvine-2026" style="color: #B8892A; font-weight: 600;">Irvine room addition costs</a> and <a href="/blog/huntington-beach-room-addition-1960s-homes-2026" style="color: #B8892A; font-weight: 600;">Huntington Beach room addition realities</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">How Does a Second-Story Addition Compare with Moving or Building Out?</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">This is the comparison that makes the decision practical instead of emotional. In Newport Beach, the next-size-up purchase inside the same lifestyle zone often costs dramatically more than the construction budget because you are paying for land, location, and finished square footage all at once. Building outward can be cheaper than building up, but only if the lot can absorb the footprint without damaging yard function or triggering setback pain.</p>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Option</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Typical Cost Profile</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Best When</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Build a second story</td>
+        <td style="padding: 0.75rem 1rem;">$275,000-$650,000+</td>
+        <td style="padding: 0.75rem 1rem;">Lot is constrained and staying in the neighborhood matters</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Build outward</td>
+        <td style="padding: 0.75rem 1rem;">Often cheaper per square foot, but lot-dependent</td>
+        <td style="padding: 0.75rem 1rem;">Yard, setbacks, and parking still work after expansion</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Move to a larger home</td>
+        <td style="padding: 0.75rem 1rem;">Often the highest total capital outlay</td>
+        <td style="padding: 0.75rem 1rem;">Current lot or structure has multiple non-fixable constraints</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">A good second-story addition in Newport Beach often recoups roughly 58-72% at resale, but the stronger justification is frequently lifestyle continuity: staying in the same block, schools, and coastal routine without taking on the full replacement cost of a larger purchase. That is what makes the project worth it for many owners, provided the planning path stays clean enough.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">If you are comparing paths across the wider property, our <a href="/resources/contractor-checklist" style="color: #B8892A; font-weight: 600;">contractor checklist</a>, <a href="/resources/project-timeline" style="color: #B8892A; font-weight: 600;">timeline guide</a>, and <a href="/portfolio" style="color: #B8892A; font-weight: 600;">portfolio</a> will give you a cleaner decision framework.</p>
+
+<div class="cta-block" style="background: #F5F3EF; border: 1px solid #ddd; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #141414; margin-bottom: 0.75rem;">See Whether Your Newport Lot Supports a Second Story</h3>
+  <p style="line-height: 1.8; margin-bottom: 1rem;">The wrong time to discover a view, access, or structural problem is after you have paid for full drawings. Stone Development starts with feasibility first.</p>
+  <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600; margin-right: 1rem;">Request Feasibility Review</a>
+  <a href="/portfolio" style="color: #B8892A; font-weight: 600;">Review Recent Work</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Frequently Asked Questions About Second-Story Additions in Newport Beach</h2>
+
+<div class="faq-section">
+  <h3>Is a second-story addition worth it in Newport Beach?</h3>
+  <p><span class="faq-answer">Usually, yes, when the lot cannot expand cleanly and the move-up price gap is large.</span> The decision gets weaker when the property carries major planning, view, or access constraints that erase the benefit.</p>
+
+  <h3>How much does a second-story addition cost in Newport Beach in 2026?</h3>
+  <p><span class="faq-answer">Most Newport Beach second-story additions cost $275,000-$650,000+ in 2026.</span> Inland projects land lower, while view-sensitive or coastal-adjacent homes trend higher because the planning and structural path is more demanding.</p>
+
+  <h3>Do Newport Beach second-story additions always trigger coastal review?</h3>
+  <p><span class="faq-answer">No, but coastal context matters.</span> Some residential projects can stay on a simpler path, while shoreline, bluff, harbor-edge, or highly visible lots usually carry more planning risk and should be evaluated early.</p>
+
+  <h3>Which Newport Beach neighborhoods are best for a second-story addition?</h3>
+  <p><span class="faq-answer">Eastbluff and many Harbor View Homes lots are often strong candidates.</span> They frequently offer valuable land, single-story footprints, and family demand that make added upper-level square footage financially logical.</p>
+
+  <h3>Is building up better than building out in Newport Beach?</h3>
+  <p><span class="faq-answer">Only when the lot is constrained enough to justify it.</span> Building out can be cheaper, but it stops making sense when setbacks, yard usability, or privacy break down.</p>
+
+  <h3>How long does a Newport Beach second-story addition take?</h3>
+  <p><span class="faq-answer">Most projects take about 7-12 months, and more complex sites can run longer.</span> The biggest differences come from planning risk, structural reinforcement, and how cleanly the homeowner locks decisions before engineering starts.</p>
+</div>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Call Stone Development at <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a> or <a href="/contact?service=room-addition" style="color: #B8892A; font-weight: 600;">request a free consultation online</a>. We help Newport Beach homeowners decide whether building up is truly the smartest move before the wrong plan becomes an expensive commitment.</p>
+
+</article>`,
+  category: "Home Additions" as const,
+  date: "2026-03-31",
+  lastUpdated: "2026-03-31",
+  readTime: "13 min read",
+  author: "Stone Development Inc.",
+  image: "/hero-still.jpg",
+  imageAlt:
+    "Stone Development Newport Beach second-story addition concept for a coastal home",
+  featured: false,
+  contentType: "cluster" as const,
+  hubPage: false,
+  relatedSlugs: [
+    "home-additions-guide-orange-county",
+    "room-addition-cost-irvine-2026",
+    "room-addition-myths-mission-viejo",
+    "huntington-beach-room-addition-1960s-homes-2026",
+  ],
+  primaryKeyword: "second story addition newport beach",
+  secondaryKeywords: [
+    "is a second story addition worth it in newport beach",
+    "newport beach second story addition cost",
+    "newport beach home addition contractor",
+    "build up vs move newport beach",
+    "newport beach addition permit",
+    "coastal second story addition newport beach",
+  ],
+  targetCities: ["Newport Beach"],
+  geoRadius: "tight" as const,
+  ctaServiceType: "room-addition",
+  faq: [
+    {
+      question: "Is a second-story addition worth it in Newport Beach?",
+      answer:
+        "Usually, yes, when the lot cannot expand cleanly and the move-up price gap is much larger than the construction budget.",
+    },
+    {
+      question:
+        "How much does a second-story addition cost in Newport Beach in 2026?",
+      answer:
+        "Most Newport Beach second-story additions cost $275,000-$650,000+ in 2026, with inland projects lower and view-sensitive or coastal-adjacent projects higher.",
+    },
+    {
+      question:
+        "Do Newport Beach second-story additions always trigger coastal review?",
+      answer:
+        "No. Some residential projects can stay on a simpler path, while shoreline, bluff, harbor-edge, or highly visible sites typically carry more planning risk.",
+    },
+    {
+      question:
+        "Which Newport Beach neighborhoods are best for a second-story addition?",
+      answer:
+        "Eastbluff and many Harbor View Homes lots are often strong candidates because they combine valuable land, single-story footprints, and family demand for more space.",
+    },
+    {
+      question: "Is building up better than building out in Newport Beach?",
+      answer:
+        "Only when the lot is constrained enough to justify it. Building out can be cheaper, but it stops making sense when setbacks, yard usability, or privacy break down.",
+    },
+    {
+      question: "How long does a Newport Beach second-story addition take?",
+      answer:
+        "Most projects take about 7-12 months, with longer schedules on sites that carry extra planning, access, or structural complexity.",
+    },
+  ],
+  reviewQuotes: [],
+  gbpSummary:
+    "A second-story addition in Newport Beach usually costs $275,000 to $650,000+ in 2026 depending on square footage, structural reinforcement, finish level, and planning risk. Stone Development Inc. explains when building up is smarter than moving, which Newport Beach neighborhoods support the best value, and why Eastbluff, Harbor View, Newport Heights, and Corona del Mar do not follow the same cost path. The guide also covers timeline expectations, coastal-context planning, and the difference between inland lots and shoreline-sensitive properties. Call Stone Development at (949) 508-6763 for a free consultation from our Irvine office. Read more: https://www.stonedevelopmentinc.com/blog/second-story-addition-newport-beach-worth-it-2026",
+  indexPriority: 0.88,
   noindex: false,
   canonicalTo: null,
   reviewAfterDays: 90,

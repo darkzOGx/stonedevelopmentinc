@@ -107,35 +107,71 @@
       "format": 2,
       "primaryKeyword": "bathroom remodel huntington beach",
       "hubParent": "bathroom-remodeling-guide-orange-county"
+    },
+    {
+      "id": 20,
+      "slug": "home-additions-guide-orange-county",
+      "title": "Home Additions in Orange County: The 2026 Homeowner's Guide",
+      "date": "2026-03-31",
+      "category": "Home Additions",
+      "contentType": "hub",
+      "targetCities": ["Orange County"],
+      "format": 1,
+      "primaryKeyword": "home additions orange county",
+      "hubParent": null
+    },
+    {
+      "id": 21,
+      "slug": "room-addition-cost-irvine-2026",
+      "title": "What Does a Room Addition Cost in Irvine in 2026?",
+      "date": "2026-03-31",
+      "category": "Home Additions",
+      "contentType": "cluster",
+      "targetCities": ["Irvine"],
+      "format": 2,
+      "primaryKeyword": "room addition cost irvine",
+      "hubParent": "home-additions-guide-orange-county"
+    },
+    {
+      "id": 22,
+      "slug": "second-story-addition-newport-beach-worth-it-2026",
+      "title": "Is a Second-Story Addition Worth It in Newport Beach?",
+      "date": "2026-03-31",
+      "category": "Home Additions",
+      "contentType": "cluster",
+      "targetCities": ["Newport Beach"],
+      "format": 3,
+      "primaryKeyword": "second story addition newport beach",
+      "hubParent": "home-additions-guide-orange-county"
     }
   ],
-  "lastGenerated": "2026-03-27T12:00:00.000Z",
+  "lastGenerated": "2026-03-31T12:00:00.000Z",
   "topicCoverage": {
     "Kitchen Remodeling": 6,
     "ADU Construction": 3,
     "Bathroom Remodeling": 5,
-    "Home Additions": 2,
+    "Home Additions": 5,
     "Full Home Renovation": 1
   },
   "cityCoverage": {
-    "Irvine": 3,
+    "Irvine": 4,
     "Costa Mesa": 2,
-    "Newport Beach": 2,
+    "Newport Beach": 3,
     "Mission Viejo": 2,
     "Huntington Beach": 3,
     "Lake Forest": 1,
     "Tustin": 1,
-    "Orange County": 4
+    "Orange County": 5
   },
   "formatRotation": {
-    "lastUsed": 2,
-    "history": [4, 6, 3, 5, 1, 1, 2, 2, 2]
+    "lastUsed": 3,
+    "history": [4, 6, 3, 5, 1, 1, 2, 2, 2, 1, 2, 3]
   },
   "clusterProgress": {
     "kitchen-remodeling-orange-county-2026-guide": 5,
     "adu-construction-orange-county-2026-guide": 2,
     "bathroom-remodeling-guide-orange-county": 4,
-    "home-additions-guide-orange-county": 2,
+    "home-additions-guide-orange-county": 4,
     "whole-home-renovation-orange-county-2026": 0
   }
 }
