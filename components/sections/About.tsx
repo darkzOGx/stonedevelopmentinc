@@ -21,11 +21,11 @@ export function About() {
             transition={{ duration: 0.8 }}
           >
             <SectionLabel className="[&>span]:text-accent [&>div]:bg-accent">Why Stone Development</SectionLabel>
-            <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif mt-6 mb-8 text-foreground tracking-tight">We've Earned Our Reputation.</h2>
+            <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif mt-6 mb-8 text-foreground tracking-tight">Local Context Matters More Than Generic Craft Talk.</h2>
             <p className="text-xl md:text-2xl text-foreground-secondary leading-relaxed mb-10 font-light">
-              Over two decades of licensed, insured work across Southern California. 
-              We don't cut corners, we don't miss deadlines, and we don't hand off a project 
-              until it's right. That's not a promise — it's our track record.
+              Our Irvine office, Orange County service footprint, and planning-first
+              process give homeowners clearer answers before a project gets too far
+              down the wrong path. That matters just as much as the field execution.
             </p>
             <Link href="/about">
               <Button size="lg" className="bg-foreground hover:bg-foreground/90 text-background">

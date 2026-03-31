@@ -10,35 +10,29 @@ import bgNewConstr from '@/src/assets/service-new-construction.jpg';
 const services = [
   {
     label: "Remodeling & Renovation",
-    heading: "Your Home, Done Right.",
-    body: "We handle kitchens, bathrooms, full renovations, and everything in between. Quality materials, clean execution, and a crew that respects your space.",
+    heading: "Kitchen, Bath & Whole-Home Remodeling",
+    body: "These are the pages Orange County homeowners actually search for when they are ready to compare contractors, costs, timelines, and scope decisions.",
     list: [
-      "Kitchen Remodeling",
-      "Bathroom Remodeling",
-      "Room Additions",
-      "Full Home Renovations",
-      "Structural Renovations",
-      "Water Damage Restoration",
-      "Fire Damage Restoration"
+      { label: "Kitchen Remodeling", href: "/services/kitchen-remodeling" },
+      { label: "Bathroom Remodeling", href: "/services/bathroom-remodeling" },
+      { label: "Full Home Renovation", href: "/services/full-home-renovation" },
+      { label: "Damage Restoration", href: "/services/damage-restoration" }
     ],
-    cta: "Explore Remodeling →",
-    link: "/portfolio",
+    cta: "Explore Remodeling Services →",
+    link: "/services",
     image: bgRenovation
   },
   {
     label: "New Construction",
-    heading: "Built From the Ground Up.",
-    body: "Custom homes, ADUs, commercial build-outs — we take your plans from blueprint to move-in day with precision and zero compromises.",
+    heading: "ADUs, Additions & Custom Build Work",
+    body: "These pages support the higher-intent homeowners comparing square footage strategy, lot fit, detached units, custom-home planning, and major expansion work.",
     list: [
-      "Custom Home Building",
-      "Accessory Dwelling Units (ADUs)",
-      "Commercial Build-Outs",
-      "Additions & Expansions",
-      "Multi-Unit Developments",
-      "Design-Build Projects"
+      { label: "ADU Construction", href: "/services/adu-construction" },
+      { label: "Home Additions", href: "/services/home-additions" },
+      { label: "Custom Homes", href: "/services/custom-homes" }
     ],
-    cta: "Explore New Construction →",
-    link: "/portfolio",
+    cta: "Explore Build Services →",
+    link: "/services",
     image: bgNewConstr
   }
 ];
@@ -55,9 +49,9 @@ export function Services() {
           className="max-w-3xl"
         >
           <SectionLabel>What We Do</SectionLabel>
-          <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif mt-6 mb-8 tracking-tight">Two Ways We Deliver.</h2>
+          <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif mt-6 mb-8 tracking-tight">Services Homeowners Actually Search For.</h2>
           <p className="text-xl text-foreground-secondary leading-relaxed font-light">
-            Whether you're remodeling a single room or building from the ground up, we bring the same standard to every project: no shortcuts, no excuses.
+            The clearest way to grow local visibility is to give each major service its own search-facing page and a cleaner path into the right kind of project.
           </p>
         </motion.div>
       </div>
@@ -100,9 +94,11 @@ export function Services() {
               
               <ul className="mb-12 space-y-4">
                 {service.list.map((item, j) => (
-                  <li key={j} className="flex items-center text-foreground font-light">
+                  <li key={item.href} className="flex items-center text-foreground font-light">
                     <div className="w-1.5 h-1.5 bg-accent rounded-full mr-4" />
-                    {item}
+                    <Link href={item.href} className="hover:text-accent transition-colors">
+                      {item.label}
+                    </Link>
                   </li>
                 ))}
               </ul>

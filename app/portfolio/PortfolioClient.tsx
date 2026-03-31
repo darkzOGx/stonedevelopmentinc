@@ -13,11 +13,7 @@ export default function PortfolioClient() {
 
   const filteredProjects = projects.filter(p => {
     if (activeFilter === 'All') return true;
-    if (activeFilter === 'Remodeling') return p.category.includes('Remodeling') || p.category.includes('Renovation');
-    if (activeFilter === 'New Construction') return p.category.includes('New Construction');
-    if (activeFilter === 'ADU') return p.category.includes('ADU') || p.category.includes('Accessory Dwelling');
-    if (activeFilter === 'Commercial') return p.category.includes('Commercial');
-    return false;
+    return p.filterTags.includes(activeFilter as 'Remodeling' | 'New Construction' | 'ADU' | 'Commercial');
   });
 
   return (
@@ -32,10 +28,9 @@ export default function PortfolioClient() {
           <div className="flex justify-center mb-6">
             <SectionLabel>Our Work</SectionLabel>
           </div>
-          <h1 className="text-5xl md:text-6xl font-serif tracking-tight mb-6">Portfolio</h1>
+          <h1 className="text-5xl md:text-6xl font-serif tracking-tight mb-6">Portfolio Case Studies</h1>
           <p className="text-xl text-foreground-secondary font-light">
-            A selection of our recent projects across Southern California. 
-            Browse by category to see our specific expertise.
+            A selection of recent remodeling, addition, and ADU work across Orange County, now organized as individual case-study pages instead of image-only gallery tiles.
           </p>
         </motion.div>
 
@@ -62,7 +57,7 @@ export default function PortfolioClient() {
           <AnimatePresence mode="popLayout">
             {filteredProjects.map((project, index) => (
               <motion.div
-                key={project.title}
+                key={project.slug}
                 layout
                 initial={{ opacity: 0, scale: 0.9 }}
                 animate={{ opacity: 1, scale: 1 }}

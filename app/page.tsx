@@ -8,17 +8,17 @@ import { CTABanner } from '@/components/sections/CTABanner';
 import { ContactForm } from '@/components/sections/ContactForm';
 
 export const metadata: Metadata = {
-  title: 'Stone Development Inc | Luxury Construction & General Contractor',
-  description: "Stone Development brings uncompromising craft to every residential and commercial project in Southern California. Premier licensed, bonded, and insured contractors.",
+  title: 'Orange County General Contractor | Stone Development Inc.',
+  description:
+    'Irvine-based general contractor for Orange County kitchen remodeling, bathroom remodeling, ADUs, home additions, whole-home renovation, custom homes, and restoration.',
   alternates: { canonical: 'https://www.stonedevelopmentinc.com' }
 };
 
 export default function Home() {
   return (
     <main id="main-content">
-      <h1 className="sr-only">Stone Development Inc. - Luxury General Contractors in Southern California</h1>
       <div className="speakable-summary sr-only">
-        Stone Development Inc. is a premier, licensed, and insured general contractor in Southern California, specializing in luxury residential remodeling, new construction, ADUs, and commercial builds. We bring uncompromising craft from the first blueprint to the final finish.
+        Stone Development Inc. is an Irvine-based general contractor serving Orange County with kitchen remodeling, bathroom remodeling, ADUs, home additions, whole-home renovation, custom homes, and restoration work.
       </div>
       <Hero />
       <TrustBar />

@@ -7,6 +7,7 @@ import Footer from '@/components/layout/Footer';
 import { SupportBubble } from '@/components/ui/SupportBubble';
 import { ExitIntentModal } from '@/components/ui/ExitIntentModal';
 import { Analytics } from '@vercel/analytics/next';
+import { COMPANY, SITE_URL, absoluteUrl, buildOrganizationSchema } from '@/lib/site';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 const cormorant = Cormorant_Garamond({ 
@@ -16,58 +17,55 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.stonedevelopmentinc.com'),
-  title: 'Stone Development Inc | Luxury Construction & General Contractor',
-  description: "Stone Development brings uncompromising craft to every residential and commercial project in Southern California. Premier licensed, bonded, and insured contractors.",
-  keywords: ['Luxury Construction', 'General Contractor', 'Southern California', 'Home Renovation', 'Commercial Build', 'ADU', 'Real Estate Development'],
+  metadataBase: new URL(SITE_URL),
+  title: 'Orange County General Contractor | Stone Development Inc.',
+  description:
+    'Irvine-based general contractor for Orange County kitchen remodeling, bathroom remodeling, ADUs, home additions, whole-home renovation, custom homes, and restoration.',
+  keywords: [
+    'Orange County general contractor',
+    'Irvine general contractor',
+    'kitchen remodeling Orange County',
+    'bathroom remodeling Orange County',
+    'ADU builder Orange County',
+    'home additions Orange County',
+  ],
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://www.stonedevelopmentinc.com',
-    siteName: 'Stone Development Inc.',
-    title: 'Stone Development Inc | Luxury Construction in Southern California',
-    description: 'Uncompromising craft to every residential and commercial project — from the first blueprint to the final finish.',
+    url: SITE_URL,
+    siteName: COMPANY.name,
+    title: 'Orange County General Contractor | Stone Development Inc.',
+    description:
+      'Irvine-based contractor for Orange County kitchens, bathrooms, ADUs, additions, whole-home renovation, and custom construction.',
     images: [{ url: '/exit-intent-picture.jpg', width: 1200, height: 630, alt: 'Stone Development Construction' }]
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Stone Development Inc | Luxury Construction',
-    description: 'Premier licensed, bonded & insured general contractors in Southern California.',
+    title: 'Orange County General Contractor | Stone Development Inc.',
+    description:
+      'Irvine-based contractor for Orange County kitchens, bathrooms, ADUs, additions, and whole-home renovation.',
     images: ['/exit-intent-picture.jpg']
   },
   alternates: {
-    canonical: 'https://www.stonedevelopmentinc.com'
+    canonical: SITE_URL
   }
 };
 
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'GeneralContractor',
-  name: 'Stone Development Inc.',
-  image: 'https://www.stonedevelopmentinc.com/logo.png',
-  '@id': 'https://www.stonedevelopmentinc.com',
-  url: 'https://www.stonedevelopmentinc.com',
-  telephone: '+19495086763',
-  address: {
-    '@type': 'PostalAddress',
-    streetAddress: '1 Jenner Suite 150',
-    addressLocality: 'Irvine',
-    addressRegion: 'CA',
-    postalCode: '92618',
-    addressCountry: 'US'
-  },
-  geo: {
-    '@type': 'GeoCoordinates',
-    latitude: 33.6554862,
-    longitude: -117.7478096
-  },
-  openingHoursSpecification: {
-    '@type': 'OpeningHoursSpecification',
-    dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-    opens: '08:00',
-    closes: '18:00'
-  },
-  priceRange: '$$$$'
+  '@graph': [
+    buildOrganizationSchema(),
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE_URL}/#website`,
+      url: SITE_URL,
+      name: COMPANY.name,
+      publisher: {
+        '@id': `${SITE_URL}/#organization`,
+      },
+      image: absoluteUrl('/logo.png'),
+    },
+  ],
 };
 
 export default function RootLayout({

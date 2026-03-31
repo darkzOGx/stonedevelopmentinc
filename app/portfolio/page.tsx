@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import PortfolioClient from './PortfolioClient';
 
 export const metadata: Metadata = {
-  title: 'Our Portfolio | Stone Development Inc.',
-  description: 'Explore our recent luxury residential and commercial construction projects across Southern California. Browse by remodeling, new construction, and ADUs.',
+  title: 'Portfolio Case Studies | Stone Development Inc.',
+  description: 'Explore Orange County remodeling, addition, ADU, and renovation case studies from Stone Development Inc.',
   alternates: { canonical: 'https://www.stonedevelopmentinc.com/portfolio' }
 }
 

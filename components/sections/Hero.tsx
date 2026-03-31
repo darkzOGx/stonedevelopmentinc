@@ -42,7 +42,7 @@ export function Hero() {
           transition={{ duration: 0.8 }}
         >
           <span className="text-white drop-shadow-md uppercase tracking-[0.2em] font-semibold text-xs md:text-sm mb-6 block">
-            Licensed & Insured &middot; Southern California
+            Irvine Based &middot; Licensed, Bonded &amp; Insured &middot; Orange County
           </span>
         </motion.div>
 
@@ -58,7 +58,7 @@ export function Hero() {
              }
           }}
         >
-          {["We Don't Just Build.", "We Define."].map((line, i) => (
+          {['Orange County General Contractor', 'For Kitchens, Bathrooms, ADUs & Additions'].map((line, i) => (
              <motion.span 
                key={i} 
                className="block"
@@ -78,8 +78,9 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
         >
-          Stone Development brings uncompromising craft to every residential 
-          and commercial project — from the first blueprint to the final finish.
+          Stone Development helps Irvine and Orange County homeowners plan and build
+          kitchen remodels, bathroom remodels, ADUs, home additions, whole-home
+          renovations, custom homes, and reconstruction work.
         </motion.p>
 
         <motion.div 
@@ -102,9 +103,9 @@ export function Hero() {
               Book a Consultation
             </Button>
           </Link>
-          <Link href="/portfolio" className="w-full sm:w-auto">
+          <Link href="/services" className="w-full sm:w-auto">
             <Button variant="outline" size="lg" className="w-full border-white/20 text-white hover:bg-white/10 hover:border-white">
-              See Our Work
+              Explore Services
             </Button>
           </Link>
         </motion.div>

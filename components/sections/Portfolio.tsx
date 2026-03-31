@@ -19,9 +19,9 @@ export function Portfolio() {
           className="max-w-2xl"
         >
           <SectionLabel>Recent Work</SectionLabel>
-          <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif mt-6 mb-6 tracking-tight">The Work Speaks for Itself.</h2>
+          <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif mt-6 mb-6 tracking-tight">Project Proof That Can Actually Rank.</h2>
           <p className="text-xl text-foreground-secondary leading-relaxed font-light">
-            A selection of recent residential and commercial projects across Southern California.
+            These portfolio cards now lead to individual case-study pages, which gives Bing and homeowners much better context than a flat gallery alone.
           </p>
         </motion.div>
         
@@ -33,7 +33,7 @@ export function Portfolio() {
         >
           <Link href="/portfolio">
             <Button variant="outline" size="lg" className="border-white/20 text-white hover:bg-white/10">
-              View All Projects
+              View All Case Studies
             </Button>
           </Link>
         </motion.div>
@@ -42,7 +42,7 @@ export function Portfolio() {
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {projects.slice(0, 6).map((project, index) => (
           <motion.div
-            key={project.title}
+            key={project.slug}
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}

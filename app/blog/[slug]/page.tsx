@@ -1,6 +1,8 @@
 import { Metadata } from 'next';
+import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import { RelatedCardGrid } from '@/components/site/RelatedCardGrid';
 import { BLOG_POSTS } from '@/src/data/blog-posts';
 import {
   getCanonicalUrl,
@@ -8,6 +10,15 @@ import {
   isBlogIndexVisible,
   isNoindexPost,
 } from '@/lib/blog';
+import {
+  enrichBlogPostContent,
+  getCommercialTargetsForPost,
+} from '@/lib/blog-commercial';
+import {
+  resolvePostImageAlt,
+  resolvePostImagePath,
+  resolvePostImageUrl,
+} from '@/lib/blog-images';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -23,6 +34,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!post) return {};
 
   const canonicalUrl = getCanonicalUrl(post);
+  const imageUrl = resolvePostImageUrl(post);
+  const imageAlt = resolvePostImageAlt(post);
 
   return {
     title: post.metaTitle,
@@ -44,6 +57,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       publishedTime: post.date,
       modifiedTime: post.lastUpdated,
       authors: [post.author],
+      images: [{ url: imageUrl, alt: imageAlt }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.metaTitle,
+      description: post.metaDescription,
+      images: [imageUrl],
     },
   };
 }
@@ -55,6 +75,11 @@ export default async function BlogPost({ params }: Props) {
 
   const canonicalUrl = getCanonicalUrl(post);
   const postUrl = getPostUrl(post);
+  const imagePath = resolvePostImagePath(post);
+  const imageUrl = resolvePostImageUrl(post);
+  const imageAlt = resolvePostImageAlt(post);
+  const enrichedContent = enrichBlogPostContent(post);
+  const commercialTargets = getCommercialTargetsForPost(post);
 
   const relatedPosts = BLOG_POSTS.filter((candidate) =>
     candidate.slug !== post.slug &&
@@ -84,6 +109,7 @@ export default async function BlogPost({ params }: Props) {
     datePublished: post.date,
     dateModified: post.lastUpdated,
     mainEntityOfPage: canonicalUrl,
+    image: imageUrl,
     reviewedBy: {
       '@type': 'Organization',
       name: 'Stone Development Inc.',
@@ -195,6 +221,18 @@ export default async function BlogPost({ params }: Props) {
             </div>
           </header>
 
+          <div className="mb-10 overflow-hidden rounded-3xl border border-border-subtle bg-background-surface">
+            <div className="relative aspect-[16/9]">
+              <Image
+                src={imagePath}
+                alt={imageAlt}
+                fill
+                className="object-cover"
+                sizes="(min-width: 1024px) 768px, 100vw"
+              />
+            </div>
+          </div>
+
           {/* Content */}
           <div
             className="prose prose-lg max-w-none
@@ -204,7 +242,24 @@ export default async function BlogPost({ params }: Props) {
               prose-strong:text-foreground
               prose-li:text-foreground-secondary
               prose-table:text-sm"
-            dangerouslySetInnerHTML={{ __html: post.content }}
+            dangerouslySetInnerHTML={{ __html: enrichedContent }}
+          />
+
+          <RelatedCardGrid
+            label="Next Step"
+            heading="Money pages tied to this article"
+            items={[
+              ...commercialTargets.comboLinks,
+              ...commercialTargets.serviceLinks,
+              ...commercialTargets.locationLinks,
+              ...commercialTargets.projectLinks,
+            ]}
+          />
+
+          <RelatedCardGrid
+            label="Planning Tools"
+            heading="Resources connected to this topic"
+            items={commercialTargets.resourceLinks}
           />
 
           {/* Related Posts */}

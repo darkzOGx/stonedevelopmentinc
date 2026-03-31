@@ -1,23 +1,31 @@
-'use client';
-
-import { useState } from 'react';
 import Link from 'next/link';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import type { BlogPost } from '@/src/data/blog-posts';
 
-const POSTS_PER_PAGE = 9;
+export const POSTS_PER_PAGE = 9;
 
-export function BlogList({ posts }: { posts: BlogPost[] }) {
-  const [page, setPage] = useState(0);
-  const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
-  const start = page * POSTS_PER_PAGE;
-  const visible = posts.slice(start, start + POSTS_PER_PAGE);
+function blogPageHref(page: number) {
+  return page <= 1 ? '/blog' : `/blog?page=${page}`;
+}
+
+export function BlogList({
+  posts,
+  currentPage,
+  totalPages,
+}: {
+  posts: BlogPost[];
+  currentPage: number;
+  totalPages: number;
+}) {
+  const previousPageHref = blogPageHref(currentPage > 1 ? currentPage - 1 : 1);
+  const nextPageHref = blogPageHref(currentPage < totalPages ? currentPage + 1 : totalPages);
+  const pageNumbers = Array.from({ length: totalPages }, (_, index) => index + 1);
 
   return (
     <>
       <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-        {visible.map((post) => (
+        {posts.map((post) => (
           <Link
             key={post.slug}
             href={`/blog/${post.slug}`}
@@ -50,40 +58,53 @@ export function BlogList({ posts }: { posts: BlogPost[] }) {
 
       {totalPages > 1 && (
         <div className="flex items-center justify-center gap-6 mt-12">
-          <button
-            onClick={() => setPage((p) => Math.max(0, p - 1))}
-            disabled={page === 0}
+          <Link
+            href={previousPageHref}
             className={cn(
               'p-2 rounded-full border transition-all duration-300',
-              page === 0
+              currentPage === 1
                 ? 'border-border-subtle text-foreground-secondary/30 cursor-default'
                 : 'border-accent/40 text-accent hover:bg-accent/5 hover:-translate-x-0.5'
             )}
             aria-label="Previous page"
+            aria-disabled={currentPage === 1}
+            tabIndex={currentPage === 1 ? -1 : 0}
           >
             <ChevronLeft size={20} strokeWidth={1.5} />
-          </button>
+          </Link>
 
-          <span className="text-sm text-foreground-secondary font-light tracking-wide">
-            Page{' '}
-            <span className="font-medium text-foreground">{page + 1}</span>
-            {' '}of{' '}
-            <span className="font-medium text-foreground">{totalPages}</span>
-          </span>
+          <div className="flex items-center gap-2">
+            {pageNumbers.map((pageNumber) => (
+              <Link
+                key={pageNumber}
+                href={blogPageHref(pageNumber)}
+                className={cn(
+                  'flex h-10 w-10 items-center justify-center rounded-full border text-sm transition-colors',
+                  pageNumber === currentPage
+                    ? 'border-accent bg-accent text-white'
+                    : 'border-border-subtle text-foreground-secondary hover:border-accent/40 hover:text-accent'
+                )}
+                aria-current={pageNumber === currentPage ? 'page' : undefined}
+              >
+                {pageNumber}
+              </Link>
+            ))}
+          </div>
 
-          <button
-            onClick={() => setPage((p) => Math.min(totalPages - 1, p + 1))}
-            disabled={page === totalPages - 1}
+          <Link
+            href={nextPageHref}
             className={cn(
               'p-2 rounded-full border transition-all duration-300',
-              page === totalPages - 1
+              currentPage === totalPages
                 ? 'border-border-subtle text-foreground-secondary/30 cursor-default'
                 : 'border-accent/40 text-accent hover:bg-accent/5 hover:translate-x-0.5'
             )}
             aria-label="Next page"
+            aria-disabled={currentPage === totalPages}
+            tabIndex={currentPage === totalPages ? -1 : 0}
           >
             <ChevronRight size={20} strokeWidth={1.5} />
-          </button>
+          </Link>
         </div>
       )}
     </>

@@ -9,10 +9,11 @@ import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/Button';
 
 const navLinks = [
-  { name: 'Home', href: '/' },
+  { name: 'Services', href: '/services' },
+  { name: 'Areas', href: '/locations' },
   { name: 'Portfolio', href: '/portfolio' },
   { name: 'Resources', href: '/resources', hasDropdown: true },
-  { name: 'Contact', href: '/contact' },
+  { name: 'About', href: '/about' },
 ];
 
 const resourceColumns = [
@@ -144,7 +145,7 @@ export default function Navbar() {
           </Link>
 
           {/* Desktop Nav */}
-          <nav className="hidden md:flex items-center gap-10">
+          <nav className="hidden md:flex items-center gap-8">
             {navLinks.map((link) =>
               link.hasDropdown ? (
                 <div
@@ -351,9 +352,23 @@ export default function Navbar() {
                           >
                             <div className="flex flex-col items-center gap-4 pt-4">
                               <Link
-                                href="/resources"
+                                href="/services"
                                 onClick={() => setIsMobileMenuOpen(false)}
                                 className="text-lg text-accent font-medium transition-colors"
+                              >
+                                Services
+                              </Link>
+                              <Link
+                                href="/locations"
+                                onClick={() => setIsMobileMenuOpen(false)}
+                                className="text-lg text-foreground-secondary hover:text-accent transition-colors font-light"
+                              >
+                                Service Areas
+                              </Link>
+                              <Link
+                                href="/resources"
+                                onClick={() => setIsMobileMenuOpen(false)}
+                                className="text-lg text-foreground-secondary hover:text-accent transition-colors font-light"
                               >
                                 All Resources
                               </Link>
