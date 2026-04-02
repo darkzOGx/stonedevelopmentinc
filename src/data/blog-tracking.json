@@ -143,15 +143,77 @@
       "format": 3,
       "primaryKeyword": "second story addition newport beach",
       "hubParent": "home-additions-guide-orange-county"
+    },
+    {
+      "id": 23,
+      "slug": "laguna-beach-whole-home-renovation-coastal-2026",
+      "title": "Whole-Home Renovation in Laguna Beach: Costs, Coastal Challenges & What to Expect in 2026",
+      "date": "2026-04-01",
+      "category": "Full Home Renovation",
+      "contentType": "cluster",
+      "targetCities": ["Laguna Beach"],
+      "format": 4,
+      "primaryKeyword": "whole home renovation laguna beach",
+      "hubParent": "whole-home-renovation-orange-county-2026"
+    },
+    {
+      "id": 24,
+      "slug": "custom-home-builder-orange-county-2026-guide",
+      "title": "Custom Home Builder Orange County: The 2026 Planning & Cost Guide",
+      "date": "2026-04-01",
+      "category": "Custom Homes",
+      "contentType": "hub",
+      "targetCities": ["Orange County"],
+      "format": 1,
+      "primaryKeyword": "custom home builder orange county",
+      "hubParent": null
+    },
+    {
+      "id": 25,
+      "slug": "hiring-contractor-orange-county-2026-checklist",
+      "title": "How to Hire a General Contractor in Orange County: The 2026 Checklist",
+      "date": "2026-04-01",
+      "category": "Hiring a Contractor",
+      "contentType": "hub",
+      "targetCities": ["Orange County"],
+      "format": 5,
+      "primaryKeyword": "hiring a contractor orange county",
+      "hubParent": null
+    },
+    {
+      "id": 26,
+      "slug": "adu-construction-laguna-niguel-hoa-2026",
+      "title": "ADU Construction in Laguna Niguel: HOA Rules, Hillside Lots & 2026 Costs",
+      "date": "2026-04-01",
+      "category": "ADU Construction",
+      "contentType": "cluster",
+      "targetCities": ["Laguna Niguel"],
+      "format": 6,
+      "primaryKeyword": "adu construction laguna niguel",
+      "hubParent": "adu-construction-orange-county-2026-guide"
+    },
+    {
+      "id": 27,
+      "slug": "bathroom-remodel-laguna-beach-coastal-luxury-2026",
+      "title": "Bathroom Remodel in Laguna Beach: Coastal Luxury Done Right (2026)",
+      "date": "2026-04-01",
+      "category": "Bathroom Remodeling",
+      "contentType": "cluster",
+      "targetCities": ["Laguna Beach"],
+      "format": 2,
+      "primaryKeyword": "bathroom remodel laguna beach",
+      "hubParent": "bathroom-remodeling-guide-orange-county"
     }
   ],
-  "lastGenerated": "2026-03-31T12:00:00.000Z",
+  "lastGenerated": "2026-04-01T12:00:00.000Z",
   "topicCoverage": {
     "Kitchen Remodeling": 6,
-    "ADU Construction": 3,
-    "Bathroom Remodeling": 5,
+    "ADU Construction": 4,
+    "Bathroom Remodeling": 6,
     "Home Additions": 5,
-    "Full Home Renovation": 1
+    "Full Home Renovation": 2,
+    "Custom Homes": 1,
+    "Hiring a Contractor": 1
   },
   "cityCoverage": {
     "Irvine": 4,
@@ -161,17 +223,21 @@
     "Huntington Beach": 3,
     "Lake Forest": 1,
     "Tustin": 1,
-    "Orange County": 5
+    "Orange County": 8,
+    "Laguna Beach": 2,
+    "Laguna Niguel": 1
   },
   "formatRotation": {
-    "lastUsed": 3,
-    "history": [4, 6, 3, 5, 1, 1, 2, 2, 2, 1, 2, 3]
+    "lastUsed": 2,
+    "history": [4, 6, 3, 5, 1, 1, 2, 2, 2, 1, 2, 3, 4, 1, 5, 6, 2]
   },
   "clusterProgress": {
     "kitchen-remodeling-orange-county-2026-guide": 5,
-    "adu-construction-orange-county-2026-guide": 2,
-    "bathroom-remodeling-guide-orange-county": 4,
+    "adu-construction-orange-county-2026-guide": 3,
+    "bathroom-remodeling-guide-orange-county": 5,
     "home-additions-guide-orange-county": 4,
-    "whole-home-renovation-orange-county-2026": 0
+    "whole-home-renovation-orange-county-2026": 1,
+    "custom-home-builder-orange-county-2026-guide": 0,
+    "hiring-contractor-orange-county-2026-checklist": 0
   }
 }
