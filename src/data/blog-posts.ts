@@ -8728,4 +8728,832 @@ export const BLOG_POSTS: BlogPost[] = [
     mergeTarget: null,
     lastGscReview: null,
   },
+  {
+    id: 28,
+    slug: "kitchen-remodel-mission-viejo-2026",
+    title: "Kitchen Remodel in Mission Viejo: 2026 Cost, Timeline & Tract-Home Playbook",
+    metaTitle: "Kitchen Remodel Mission Viejo 2026 | Cost, Permits, Timeline",
+    metaDescription:
+      "Mission Viejo kitchen remodels cost $35K-$130K+ in 2026. Tract-home layouts, permit timelines, HOA tips for Aegean Hills, Casta del Sol & more. (949) 508-6763.",
+    excerpt:
+      "Mission Viejo kitchens sit on a finite set of tract-home floor plans — and that shapes everything from cabinet sizing to load-bearing wall removal. Here is the 2026 cost, timeline, and permit breakdown Mission Viejo homeowners actually need.",
+    content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Mission Viejo homeowners live in one of the most predictable housing stocks in Orange County. The vast majority of homes in Aegean Hills, Casta del Sol, Deane Homes, Mission Ridge, and Madrid del Lago were built between 1966 and 1995 on a tight rotation of floor plans, and nearly every kitchen in the city shares the same two or three structural problems: a load-bearing wall between the kitchen and family room, an undersized window over the sink, and original cabinetry sitting on 1970s 8-foot ceilings. Solving those three issues well is what separates a $45,000 refresh from a $120,000 renovation that genuinely opens the home.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. (CA License #1146382) has remodeled kitchens across every Mission Viejo community from our Irvine office at 1 Jenner Suite 150. This guide reflects 2026 labor and material pricing, current City of Mission Viejo permit timelines, and the HOA submittal quirks we see in Lake Mission Viejo-adjacent communities.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">A kitchen remodel in Mission Viejo costs $35,000 to $130,000+ in 2026. Most homeowners spend $55,000\u2013$85,000 for a full mid-range renovation with new cabinets, quartz counters, updated appliances, recessed lighting, and removal of the wall between the kitchen and family room. Timeline runs 8\u201312 weeks once permits are issued. Mission Viejo building permits typically take 3\u20135 weeks for a kitchen with structural changes.</p>
+</div>
+
+<p>Ready to plan your Mission Viejo kitchen remodel? <a href="/contact?service=kitchen-remodel" style="color: #B8892A; font-weight: 600;">Get a free estimate</a> or call us at <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Mission Viejo Kitchen Remodel Cost by Tier (2026)</h2>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Tier</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Scope</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Refresh</td>
+        <td style="padding: 0.75rem 1rem;">$35,000\u2013$55,000</td>
+        <td style="padding: 0.75rem 1rem;">Cabinet refacing, new quartz counters, backsplash, appliances, lighting</td>
+        <td style="padding: 0.75rem 1rem;">4\u20136 weeks</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Mid-Range</td>
+        <td style="padding: 0.75rem 1rem;">$55,000\u2013$85,000</td>
+        <td style="padding: 0.75rem 1rem;">New semi-custom cabinets, quartz, tile, appliances, recessed lighting, minor layout tweaks</td>
+        <td style="padding: 0.75rem 1rem;">8\u201310 weeks</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Open Concept</td>
+        <td style="padding: 0.75rem 1rem;">$85,000\u2013$130,000+</td>
+        <td style="padding: 0.75rem 1rem;">Load-bearing wall removal, island, custom cabinets, premium appliances, new flooring throughout</td>
+        <td style="padding: 0.75rem 1rem;">10\u201314 weeks</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">The Load-Bearing Wall Problem (And Why It Is Almost Always Worth Solving)</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">In roughly 70% of the Mission Viejo kitchens we have worked on, the wall dividing the kitchen from the family room is load-bearing. Removing it requires an engineered beam (typically an LVL or steel flitch plate), new point loads to foundation, and a City of Mission Viejo structural permit. Costs run $8,000\u2013$18,000 depending on span and whether the second-story framing needs to transfer loads through the new beam.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">It is almost always worth it. The original 1970s and 80s floor plans produced closed-off kitchens that feel smaller than their actual square footage and are the single biggest drag on resale in Mission Viejo. Every open-concept conversion we have completed has closed above comps on the buyer side, usually by $40,000\u2013$70,000 \u2014 more than the full cost of the wall removal and beam work.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Mission Viejo Permits and HOA Submittals</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The City of Mission Viejo building department processes interior kitchen permits in 3\u20135 weeks for projects involving structural work, electrical upgrades, or gas line relocation. Cosmetic-only remodels (cabinets, counters, appliances without moving walls) do not require a permit but still need licensed electrical and plumbing work.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">If your home is in Casta del Sol, Palmia, or any other HOA community, you do not typically need HOA approval for interior kitchen work unless the project touches exterior windows, stucco, or HVAC venting visible from the outside. Confirm with your management company before demo.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Thinking About Opening Up Your Mission Viejo Kitchen?</h3>
+  <p style="margin-bottom: 1rem;">We will tell you in a 45-minute walkthrough whether your wall is load-bearing, what the beam solution looks like, and what the realistic budget is for your exact floor plan.</p>
+  <a href="/contact?service=kitchen-remodel" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Free Estimate</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What Mission Viejo Kitchens Need in 2026</h2>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Ceiling lift</strong> \u2014 Many original ceilings sit at 8 feet with soffits. Removing soffits and running cabinets to 9\u20139.5 feet transforms the feel for $3,500\u2013$8,000.</li>
+  <li><strong>Window enlargement</strong> \u2014 The original 36\" sink window is undersized. Enlarging to 48\u201372\" with a header upgrade runs $2,500\u2013$6,000 and dramatically improves daylighting.</li>
+  <li><strong>Recessed LED layout</strong> \u2014 Most tract kitchens have one center fixture. A proper 6\u20139 can layout with under-cabinet LED runs $1,800\u2013$3,500.</li>
+  <li><strong>Gas line capacity</strong> \u2014 If upgrading to a 36\" or 48\" range, the gas line often needs to be upsized from 1/2\" to 3/4\". Budget $600\u2013$1,400.</li>
+  <li><strong>Panel capacity</strong> \u2014 Homes with 100A panels may need an upgrade to 200A to support induction cooktops, double ovens, and EV charging. $3,500\u2013$6,500.</li>
+</ul>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">ROI in Mission Viejo: What the Market Rewards</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Mission Viejo\u2019s median home price sits around $1.1M in 2026. Buyers in this range expect updated kitchens as a baseline, and the market punishes outdated kitchens harshly \u2014 we regularly see $50,000\u2013$80,000 discounts on homes with original kitchens in otherwise comparable neighborhoods. A well-executed $70,000 mid-range remodel typically recovers 65\u201375% at resale within 5 years, and an open-concept conversion in an otherwise closed floor plan can recover 80%+ because it eliminates the comp penalty entirely.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Frequently Asked Questions</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How much does a kitchen remodel cost in Mission Viejo in 2026?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Mission Viejo kitchen remodels cost $35,000\u2013$130,000+ in 2026. Most homeowners spend $55,000\u2013$85,000 for a full mid-range renovation including new cabinets, quartz counters, appliances, lighting, and minor layout adjustments.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Do I need a permit for a kitchen remodel in Mission Viejo?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Yes, if the project involves moving walls, electrical upgrades, gas line changes, or plumbing relocation. Permit review takes 3\u20135 weeks. Pure cosmetic updates (cabinets and counters without moving anything) do not require a permit.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How long does a Mission Viejo kitchen remodel take?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Refresh projects take 4\u20136 weeks. Mid-range remodels run 8\u201310 weeks. Full open-concept conversions with load-bearing wall removal take 10\u201314 weeks from demo to final inspection.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Is it worth removing the wall between the kitchen and family room?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">In Mission Viejo tract homes, yes. The closed-off kitchen is the biggest comp penalty in the city, and open-concept conversions typically recover more than their full cost at resale. Expect $8,000\u2013$18,000 for the beam and structural work.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Will my Mission Viejo HOA block a kitchen remodel?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">No. Interior work is not subject to HOA review in Mission Viejo communities unless it touches exterior elements like windows, stucco, or venting. Always confirm with your management company first.</p>
+
+</article>`,
+    category: "Kitchen Remodeling" as const,
+    date: "2026-04-04",
+    lastUpdated: "2026-04-04",
+    readTime: "10 min read",
+    author: "Stone Development Inc.",
+    image: "/hero-still.jpg",
+    imageAlt:
+      "Open-concept kitchen remodel in a Mission Viejo tract home by Stone Development Inc.",
+    featured: false,
+    contentType: "cluster" as const,
+    hubPage: false,
+    relatedSlugs: [
+      "kitchen-remodeling-orange-county-2026-guide",
+      "kitchen-remodel-cost-irvine-2026",
+      "room-addition-myths-mission-viejo",
+      "lake-forest-kitchen-renovation-hoa-upgrades-2026",
+    ],
+    primaryKeyword: "kitchen remodel mission viejo",
+    secondaryKeywords: [
+      "mission viejo kitchen remodel cost 2026",
+      "mission viejo kitchen renovation",
+      "open concept kitchen mission viejo",
+      "load bearing wall removal mission viejo",
+      "mission viejo kitchen contractor",
+      "aegean hills kitchen remodel",
+    ],
+    targetCities: ["Mission Viejo"],
+    geoRadius: "tight" as const,
+    ctaServiceType: "kitchen-remodel",
+    faq: [
+      {
+        question: "How much does a kitchen remodel cost in Mission Viejo in 2026?",
+        answer:
+          "Mission Viejo kitchen remodels cost $35,000-$130,000+ in 2026. Most homeowners spend $55,000-$85,000 for a full mid-range renovation including new cabinets, quartz counters, appliances, lighting, and minor layout adjustments.",
+      },
+      {
+        question: "Do I need a permit for a kitchen remodel in Mission Viejo?",
+        answer:
+          "Yes, if the project involves moving walls, electrical upgrades, gas line changes, or plumbing relocation. Permit review takes 3-5 weeks. Pure cosmetic updates do not require a permit.",
+      },
+      {
+        question: "How long does a Mission Viejo kitchen remodel take?",
+        answer:
+          "Refresh projects take 4-6 weeks. Mid-range remodels run 8-10 weeks. Full open-concept conversions with load-bearing wall removal take 10-14 weeks from demo to final inspection.",
+      },
+      {
+        question: "Is it worth removing the wall between the kitchen and family room?",
+        answer:
+          "In Mission Viejo tract homes, yes. The closed-off kitchen is the biggest comp penalty in the city, and open-concept conversions typically recover more than their full cost at resale. Expect $8,000-$18,000 for beam and structural work.",
+      },
+      {
+        question: "Will my Mission Viejo HOA block a kitchen remodel?",
+        answer:
+          "No. Interior work is not subject to HOA review in Mission Viejo communities unless it touches exterior elements like windows, stucco, or venting. Always confirm with your management company first.",
+      },
+    ],
+    reviewQuotes: [],
+    gbpSummary:
+      "Stone Development Inc. remodels kitchens across Mission Viejo from our Irvine office. Tract-home specialists covering Aegean Hills, Casta del Sol, Deane Homes, Mission Ridge, Palmia, and Madrid del Lago. Refresh: $35K-$55K. Mid-range: $55K-$85K. Open-concept: $85K-$130K+. Licensed general contractor #1146382 with load-bearing wall removal and engineered beam work. City of Mission Viejo permit experience, 8-14 week timelines, HOA-compliant work. Free estimates. Call (949) 508-6763. Read more: https://www.stonedevelopmentinc.com/blog/kitchen-remodel-mission-viejo-2026",
+    indexPriority: 0.8,
+    noindex: false,
+    canonicalTo: null,
+    reviewAfterDays: 90,
+    reviewAfterImpressions: 300,
+    mergeTarget: null,
+    lastGscReview: null,
+  },
+  {
+    id: 29,
+    slug: "bathroom-remodel-costa-mesa-2026",
+    title: "Bathroom Remodel in Costa Mesa: 2026 Cost, Timeline & Mid-Century Playbook",
+    metaTitle: "Bathroom Remodel Costa Mesa 2026 | Cost, Permits, Timeline",
+    metaDescription:
+      "Costa Mesa bathroom remodels cost $18K-$95K+ in 2026. Mid-century plumbing, Eastside vs. Westside quirks, permits, timelines. Free estimate. (949) 508-6763.",
+    excerpt:
+      "Costa Mesa bathrooms live in two worlds: original 1950s Eastside ranches with galvanized plumbing and small footprints, and newer Mesa Verde and South Coast Metro homes with better bones. Here is the 2026 cost and timeline guide for both.",
+    content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Costa Mesa bathrooms are a tale of two eras. On the Eastside and in Mesa del Mar, most homes were built between 1950 and 1965 and still have galvanized steel supply lines, cast iron waste stacks, and original bathrooms with 5x7 footprints that were designed for families who considered one bathroom a luxury. On the west side of the 55, in Mesa Verde and South Coast Metro, homes from the 1970s and 80s have better plumbing but often still have dated finishes. Both groups benefit from a 2026 remodel, but the cost profiles look very different.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. (CA License #1146382) has remodeled bathrooms across Costa Mesa from our Irvine office at 1 Jenner Suite 150. This guide reflects current 2026 pricing, City of Costa Mesa permit realities, and the specific plumbing surprises we see on the Eastside that trip up contractors who have not worked the area before.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">A bathroom remodel in Costa Mesa costs $18,000 to $95,000+ in 2026. Guest bath remodels typically run $18,000\u2013$38,000, master bath remodels $38,000\u2013$75,000, and full master suite renovations with expansion $75,000\u2013$95,000+. Eastside homes with galvanized plumbing add $3,000\u2013$8,000 for line replacement. Timelines run 4\u201310 weeks depending on scope.</p>
+</div>
+
+<p>Ready to plan your Costa Mesa bathroom? <a href="/contact?service=bathroom-remodel" style="color: #B8892A; font-weight: 600;">Get a free estimate</a> or call <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Costa Mesa Bathroom Remodel Cost by Tier</h2>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Tier</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Scope</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Guest Bath</td>
+        <td style="padding: 0.75rem 1rem;">$18,000\u2013$38,000</td>
+        <td style="padding: 0.75rem 1rem;">Tub/shower, vanity, tile, fixtures, paint</td>
+        <td style="padding: 0.75rem 1rem;">4\u20136 weeks</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Master Bath</td>
+        <td style="padding: 0.75rem 1rem;">$38,000\u2013$75,000</td>
+        <td style="padding: 0.75rem 1rem;">Separate shower + tub, double vanity, custom tile, heated floor</td>
+        <td style="padding: 0.75rem 1rem;">7\u20139 weeks</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Master Suite Expansion</td>
+        <td style="padding: 0.75rem 1rem;">$75,000\u2013$95,000+</td>
+        <td style="padding: 0.75rem 1rem;">Footprint expansion, walk-in closet conversion, spa shower, freestanding tub</td>
+        <td style="padding: 0.75rem 1rem;">10\u201314 weeks</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">The Eastside Galvanized Plumbing Reality</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">If your Costa Mesa home was built before 1965 and still has its original supply lines, they are almost certainly galvanized steel \u2014 and they are on borrowed time. Galvanized pipes rust from the inside out, restricting flow and eventually leaking. When we open a wall during demo on an Eastside bathroom and find galvanized, we recommend replacing every accessible run back to the main. Skipping this step is the single most common reason bathrooms \"fail\" within 5\u201310 years of a remodel: the new tile, the new fixtures, the new vanity all look perfect, then a 60-year-old pipe behind the tile fails and the entire wall has to come back out.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Budget $3,000\u2013$8,000 for supply line replacement on an Eastside bathroom remodel. If the waste stack is cast iron and shows any corrosion at the connections, budget another $2,500\u2013$5,000 for partial replacement.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Costa Mesa Permits and Inspections</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The City of Costa Mesa building department processes bathroom permits in 2\u20134 weeks for standard remodels. A permit is required whenever you move fixtures, upgrade electrical circuits (required for any new GFCI-protected circuit), or change plumbing rough-ins. Inspections include rough plumbing, rough electrical, shower pan, and final. Plan for 4 separate inspection visits with 1\u20132 days between each.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Eastside or Mesa Verde?</h3>
+  <p style="margin-bottom: 1rem;">Your bathroom project will look different depending on which side of the 55 you live on. We will walk the site and give you a realistic, neighborhood-specific estimate.</p>
+  <a href="/contact?service=bathroom-remodel" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Free Estimate</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">What to Prioritize in a Costa Mesa Bathroom</h2>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Curbless showers</strong> \u2014 Popular for both aesthetics and aging-in-place. Add $1,500\u2013$3,500 over a standard shower pan due to floor framing modifications.</li>
+  <li><strong>Proper waterproofing</strong> \u2014 Schluter Kerdi or Laticrete Hydro Ban behind all tile. Non-negotiable. The $800\u2013$1,500 cost is dwarfed by the cost of a failure.</li>
+  <li><strong>Ventilation</strong> \u2014 Original Costa Mesa bathrooms often vented into the attic. Code now requires venting to exterior. Budget $500\u2013$1,200.</li>
+  <li><strong>Heated floors</strong> \u2014 A $1,800\u2013$3,500 add that homeowners rarely regret, particularly in master baths.</li>
+  <li><strong>Glass shower enclosures</strong> \u2014 Frameless 3/8\" or 1/2\" glass on a master bath runs $1,800\u2013$3,500 and delivers the biggest visual payoff of any single line item.</li>
+</ul>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Frequently Asked Questions</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How much does a bathroom remodel cost in Costa Mesa?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Costa Mesa bathroom remodels cost $18,000\u2013$95,000+ in 2026. Guest baths run $18K\u2013$38K, master baths $38K\u2013$75K, and suite expansions $75K\u2013$95K+. Eastside homes add $3K\u2013$8K for galvanized pipe replacement.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Do I need a permit to remodel a bathroom in Costa Mesa?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Yes, any bathroom remodel that moves plumbing, upgrades electrical, or changes fixture locations requires a City of Costa Mesa permit. Plan check takes 2\u20134 weeks.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Should I replace galvanized pipes during a Costa Mesa remodel?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Yes. If your Eastside home still has galvanized supply lines, replace every accessible run while the walls are open. The $3K\u2013$8K cost protects the rest of your remodel from an inside-out pipe failure.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How long does a Costa Mesa bathroom remodel take?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Guest bath: 4\u20136 weeks. Master bath: 7\u20139 weeks. Master suite expansion with footprint changes: 10\u201314 weeks. Add 2\u20134 weeks for permits before construction starts.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Can you expand a Costa Mesa master bath into an existing closet?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Yes, and this is one of the most common layout improvements we make. Converting an adjacent closet adds 20\u201340 square feet to the bathroom footprint and usually allows for a separate shower and tub. Budget $10,000\u2013$20,000 above the base bathroom cost.</p>
+
+</article>`,
+    category: "Bathroom Remodeling" as const,
+    date: "2026-04-04",
+    lastUpdated: "2026-04-04",
+    readTime: "9 min read",
+    author: "Stone Development Inc.",
+    image: "/hero-still.jpg",
+    imageAlt:
+      "Master bathroom remodel in a Costa Mesa Eastside mid-century home by Stone Development Inc.",
+    featured: false,
+    contentType: "cluster" as const,
+    hubPage: false,
+    relatedSlugs: [
+      "bathroom-remodeling-orange-county-2026-guide",
+      "bathroom-remodel-cost-irvine-2026-pricing-tiers",
+      "costa-mesa-kitchen-remodel-1950s-ranch-2026",
+      "adu-construction-costa-mesa-what-to-expect",
+    ],
+    primaryKeyword: "bathroom remodel costa mesa",
+    secondaryKeywords: [
+      "costa mesa bathroom remodel cost 2026",
+      "costa mesa bathroom contractor",
+      "eastside costa mesa bathroom renovation",
+      "mesa verde bathroom remodel",
+      "costa mesa galvanized pipe replacement",
+      "master bath remodel costa mesa",
+    ],
+    targetCities: ["Costa Mesa"],
+    geoRadius: "tight" as const,
+    ctaServiceType: "bathroom-remodel",
+    faq: [
+      {
+        question: "How much does a bathroom remodel cost in Costa Mesa?",
+        answer:
+          "Costa Mesa bathroom remodels cost $18,000-$95,000+ in 2026. Guest baths run $18K-$38K, master baths $38K-$75K, and suite expansions $75K-$95K+. Eastside homes add $3K-$8K for galvanized pipe replacement.",
+      },
+      {
+        question: "Do I need a permit to remodel a bathroom in Costa Mesa?",
+        answer:
+          "Yes, any bathroom remodel that moves plumbing, upgrades electrical, or changes fixture locations requires a City of Costa Mesa permit. Plan check takes 2-4 weeks.",
+      },
+      {
+        question: "Should I replace galvanized pipes during a Costa Mesa remodel?",
+        answer:
+          "Yes. If your Eastside home still has galvanized supply lines, replace every accessible run while the walls are open. The $3K-$8K cost protects the rest of your remodel from inside-out pipe failure.",
+      },
+      {
+        question: "How long does a Costa Mesa bathroom remodel take?",
+        answer:
+          "Guest bath 4-6 weeks, master bath 7-9 weeks, master suite expansion 10-14 weeks. Add 2-4 weeks for permits before construction starts.",
+      },
+      {
+        question: "Can you expand a Costa Mesa master bath into an existing closet?",
+        answer:
+          "Yes. Converting an adjacent closet adds 20-40 square feet and usually allows for a separate shower and tub. Budget $10,000-$20,000 above base bathroom cost.",
+      },
+    ],
+    reviewQuotes: [],
+    gbpSummary:
+      "Stone Development Inc. remodels bathrooms across Costa Mesa from our Irvine office. Covers Eastside, Mesa del Mar, Mesa Verde, South Coast Metro, and College Park. Guest bath: $18K-$38K. Master: $38K-$75K. Master suite expansion: $75K-$95K+. Mid-century plumbing specialists handling galvanized pipe replacement, cast iron waste stacks, and code-compliant ventilation upgrades. Licensed GC #1146382. City of Costa Mesa permit-ready. Free estimates. Call (949) 508-6763. Read more: https://www.stonedevelopmentinc.com/blog/bathroom-remodel-costa-mesa-2026",
+    indexPriority: 0.8,
+    noindex: false,
+    canonicalTo: null,
+    reviewAfterDays: 90,
+    reviewAfterImpressions: 300,
+    mergeTarget: null,
+    lastGscReview: null,
+  },
+  {
+    id: 30,
+    slug: "kitchen-remodel-tustin-old-town-2026",
+    title: "Kitchen Remodel in Tustin: Old Town, Tustin Ranch & Enderle Center Guide (2026)",
+    metaTitle: "Kitchen Remodel Tustin 2026 | Old Town, Tustin Ranch Costs",
+    metaDescription:
+      "Tustin kitchen remodels cost $30K-$120K+ in 2026. Old Town historic rules, Tustin Ranch HOA tips, permit timelines, costs by tier. (949) 508-6763.",
+    excerpt:
+      "A Tustin kitchen remodel looks completely different depending on whether you are in a 1920s Old Town bungalow or a 1990s Tustin Ranch home. Here are the 2026 costs, timelines, and permit realities for both.",
+    content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Tustin has two housing markets inside one city. Old Town Tustin, centered on El Camino Real and Main Street, is one of Orange County\u2019s oldest neighborhoods, with California bungalows, Spanish revivals, and Craftsman homes dating to the 1910s\u201340s. Many of these properties sit inside the Cultural Resources District, where exterior changes require Cultural Resources Advisory Committee (CRAC) review. Then there is Tustin Ranch and the Columbus Square/Tustin Legacy communities \u2014 1990s through 2010s master-planned homes with predictable floor plans and active HOAs.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">A kitchen remodel in these two Tustins costs very different money and involves very different regulatory paths. Stone Development Inc. (CA License #1146382) has worked both sides of the city from our Irvine office at 1 Jenner Suite 150. Here is what to expect in 2026.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">A kitchen remodel in Tustin costs $30,000 to $120,000+ in 2026. Old Town bungalows run $45,000\u2013$110,000 due to plaster repair, knob-and-tube rewiring, and character-matching cabinetry. Tustin Ranch kitchens run $40,000\u2013$95,000 with cleaner infrastructure but premium HOA-conscious finishes. Old Town interior kitchens do not require CRAC review unless exterior changes are involved.</p>
+</div>
+
+<p>Ready to start your Tustin kitchen project? <a href="/contact?service=kitchen-remodel" style="color: #B8892A; font-weight: 600;">Get a free estimate</a> or call <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Old Town Tustin Kitchen Remodel Costs</h2>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">Tier</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Scope</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Bungalow Refresh</td>
+        <td style="padding: 0.75rem 1rem;">$30,000\u2013$55,000</td>
+        <td style="padding: 0.75rem 1rem;">New cabinets (inset or Shaker), quartz or butcher block counters, subway tile, period-appropriate fixtures</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Old Town Mid-Range</td>
+        <td style="padding: 0.75rem 1rem;">$55,000\u2013$85,000</td>
+        <td style="padding: 0.75rem 1rem;">Custom cabinetry, lath and plaster repair, knob-and-tube rewiring of kitchen area, refinished original floors</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Historic Restoration + Expansion</td>
+        <td style="padding: 0.75rem 1rem;">$85,000\u2013$120,000+</td>
+        <td style="padding: 0.75rem 1rem;">Full custom, bumped-out nook, pantry addition, premium appliances, seismic retrofit of perimeter walls</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Old Town Realities: Plaster, Knob and Tube, and Foundation Surprises</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Old Town Tustin kitchens cost more than their Tustin Ranch equivalents for three specific reasons: lath and plaster walls, knob-and-tube wiring, and raised perimeter foundations that may need partial seismic work once opened up. None of these are insurmountable. All of them are invisible in a base estimate from a contractor who has not worked Old Town before and shows up on change orders. Our Old Town estimates assume these conditions exist and price them in from day one.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Tustin Ranch & Columbus Square Kitchen Costs</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Homes in Tustin Ranch, Columbus Square, Columbus Grove, and Tustin Legacy are infinitely easier to remodel than Old Town. Framing is consistent, electrical is modern, and plumbing is copper or PEX. The main cost driver is HOA expectations: these are well-kept communities where buyers expect premium finishes, and underbuilding will hurt resale.</p>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Refresh:</strong> $40,000\u2013$60,000</li>
+  <li><strong>Mid-range:</strong> $60,000\u2013$85,000</li>
+  <li><strong>Premium:</strong> $85,000\u2013$95,000+</li>
+</ul>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Old Town or Tustin Ranch?</h3>
+  <p style="margin-bottom: 1rem;">We price both. We have done both. We will tell you what is actually behind your walls before demo starts.</p>
+  <a href="/contact?service=kitchen-remodel" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Free Estimate</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Tustin Permits and CRAC Review</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Interior kitchen remodels in Tustin \u2014 including Old Town \u2014 do not require CRAC (Cultural Resources Advisory Committee) review. Standard City of Tustin building permits cover structural, electrical, plumbing, and mechanical work. Plan check runs 3\u20135 weeks. If your project adds exterior-visible elements (new window, skylight, bumped-out nook, stucco patches visible from the street), CRAC review adds 6\u201310 weeks and the design must respect the home\u2019s historic character. HOA review for Tustin Ranch kitchens is usually a 2\u20134 week turnaround if the project touches exterior elements.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Frequently Asked Questions</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How much does a kitchen remodel cost in Tustin?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Tustin kitchen remodels cost $30,000\u2013$120,000+ in 2026. Old Town bungalows run $45K\u2013$110K due to plaster and knob-and-tube work. Tustin Ranch kitchens run $40K\u2013$95K with modern infrastructure.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Does Old Town Tustin require historic review for a kitchen remodel?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Interior kitchen remodels do not require CRAC review. Only exterior-visible changes (new windows, skylights, bump-outs, stucco) trigger historic review, which adds 6\u201310 weeks.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">What surprises should Old Town owners budget for?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Lath and plaster walls, knob-and-tube wiring, and raised perimeter foundations that may need localized seismic work. A qualified contractor includes these conditions in the base estimate instead of surfacing them as change orders.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Do Tustin Ranch HOAs block kitchen remodels?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">No. Interior work is not typically subject to HOA review. Only exterior-visible changes (windows, stucco, HVAC venting) require submittal, with a 2\u20134 week turnaround.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How long does a Tustin kitchen remodel take?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Tustin Ranch mid-range remodels run 8\u201310 weeks. Old Town bungalow restorations run 10\u201314 weeks due to plaster and rewiring work. Add 3\u20135 weeks for permits.</p>
+
+</article>`,
+    category: "Kitchen Remodeling" as const,
+    date: "2026-04-04",
+    lastUpdated: "2026-04-04",
+    readTime: "10 min read",
+    author: "Stone Development Inc.",
+    image: "/hero-still.jpg",
+    imageAlt:
+      "Kitchen remodel in an Old Town Tustin California bungalow by Stone Development Inc.",
+    featured: false,
+    contentType: "cluster" as const,
+    hubPage: false,
+    relatedSlugs: [
+      "kitchen-remodeling-orange-county-2026-guide",
+      "kitchen-remodel-cost-irvine-2026",
+      "tustin-bathroom-remodel-old-town-vs-ranch-2026",
+      "luxury-kitchen-upgrades-that-pay-off-orange-county-2026",
+    ],
+    primaryKeyword: "kitchen remodel tustin",
+    secondaryKeywords: [
+      "old town tustin kitchen remodel",
+      "tustin ranch kitchen contractor",
+      "tustin kitchen renovation cost 2026",
+      "old town tustin historic kitchen",
+      "tustin legacy kitchen remodel",
+      "california bungalow kitchen tustin",
+    ],
+    targetCities: ["Tustin"],
+    geoRadius: "tight" as const,
+    ctaServiceType: "kitchen-remodel",
+    faq: [
+      {
+        question: "How much does a kitchen remodel cost in Tustin?",
+        answer:
+          "Tustin kitchen remodels cost $30,000-$120,000+ in 2026. Old Town bungalows run $45K-$110K due to plaster and knob-and-tube work. Tustin Ranch kitchens run $40K-$95K with modern infrastructure.",
+      },
+      {
+        question: "Does Old Town Tustin require historic review for a kitchen remodel?",
+        answer:
+          "Interior kitchen remodels do not require CRAC review. Only exterior-visible changes like new windows, skylights, bump-outs, or stucco trigger historic review, which adds 6-10 weeks.",
+      },
+      {
+        question: "What surprises should Old Town owners budget for?",
+        answer:
+          "Lath and plaster walls, knob-and-tube wiring, and raised perimeter foundations that may need localized seismic work. A qualified contractor prices these into the base estimate.",
+      },
+      {
+        question: "Do Tustin Ranch HOAs block kitchen remodels?",
+        answer:
+          "No. Interior work is not typically subject to HOA review. Only exterior-visible changes require submittal, with a 2-4 week turnaround.",
+      },
+      {
+        question: "How long does a Tustin kitchen remodel take?",
+        answer:
+          "Tustin Ranch mid-range remodels run 8-10 weeks. Old Town bungalow restorations run 10-14 weeks due to plaster and rewiring work. Add 3-5 weeks for permits.",
+      },
+    ],
+    reviewQuotes: [],
+    gbpSummary:
+      "Stone Development Inc. remodels kitchens across Tustin from our Irvine office. Dual expertise: Old Town historic bungalows (plaster, knob-and-tube, seismic work) and Tustin Ranch/Columbus Square HOA communities (premium finishes, modern infrastructure). Old Town: $30K-$120K+. Tustin Ranch: $40K-$95K+. Licensed GC #1146382. City of Tustin permit-ready, CRAC-familiar for exterior-visible work. Free estimates. Call (949) 508-6763. Read more: https://www.stonedevelopmentinc.com/blog/kitchen-remodel-tustin-old-town-2026",
+    indexPriority: 0.8,
+    noindex: false,
+    canonicalTo: null,
+    reviewAfterDays: 90,
+    reviewAfterImpressions: 300,
+    mergeTarget: null,
+    lastGscReview: null,
+  },
+  {
+    id: 31,
+    slug: "lake-forest-adu-guide-2026",
+    title: "ADU Construction in Lake Forest: 2026 Cost, Permits & HOA Guide",
+    metaTitle: "Lake Forest ADU Construction 2026 | Cost, Permits, HOA",
+    metaDescription:
+      "Lake Forest ADUs cost $140K-$380K+ in 2026. Baker Ranch, Foothill Ranch, Portola Hills HOA rights under AB 68/SB 13. Permits & rental ROI. (949) 508-6763.",
+    excerpt:
+      "Lake Forest is one of South Orange County\u2019s most HOA-heavy cities, and most homeowners assume that means no ADU. State law says otherwise. Here is the 2026 cost, permit, and HOA reality guide.",
+    content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Lake Forest is unusual among Orange County cities. Roughly 80% of its housing stock sits inside a homeowners association, from the original Baker Ranch and Lake Forest II communities through Foothill Ranch, Portola Hills, and the Parkside and Meadows master-planned neighborhoods. For decades this meant that ADUs were effectively off the table \u2014 CC&Rs prohibited accessory structures, and boards enforced those rules. That changed in 2020, and most Lake Forest homeowners have still not caught up to the fact that California law now overrides their HOA.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Stone Development Inc. (CA License #1146382) builds ADUs across Lake Forest from our Irvine office at 1 Jenner Suite 150. This guide covers what state law actually says, what the City of Lake Forest requires, what HOAs in Baker Ranch and Foothill Ranch can and cannot ask for, and what a realistic 2026 budget looks like for each ADU type.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">ADU construction in Lake Forest costs $140,000\u2013$380,000+ in 2026. HOAs in Baker Ranch, Foothill Ranch, Portola Hills, and every other Lake Forest community cannot prohibit ADUs under AB 68 and SB 13. They may impose reasonable architectural standards. City of Lake Forest permits take 8\u201312 weeks. Completed Lake Forest ADUs rent for $2,200\u2013$3,400/month.</p>
+</div>
+
+<p>Ready to explore an ADU on your Lake Forest property? <a href="/contact?service=adu" style="color: #B8892A; font-weight: 600;">Request a free site evaluation</a> or call <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Your Lake Forest HOA Cannot Say No</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Assembly Bill 68 and Senate Bill 13, both in effect since January 2020 and reinforced by subsequent legislation, prohibit California HOAs from unreasonably restricting ADU construction. Your CC&Rs may still say \"no accessory structures.\" Your board may cite the rule. State law supersedes both. This has been tested repeatedly in South Orange County and the state\u2019s position has held.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">What your HOA can do is impose reasonable architectural compatibility: matching stucco color, matching roof tile, consistent window style, and landscaping that blends with the community. In Baker Ranch this typically means a terra cotta or concrete tile roof and earth-tone exterior. In Foothill Ranch and Portola Hills the standards are similar. These are design decisions, not project-killers.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Lake Forest ADU Cost by Type (2026)</h2>
+
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="background: #141414; color: #F5F3EF;">
+        <th style="padding: 0.75rem 1rem; text-align: left;">ADU Type</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Size Cap</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Cost Range</th>
+        <th style="padding: 0.75rem 1rem; text-align: left;">Best For</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Detached</td>
+        <td style="padding: 0.75rem 1rem;">1,200 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$200,000\u2013$380,000+</td>
+        <td style="padding: 0.75rem 1rem;">Rental income, multi-gen, maximum separation</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Attached</td>
+        <td style="padding: 0.75rem 1rem;">1,200 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$150,000\u2013$280,000</td>
+        <td style="padding: 0.75rem 1rem;">Smaller lots, shared utilities</td>
+      </tr>
+      <tr style="background: #F5F3EF;">
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">Garage Conversion</td>
+        <td style="padding: 0.75rem 1rem;">Existing footprint</td>
+        <td style="padding: 0.75rem 1rem;">$95,000\u2013$175,000</td>
+        <td style="padding: 0.75rem 1rem;">Fastest path, lowest cost</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 1rem; font-weight: 600;">JADU</td>
+        <td style="padding: 0.75rem 1rem;">500 sq ft</td>
+        <td style="padding: 0.75rem 1rem;">$80,000\u2013$140,000</td>
+        <td style="padding: 0.75rem 1rem;">Interior conversion, owner-occupancy required</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Lake Forest Lot Realities</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Most Lake Forest lots run 5,000\u20138,000 square feet, with Foothill Ranch and Portola Hills trending larger and Baker Ranch and Lake Forest II trending smaller. State law guarantees detached ADUs a 4-foot rear/side setback regardless of the base zoning. On a typical 6,500 sq ft lot that means you can fit a 600\u2013800 sq ft detached ADU without touching existing landscaping in most cases. Garage conversions are popular because they avoid new foundation work and many Lake Forest tract homes have oversized 2- or 3-car garages.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">Is Your Lake Forest Lot ADU-Ready?</h3>
+  <p style="margin-bottom: 1rem;">We provide free on-site evaluations. We will tell you exactly what will fit, what your HOA can ask for, and what the realistic budget is \u2014 before you spend a dollar on design.</p>
+  <a href="/contact?service=adu" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Free Site Evaluation</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Lake Forest ADU Rental Economics</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Lake Forest rents well. Long-term rentals for a 1-bed, 1-bath 600\u2013800 sq ft ADU run $2,200\u2013$2,800/month in 2026. Two-bedroom detached ADUs at 900\u20131,200 sq ft rent for $2,900\u2013$3,400/month. On a $250,000 detached ADU, that\u2019s a gross yield of 10.6\u201316.3% \u2014 among the strongest real estate returns available in South Orange County when you factor in the property appreciation that ADUs have shown to deliver over primary homes without them.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Permits and Timeline</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">City of Lake Forest ADU permits take 8\u201312 weeks from submittal to issuance. Most projects require one round of plan check corrections (2\u20134 additional weeks). HOA architectural review, where required, runs in parallel and typically takes 3\u20136 weeks in Baker Ranch and Foothill Ranch. Total from design start to permit in hand: 16\u201322 weeks. Construction then runs 14\u201322 weeks depending on ADU type.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Frequently Asked Questions</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Can my Lake Forest HOA stop me from building an ADU?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">No. AB 68 and SB 13 prohibit HOAs from unreasonably restricting ADU construction. Baker Ranch, Foothill Ranch, Portola Hills, Lake Forest II, and every other Lake Forest HOA must allow ADUs, though they can require architectural compatibility.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How much does an ADU cost in Lake Forest in 2026?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Garage conversions run $95K\u2013$175K. JADUs $80K\u2013$140K. Attached ADUs $150K\u2013$280K. Detached ADUs $200K\u2013$380K+.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How long does the full Lake Forest ADU process take?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">16\u201322 weeks from design start to permit in hand, plus 14\u201322 weeks of construction. Most projects finish in 8\u201312 months total.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Can I rent out a Lake Forest ADU?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Yes, on long-term leases of 30 days or more. Short-term rentals are restricted by the city. JADUs require the owner to occupy either the main house or the JADU.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Does a garage conversion ADU need replacement parking in Lake Forest?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Under state law, no replacement parking is required for a converted garage ADU if the property is within 1/2 mile of public transit. For properties outside that buffer, check with City of Lake Forest planning. Most Lake Forest lots have driveway space to accommodate replacement parking regardless.</p>
+
+</article>`,
+    category: "ADU Construction" as const,
+    date: "2026-04-04",
+    lastUpdated: "2026-04-04",
+    readTime: "11 min read",
+    author: "Stone Development Inc.",
+    image: "/hero-still.jpg",
+    imageAlt:
+      "Detached ADU in a Lake Forest HOA community by Stone Development Inc.",
+    featured: false,
+    contentType: "cluster" as const,
+    hubPage: false,
+    relatedSlugs: [
+      "adu-construction-orange-county-2026-guide",
+      "adu-builder-irvine-permit-cost-2026",
+      "adu-construction-laguna-niguel-hoa-2026",
+      "lake-forest-kitchen-renovation-hoa-upgrades-2026",
+    ],
+    primaryKeyword: "adu lake forest",
+    secondaryKeywords: [
+      "lake forest adu cost 2026",
+      "baker ranch adu permit",
+      "foothill ranch adu hoa",
+      "portola hills adu construction",
+      "lake forest garage conversion adu",
+      "lake forest detached adu builder",
+    ],
+    targetCities: ["Lake Forest"],
+    geoRadius: "tight" as const,
+    ctaServiceType: "adu",
+    faq: [
+      {
+        question: "Can my Lake Forest HOA stop me from building an ADU?",
+        answer:
+          "No. AB 68 and SB 13 prohibit HOAs from unreasonably restricting ADU construction. Baker Ranch, Foothill Ranch, Portola Hills, and every other Lake Forest HOA must allow ADUs, though they can require architectural compatibility.",
+      },
+      {
+        question: "How much does an ADU cost in Lake Forest in 2026?",
+        answer:
+          "Garage conversions run $95K-$175K. JADUs $80K-$140K. Attached ADUs $150K-$280K. Detached ADUs $200K-$380K+.",
+      },
+      {
+        question: "How long does the full Lake Forest ADU process take?",
+        answer:
+          "16-22 weeks from design start to permit in hand, plus 14-22 weeks of construction. Most projects finish in 8-12 months total.",
+      },
+      {
+        question: "Can I rent out a Lake Forest ADU?",
+        answer:
+          "Yes, on long-term leases of 30 days or more. Short-term rentals are restricted by the city. JADUs require the owner to occupy either the main house or the JADU.",
+      },
+      {
+        question: "Does a garage conversion ADU need replacement parking in Lake Forest?",
+        answer:
+          "Under state law, no replacement parking is required for a converted garage ADU if the property is within 1/2 mile of public transit. For properties outside that buffer, check with City of Lake Forest planning.",
+      },
+    ],
+    reviewQuotes: [],
+    gbpSummary:
+      "Stone Development Inc. builds ADUs in Lake Forest from our Irvine office. HOA-heavy city specialists covering Baker Ranch, Foothill Ranch, Portola Hills, Lake Forest II, Parkside, and Meadows. Detached: $200K-$380K+. Attached: $150K-$280K. Garage conversion: $95K-$175K. JADU: $80K-$140K. California AB 68/SB 13 expertise overriding HOA restrictions. Licensed GC #1146382. Free site evaluations. Call (949) 508-6763. Read more: https://www.stonedevelopmentinc.com/blog/lake-forest-adu-guide-2026",
+    indexPriority: 0.8,
+    noindex: false,
+    canonicalTo: null,
+    reviewAfterDays: 90,
+    reviewAfterImpressions: 300,
+    mergeTarget: null,
+    lastGscReview: null,
+  },
+  {
+    id: 32,
+    slug: "damage-restoration-orange-county-2026",
+    title: "Water, Fire & Storm Damage Restoration in Orange County: 2026 Homeowner Guide",
+    metaTitle: "Damage Restoration Orange County 2026 | Water, Fire & Storm",
+    metaDescription:
+      "Orange County damage restoration guide: water, fire, storm & mold remediation. Costs, insurance claims, timelines, contractor selection. (949) 508-6763.",
+    excerpt:
+      "When water, fire, or storm damage hits an Orange County home, the first 48 hours determine whether you end up with a clean restoration or a year-long nightmare. Here is what homeowners actually need to know in 2026.",
+    content: `<article class="blog-post">
+
+<p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">Orange County homes take damage from a surprising variety of sources. Winter storms in January and February drive roof leaks and slope failures in hillside communities. Aging galvanized and polybutylene plumbing fails suddenly in older tract homes across Costa Mesa, Garden Grove, and Fullerton. Kitchen grease fires, dryer vent fires, and electrical fires happen year-round. And the 2025\u20132026 wildfire season reinforced what every South County homeowner already knew: ember intrusion and smoke damage reach homes well outside the direct burn zone.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">What homeowners are almost never prepared for is how much happens in the first 48 hours after damage occurs, how quickly that window closes, and how the decisions made in that period affect both the insurance claim and the final restoration cost. Stone Development Inc. (CA License #1146382) handles full-scope damage restoration across Orange County from our Irvine office at 1 Jenner Suite 150 \u2014 not just remediation, but the reconstruction that follows, which is where most homeowners get trapped between a remediation company and a general contractor who do not talk to each other.</p>
+
+<div class="answer-capsule" style="background: #F5F3EF; border-left: 4px solid #B8892A; padding: 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+  <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; color: #141414; margin-bottom: 0.5rem;">Quick Answer</p>
+  <p style="color: #141414; line-height: 1.7;">Damage restoration in Orange County typically costs $8,000\u2013$150,000+ depending on type and scope. Small water losses (one bathroom, one bedroom) run $8,000\u2013$25,000. Major water losses affecting multiple rooms run $35,000\u2013$80,000. Fire and smoke damage restoration starts at $50,000 and climbs to $200,000+ for whole-home events. Insurance typically covers sudden and accidental damage; act within 48 hours and document everything.</p>
+</div>
+
+<p>Dealing with damage right now? <a href="/contact?service=restoration" style="color: #B8892A; font-weight: 600;">Request emergency response</a> or call us directly at <a href="tel:+19495086763" style="color: #B8892A; font-weight: 600;">(949) 508-6763</a>.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">The First 48 Hours</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">What you do in the first two days after damage occurs has an outsized effect on outcome. For water damage, drying has to start within 24 hours or mold begins to take hold in drywall, framing, and insulation. For fire damage, smoke and soot become acidic and start etching surfaces within hours. For storm damage, unsecured openings continue to let weather and pests in. Here is the order of operations:</p>
+
+<ul style="line-height: 2; margin-bottom: 1.5rem; padding-left: 1.5rem;">
+  <li><strong>Safety first</strong> \u2014 Shut off electrical at the panel if water has reached outlets or fixtures. Shut off gas if fire or heat has reached appliances.</li>
+  <li><strong>Stop the source</strong> \u2014 Main water shutoff, roof tarp, or temporary board-up.</li>
+  <li><strong>Document everything</strong> \u2014 Photo and video every affected surface, every item, every angle. Do this before any cleanup begins. This is what the insurance adjuster will rely on.</li>
+  <li><strong>Call your insurer</strong> \u2014 File the claim the same day. Get a claim number in writing.</li>
+  <li><strong>Begin mitigation</strong> \u2014 Water extraction, drying equipment, soot removal. Your policy obligates you to mitigate further damage; failure to do so can reduce your payout.</li>
+</ul>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Water Damage in Orange County</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Water is by far the most common damage type we see in Orange County homes. The usual culprits are supply line failures (washing machine hoses, ice maker lines, toilet angle stops), water heater ruptures, slab leaks in older copper lines, and winter storm roof leaks. A single supply line failure that runs overnight can damage 600\u20131,200 square feet of flooring, baseboard, drywall, and cabinetry.</p>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Water damage is categorized by the IICRC into Category 1 (clean water), Category 2 (gray water \u2014 dishwashers, washing machines), and Category 3 (black water \u2014 sewage, flooding). Each category requires different remediation scope and equipment. Category 3 always requires full removal of affected porous materials. Category 1 can often be dried in place if caught quickly.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Fire and Smoke Damage</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Fire damage brings three distinct problems: structural damage from the fire itself, smoke and soot infiltration into surfaces the fire did not touch, and water damage from firefighting efforts. Restoration scope typically covers all three. Smoke removal alone, on a home where the actual fire was contained to one room, runs $25,000\u2013$60,000 because it requires HEPA cleaning of every surface, sealing of framing, and replacement of porous materials (insulation, drywall, carpet) that absorbed smoke odor.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Mold Remediation</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Mold follows water damage when drying is delayed or incomplete. By the time homeowners see visible mold or smell it, there is typically significantly more hidden inside wall cavities and under flooring. Proper remediation requires containment (plastic sheeting with negative air pressure), removal of all affected porous materials, HEPA cleaning, and post-remediation verification by a third-party industrial hygienist. Costs run $3,500\u2013$30,000+ depending on affected square footage.</p>
+
+<div class="cta-block" style="background: #141414; color: #F5F3EF; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+  <h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; color: #B8892A; margin-bottom: 0.75rem;">One Team, Full Restoration</h3>
+  <p style="margin-bottom: 1rem;">Stone Development Inc. handles emergency response, remediation, insurance coordination, and full reconstruction under one license. You deal with one contractor, one schedule, and one warranty. No handoff between remediation and rebuild.</p>
+  <a href="/contact?service=restoration" style="display: inline-block; background: #B8892A; color: #141414; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-right: 1rem;">Emergency Response</a>
+  <a href="tel:+19495086763" style="display: inline-block; border: 2px solid #B8892A; color: #B8892A; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Call (949) 508-6763</a>
+</div>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">The Insurance Claim Process</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Your homeowners policy almost certainly covers sudden and accidental damage. It does not cover gradual damage, neglected maintenance, or wear. The adjuster\u2019s job is to establish which category your loss falls into and write a scope of work. The most common problem homeowners face is an initial scope that is too narrow \u2014 for example, replacing only the wet portion of a laminate floor when the entire room needs to be replaced for pattern match, or replacing drywall without addressing hidden mold in the cavity. A qualified general contractor works directly with the adjuster to expand the scope where justified and document every supplement request with photos and industry standards.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Why One-Contractor Restoration Matters</h2>
+
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">The traditional path is: call a remediation company to rip out wet materials, then hire a separate general contractor to rebuild. It sounds simple and it produces disasters. The remediation company has no incentive to coordinate with the eventual rebuild, leaving homeowners with a rebuild scope that does not match the demo, hidden damage that was missed, and warranty gaps where responsibility shifts between two companies. A single licensed general contractor handling both phases eliminates those gaps and typically shortens total timeline by 3\u20138 weeks.</p>
+
+<h2 style="font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: #141414; margin: 2rem 0 1rem;">Frequently Asked Questions</h2>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How much does water damage restoration cost in Orange County?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Small single-room losses run $8,000\u2013$25,000. Multi-room losses $35,000\u2013$80,000. Whole-home water damage $80,000\u2013$150,000+. Cost depends on water category, affected square footage, and reconstruction scope.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Will my insurance cover damage restoration?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Most homeowners policies cover sudden and accidental damage, including burst pipes, storm damage, and fire. They do not cover gradual damage, deferred maintenance, or flood from surface water (requires separate flood policy). File the claim the same day damage occurs.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How fast should I act after water damage?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Drying has to begin within 24 hours to prevent mold. Document and file the claim immediately, but do not wait for the adjuster before starting mitigation \u2014 your policy obligates you to minimize further damage.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">Can the same contractor handle remediation and rebuild?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Yes, and it should. A single licensed general contractor handling both phases eliminates scope gaps between demo and rebuild, shortens timeline, and provides a single warranty across the entire project.</p>
+
+<h3 style="font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; color: #141414; margin-bottom: 0.5rem;">How long does full damage restoration take?</h3>
+<p style="line-height: 1.8; margin-bottom: 1.5rem;">Small water losses: 3\u20136 weeks. Multi-room water damage: 8\u201314 weeks. Fire and smoke restoration: 12\u201324 weeks depending on scope. Large whole-home reconstruction can take 6\u201312 months.</p>
+
+</article>`,
+    category: "Damage Restoration" as const,
+    date: "2026-04-04",
+    lastUpdated: "2026-04-04",
+    readTime: "12 min read",
+    author: "Stone Development Inc.",
+    image: "/hero-still.jpg",
+    imageAlt:
+      "Licensed general contractor performing water damage restoration in an Orange County home",
+    featured: false,
+    contentType: "hub" as const,
+    hubPage: true,
+    relatedSlugs: [
+      "hiring-contractor-orange-county-2026-checklist",
+      "whole-home-renovation-orange-county-2026",
+      "bathroom-remodeling-orange-county-2026-guide",
+      "kitchen-remodeling-orange-county-2026-guide",
+    ],
+    primaryKeyword: "damage restoration orange county",
+    secondaryKeywords: [
+      "water damage restoration orange county 2026",
+      "fire damage restoration orange county",
+      "storm damage repair orange county",
+      "mold remediation orange county",
+      "smoke damage cleanup orange county",
+      "orange county restoration contractor",
+    ],
+    targetCities: ["Orange County"],
+    geoRadius: "medium" as const,
+    ctaServiceType: "restoration",
+    faq: [
+      {
+        question: "How much does water damage restoration cost in Orange County?",
+        answer:
+          "Small single-room losses run $8,000-$25,000. Multi-room losses $35,000-$80,000. Whole-home water damage $80,000-$150,000+. Cost depends on water category, affected square footage, and reconstruction scope.",
+      },
+      {
+        question: "Will my insurance cover damage restoration?",
+        answer:
+          "Most homeowners policies cover sudden and accidental damage including burst pipes, storm damage, and fire. They do not cover gradual damage, deferred maintenance, or flood from surface water. File the claim the same day damage occurs.",
+      },
+      {
+        question: "How fast should I act after water damage?",
+        answer:
+          "Drying has to begin within 24 hours to prevent mold. Document and file the claim immediately, but do not wait for the adjuster before starting mitigation. Your policy obligates you to minimize further damage.",
+      },
+      {
+        question: "Can the same contractor handle remediation and rebuild?",
+        answer:
+          "Yes, and it should. A single licensed general contractor handling both phases eliminates scope gaps between demo and rebuild, shortens timeline, and provides a single warranty across the entire project.",
+      },
+      {
+        question: "How long does full damage restoration take?",
+        answer:
+          "Small water losses 3-6 weeks. Multi-room water damage 8-14 weeks. Fire and smoke restoration 12-24 weeks. Large whole-home reconstruction 6-12 months.",
+      },
+    ],
+    reviewQuotes: [],
+    gbpSummary:
+      "Stone Development Inc. handles full-scope damage restoration across Orange County from our Irvine office. Water, fire, storm, smoke, and mold remediation plus complete reconstruction under one license. Small water losses $8K-$25K. Major losses $35K-$150K+. Fire restoration $50K-$200K+. Insurance claim coordination, IICRC-standard remediation, and single-warranty rebuild. Licensed GC #1146382. 24/7 emergency response. Call (949) 508-6763. Read more: https://www.stonedevelopmentinc.com/blog/damage-restoration-orange-county-2026",
+    indexPriority: 0.82,
+    noindex: false,
+    canonicalTo: null,
+    reviewAfterDays: 90,
+    reviewAfterImpressions: 300,
+    mergeTarget: null,
+    lastGscReview: null,
+  },
 ];
